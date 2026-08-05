@@ -1,0 +1,22 @@
+name: Test Geektime Access
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test Geektime RSS Feed
+        run: |
+          echo "Testing Geektime RSS feed access..."
+          HTTP_CODE=$(curl -sL -o /tmp/feed.xml -w '%{http_code}' -A 'Mozilla/5.0' 'https://www.geektime.co.il/category/funding/feed/')
+          echo "HTTP Status: $HTTP_CODE"
+          if [ "$HTTP_CODE" = "200" ]; then
+            echo "SUCCESS - Geektime RSS feed is accessible from GitHub Actions"
+            echo "First 50 lines of feed:"
+            head -50 /tmp/feed.xml
+          else
+            echo "BLOCKED - Geektime returned HTTP $HTTP_CODE"
+            cat /tmp/feed.xml || true
+          fi
