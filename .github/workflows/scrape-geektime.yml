@@ -2,7 +2,7 @@ name: Scrape Geektime Funding RSS
 
 on:
   schedule:
-    - cron: '50 3 * * *'  # 6:50 AM IDT, 10 min before the venture digest runs
+    - cron: '0 2 * * *'  # 2:00 AM UTC — 2h buffer before the 4:03 UTC venture digest
   workflow_dispatch:
 
 permissions:
