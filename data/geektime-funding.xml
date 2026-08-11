@@ -12,7 +12,7 @@
 	<atom:link href="https://www.geektime.co.il/category/funding/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.geektime.co.il/category/funding/</link>
 	<description>גיקטיים - אתר הטכנולוגיה וההייטק של ישראל</description>
-	<lastBuildDate>Thu, 06 Aug 2026 11:26:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Aug 2026 12:46:00 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>&#034;הגביע הקדוש של התחום&#034;: יוצאי גוגל ו-8200 נחשפים עם גיוס Seed חריג</title>
+		<link>https://www.geektime.co.il/corma-comes-out-of-stealth-with-a-fancy-seed-round/</link>
+					<comments>https://www.geektime.co.il/corma-comes-out-of-stealth-with-a-fancy-seed-round/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 13:01:32 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Corma]]></category>
+		<category><![CDATA[קורמה]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[סייבר]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=589304</guid>
+
+					<description><![CDATA[<p>זה לא נדיר לראות מוצרי סייבר שמתגאים ביכולות AI שונות. ולא פעם, אכן נעשה שימוש במודלי שפה וביכולות שניתן לתאר היום כ-AI. אבל לרוב, מדובר במעטפות מוצריות על מודלים קיימים &#8211; בין אם הם של OpenAI או אנת'רופיק ובין אם אלו מודלים עם משקולות פתוחות דוגמת Kimi. אבל זה לא המקרה של Corma, סטארטאפ ישראלי [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/corma-comes-out-of-stealth-with-a-fancy-seed-round/">&quot;הגביע הקדוש של התחום&quot;: יוצאי גוגל ו-8200 נחשפים עם גיוס Seed חריג</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_589331" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-589331" class="size-large wp-image-589331" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/corma-team--1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/corma-team--1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/corma-team--300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/corma-team--768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/corma-team--398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/corma-team--793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/corma-team-.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-589331" class="wp-caption-text">הצוות של Corma | צילום: אבישג שאר ישוב</p></div>
+<p>זה לא נדיר לראות מוצרי סייבר שמתגאים ביכולות AI שונות. ולא פעם, אכן נעשה שימוש במודלי שפה וביכולות שניתן לתאר היום כ-AI. אבל לרוב, מדובר במעטפות מוצריות על מודלים קיימים &#8211; בין אם הם של OpenAI או אנת'רופיק ובין אם אלו מודלים עם משקולות פתוחות דוגמת Kimi. אבל זה לא המקרה של Corma, סטארטאפ ישראלי חדש, שנחשף היום והוקם על ידי ישראלים בהם יוצאי 8200 ו-DeepMind של גוגל, במטרה לאמן מודל בסיס מאפס. ה-endgame? לתת למגינים נשק שווה ערך מול הנשק של התוקפים, ועכשיו הם גם מגייסים לזה 60 מיליון דולר.</p>
+<h2>בדרך לגביע הקדוש של התחום?</h2>
+<p>&quot;היכולות של מודלי בסיס של מעבדות כמו OpenAI ו-Anthropic בסייבר התקפי התקדמו אקספוננציאלית, אבל היכולות שלהם בסייבר הגנתי נותרו מאחור&quot;, מסביר אלון פלודה, שותף-מייסד ומנכ&quot;ל Corma, בשיחה עם גיקטיים. לדבריו, הפער מאפשר לתוקפים לבצע תקיפות מקצה לקצה במהירות ומורכבות חסרות תקדים, בעוד המגינים נשרכים מאחור. &quot;המשימה של קורמה היא לסגור את הפער הזה ולוודא שהמגינים נשארים מנצחים&quot;.</p>
+<p>בקורמה פיתחו מודל בסיס (כלומר Foundation Model) שהוא, לטענתם, הראשון בעולם שמוקדש כולו להגנה. &quot;המודלים הכלליים נבנו כדי להיות מודלי שפה וקוד חזקים. סייבר התקפי מבוסס בדיוק על זה &#8211; הבנת קוד, מציאת באגים ושימוש בכלים&quot;, מסביר פלודה. לעומת זאת, סייבר הגנתי דורש ניתוח לוגים, טלמטריה וזרימות רשת, לצד יכולת מציאת מחט בערימת שחת, עקביות לאורך תהליכים ויכולות היסק שהמודלים הכלליים אינם מותאמים להן. &quot;כל אלה דורשים דאטה מתאים ותהליכי pre-training ו-post-training שנבנו במיוחד&quot;.</p>
+<p><strong>אנחנו רואים את היכולות שמציגות מעבדות ה-AI הגדולות, שעובדות על מודלים בתחומי הסייבר במקביל למודלים הכלליים. אתם לא חוששים שהם ייתרו אתכם?</strong></p>
+<p><strong>פלודה:</strong> &quot;כל המעבדות הגדולות מתמקדות בסייבר התקפי ובחולשות, שהם מאוד in-distribution עבור המודלים הכלליים. קורמה היא המעבדה הראשונה בעולם שמאמנת מודלי בסיס לסייבר הגנתי. המודלים של קורמה כבר היום טובים בסדר גודל במשימות סייבר הגנתי מהמודלים הגנריים, ויותר מזה &#8211; ככל שהמודלים הכלליים יהפכו לחזקים יותר, ככה היכולות שלהם בסייבר התקפי ימשיכו להשתפר אקספוננציאלית ומודלי הבסיס של קורמה רק יהיו יותר ויותר נחוצים&quot;.</p>
+<p>פלודה אומר כי המודל שעליו הם עובדים הוא הבסיס למה שהוא מכנה &quot;'הגביע הקדוש' של התחום&quot;. הוא אומר כי &quot;יכולת שעד לא מזמן נראתה כמו מדע בדיוני וכיום היא כבר בת-השגה: SuperIntelligence לסייבר הגנתי, שפועלת לצד צוותי האבטחה ומאפשרת להם להתמודד עם האיומים בקצב ובהיקף הנדרשים. לשם כך נדרשים מודלי בסיס ייעודיים, ואלה בדיוק המודלים שקורמה מפתחת &#8211; מודלי בסיס שנבנו מהיסוד כדי להעניק למגינים יכולות-על שעולות על אלו שמודלים כמו Mythos מעניקים לתוקפים&quot;.</p>
+<h2>סבב סיד חריג</h2>
+<p>הסטארטאפ <a href="https://gkt.me/corma-ai">Corma</a> (קורמה) נחשף היום (ב') עם גיוס Seed חריג בגובה 60 מיליון דולר בהובלת קרן Sequoia Capital והשותף <a href="https://www.geektime.co.il/tag/%D7%A9%D7%95%D7%9F-%D7%9E%D7%92%D7%95%D7%95%D7%99%D7%A8/">שון מגוייר</a>, לצד הקרנות Khosla Ventures ו-Coatue. על פי ההערכות, הגיוס הושלם על פי שווי של 250 מיליון דולר (אחרי הכסף).</p>
+<p>מאחורי החברה, שהוקמה ב-2025 ומעסיקה כ-20 עובדים, עומד אלון פלודה, בוגר תוכנית פסגות ושירות במחקר חולשות ב-8200. פלודה הקים את הסטארטאפ Miggo, פרש ממנו לאחר זמן קצר, ואז הקים את קורמה. בנוסף לפלודה, מציינים בחברה ש⁠צוות המייסדים הרחב של Corma כולל גם חוקרים יוצאי גוגל ו-DeepMind, חטיבת ה-AI של גוגל. עם זאת, בחברה מסרבים לחשוף את שמותיהם.</p>
+<p>The post <a href="https://www.geektime.co.il/corma-comes-out-of-stealth-with-a-fancy-seed-round/">&quot;הגביע הקדוש של התחום&quot;: יוצאי גוגל ו-8200 נחשפים עם גיוס Seed חריג</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/corma-comes-out-of-stealth-with-a-fancy-seed-round/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>מנכ&#034;ל שהוא גם העובד היחיד: הסטארטאפ שרוצה להפיל חברות SaaS ותיקות גייס 6 מיליון דולר</title>
 		<link>https://www.geektime.co.il/iaig-raises-6m-ai-venture-studio/</link>
 					<comments>https://www.geektime.co.il/iaig-raises-6m-ai-venture-studio/#comments</comments>
@@ -48,7 +85,7 @@
 					<description><![CDATA[<p>בשנים האחרונות עובר עולם ה-SaaS טלטלה בחסות מהפכת ה-AI. כתוצאה מזה, רצות חברות ענק להוסיף ולהטמיע רכיבי AI על גבי הארכיטקטורות והמוצרים הוותיקים שלהן. אבל מודל חדש מציע גישה שונה לחלוטין: הקמת חברות תוכנה רזות שנבנות מראש לעידן ה-AI ומנוהלות על ידי יזם בודד. מי שעומדת מאחורי התפיסה הזו היא חברת IAIG או Inevitable AI [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/iaig-raises-6m-ai-venture-studio/">מנכ&quot;ל שהוא גם העובד היחיד: הסטארטאפ שרוצה להפיל חברות SaaS ותיקות גייס 6 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_589420" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-589420" class="size-large wp-image-589420" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-1024x633.jpg" alt="" width="1024" height="633" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-1024x633.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-300x185.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-768x475.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-1536x949.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-793x490.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2.jpg 1681w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-589420" class="wp-caption-text">מייסדי IAIG: מימין, עופר בר-אור ונימרוד להבי. תמונה: IAIG</p></div>
+										<content:encoded><![CDATA[<div id="attachment_589420" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-589420" class="size-large wp-image-589420" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-1024x633.jpg" alt="" width="1024" height="633" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-1024x633.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-300x185.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-768x475.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-1536x949.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2-793x490.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/IAIG2.jpg 1681w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-589420" class="wp-caption-text">מייסדי IAIG: מימין, עופר בר-אור ונימרוד להבי. תמונה: IAIG</p></div>
 <p>בשנים האחרונות עובר עולם ה-SaaS טלטלה בחסות מהפכת ה-AI. כתוצאה מזה, רצות חברות ענק להוסיף ולהטמיע רכיבי AI על גבי הארכיטקטורות והמוצרים הוותיקים שלהן. אבל מודל חדש מציע גישה שונה לחלוטין: הקמת חברות תוכנה רזות שנבנות מראש לעידן ה-AI ומנוהלות על ידי יזם בודד.</p>
 <p>מי שעומדת מאחורי התפיסה הזו היא חברת IAIG או Inevitable AI Group, שפועלת במודל של Venture Studio ומטרגטת קטגוריות SaaS ותיקות שמגלגלות מאות מיליוני דולרים בשנה. היום (ה') מודיעה החברה על השלמת סבב גיוס פרה-סיד של 6 מיליון דולר בהובלת קרן Aleph ובהשתתפות אנג'לים מהתעשייה. מאחורי IAIG עומדים היזמים הסדרתיים נימרוד להבי ועופר בר-אור, שעבדו יחד ב-<a href="https://www.geektime.co.il/simplex-startup-review/">Simplex</a> עד למכירתה ב-300 מיליון דולר. בר-אור עמד בעבר גם מאחורי ParallelM שנרכשה על ידי DataRobot ו-UCnGO שנרכשה על ידי Emblaze.</p>
 <h2>יזם יחיד, עובד יחיד</h2>
@@ -118,7 +155,7 @@
 					<description><![CDATA[<p>עליית כלי ה-AI לא רק סייעה לכם לכתוב קוד או להורים שלכם לג'נרט ברכות מוזרות לחג, אלא גם מסייעת להפוך ילדי סקריפטים להאקרים מיומנים, ופרק הזמן שבין חשיפת החולשה לניצול שלה התקצר למינימום. אז הסטארטאפ הישראלי Oligo טוען שהוא יכול להגן עליכם, אבל לא סתם על ידי תיקון של חולשות, אלא על ידי הגנה בזמן [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/oligo-raises-60m/">אחרי שמצאו חולשות אצל אפל ומטא, הם מגייסים עוד 60 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_589246" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-589246" class="size-large wp-image-589246" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-1024x729.jpg" alt="" width="1024" height="729" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-1024x729.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-300x214.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-768x547.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-1536x1094.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-2048x1459.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-793x565.jpg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-589246" class="wp-caption-text">תמונה: Oligo</p></div>
+										<content:encoded><![CDATA[<div id="attachment_589246" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-589246" class="size-large wp-image-589246" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-1024x729.jpg" alt="" width="1024" height="729" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-1024x729.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-300x214.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-768x547.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-1536x1094.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-2048x1459.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/69a027bfd9af43493502f434_funnel-793x565.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-589246" class="wp-caption-text">תמונה: Oligo</p></div>
 <p>עליית כלי ה-AI לא רק סייעה לכם לכתוב קוד או להורים שלכם לג'נרט ברכות מוזרות לחג, אלא גם מסייעת להפוך ילדי סקריפטים להאקרים מיומנים, ופרק הזמן שבין חשיפת החולשה לניצול שלה התקצר למינימום. אז הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/oligo/">Oligo</a> טוען שהוא יכול להגן עליכם, אבל לא סתם על ידי תיקון של חולשות, אלא על ידי הגנה בזמן ריצה. ובשביל זה הוא מגייס עוד 60 מיליון דולר.</p>
 <h2>יכולים לחסום חולשות באפליקציה מבלי להשבית אותה</h2>
 <p>אוליגו מפתחת פלטפורמה המאפשרת ניתוח מעמיק של אפליקציות, ענן ומערכות AI בזמן ריצה, ללא צורך בגישה לקוד המקור, כדי לזהות חולשות אבטחה ולטפל בהן לפני שיהפכו לכאב ראש רציני לחברות שיצרו אותן. המערכת מסוגלת לבנות פרופיל התנהגות לכל ספריית קוד ולזהות אנומליות, כך שיהיה ניתן לעצור מתקפות פוטנציאליות. בכך, צוותי האבטחה והפיתוח יכולים להתמקד בחולשות המסוכנות באמת, במקום לנטר רק את התשתית או את הקוד באופן סטטי.</p>
@@ -688,7 +725,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.geektime.co.il/harmony-announces-34m-seed-round/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
@@ -1155,46 +1192,6 @@
 					
 					<wfw:commentRss>https://www.geektime.co.il/shai-morag-has-a-new-baby-after-3-exits/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>מבטיחים לחסל את נחילי הכטב&#034;מים: גיוס חריג לסטארטאפ ישראלי בן פחות משנה</title>
-		<link>https://www.geektime.co.il/skapion-seed-funding-drone-swarms/</link>
-					<comments>https://www.geektime.co.il/skapion-seed-funding-drone-swarms/#comments</comments>
-		
-		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
-		<pubDate>Thu, 09 Jul 2026 03:39:33 +0000</pubDate>
-				<category><![CDATA[דיפנס-טק]]></category>
-		<category><![CDATA[גיוסי הון ואקזיטים]]></category>
-		<category><![CDATA[כללי]]></category>
-		<category><![CDATA[סטארטאפ והון סיכון]]></category>
-		<category><![CDATA[סקפיון]]></category>
-		<category><![CDATA[Skapion]]></category>
-		<category><![CDATA[כטב"מ]]></category>
-		<category><![CDATA[סטארטאפ]]></category>
-		<category><![CDATA[גיוס הון]]></category>
-		<guid isPermaLink="false">https://www.geektime.co.il/?p=587271</guid>
-
-					<description><![CDATA[<p>המציאות הביטחונית של השנה האחרונה בישראל, עם איומי הכטב&#34;מים ונחילי הכטב&#34;מים מלבנון, מאיראן, עיראק ותימן, הוכיחה עד כמה שדה הקרב המודרני השתנה. מאז שנת 2022 ומלחמת רוסיה-אוקראינה, רחפנים וכטב&#34;מי תקיפה הפכו מיכולת טקטית ואיזוטרית מאוד לאיום קריטי של ממש על כוחות צבאיים, בסיסים ותשתיות קריטיות. וכשהם מופעלים בכמויות גדולות, הם גם מקשים על ההגנה והזיהוי, [&#8230;]</p>
-<p>The post <a href="https://www.geektime.co.il/skapion-seed-funding-drone-swarms/">מבטיחים לחסל את נחילי הכטב&quot;מים: גיוס חריג לסטארטאפ ישראלי בן פחות משנה</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="attachment_587277" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-587277" class="size-large wp-image-587277" src="https://cdn.geektime.co.il/wp-content/uploads/2026/07/DRONES-SWARM-1024x643.jpg" alt="" width="1024" height="643" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/07/DRONES-SWARM-1024x643.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/DRONES-SWARM-300x188.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/DRONES-SWARM-768x482.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/DRONES-SWARM-793x498.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/DRONES-SWARM.jpg 1481w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-587277" class="wp-caption-text">תמונה: גיקטיים, AI</p></div>
-<p>המציאות הביטחונית של השנה האחרונה בישראל, עם איומי הכטב&quot;מים ונחילי הכטב&quot;מים מלבנון, מאיראן, עיראק ותימן, הוכיחה עד כמה שדה הקרב המודרני השתנה. מאז שנת 2022 ומלחמת רוסיה-אוקראינה, רחפנים וכטב&quot;מי תקיפה הפכו מיכולת טקטית ואיזוטרית מאוד לאיום קריטי של ממש על כוחות צבאיים, בסיסים ותשתיות קריטיות. וכשהם מופעלים בכמויות גדולות, הם גם מקשים על ההגנה והזיהוי, וגם גורמים לצד המותקף להשתמש במיירטים יקרים נגד איומים זולים הרבה יותר.</p>
-<p>כדי לפתור את הכאב ראש הזה בדיוק, חברת הדיפנס-טק הישראלית <a href="https://www.geektime.co.il/tag/skapion/">Skapion</a> (סקפיון) מפתחת מערכת ייעודית להתמודדות עם נחילי כטב&quot;מים, ועכשיו היא נחשפת לראשונה ומכריזה על גיוס הון חריג בהיקפו של 36 מיליון דולר בסבב סיד.</p>
-<h2>זיהוי ויירוט בסקייל</h2>
-<p>סקפיון מפתחת את מה שהיא מכנה מערכת Native Counter Swarm, מערכת ניידת שפועלת מקצה לקצה ונועדה לזהות, ליירט ולנטרל נחילי איומים בהיקפים גדולים. בפועל, מדבר במערכת שיגור שיכולה לשגר עשרות מיירטים קטנים וזולים, מה שמאפשר השמדה של נחילי רחפנים או כטב&quot;מים שמשוגרים לעבר מטרה מסויימת.</p>
-<p>היתרון הגדול של הפיתוח טמון בכלכלת היירוטים, כאשר לפי החברה, העלות עומדת על פחות מ-10,000 דולר לכל מטרה &#8211; בניגוד למשל למיירט טמיר של כיפת ברזל שעלותו מתחילה ב-40 אלף דולר לטיל. בנוסף, עלות כזו חשובה כי היא עומדת על כמחצית מעלות שאהד 136, הכטב&quot;מ הנפוץ ביותר שנמצא בשימוש האיראנים, שמוערכת באיזור ה-20 אלף דולר ליחידה. כך ניתן להשיג משוואה חדשה שבה התקיפה יקרה יותר מההגנה.</p>
-<p style="direction: rtl;">בנוסף, המערכת מתוכננת להיות קטנה יחסית וניידת, כדי לעבוד כשכבת הגנה עצמאית ולשמש בסיסים קדמיים, כוחות מתמרנים בשטח ותשתיות, בניגוד למשל לסוללת &quot;כיפת ברזל&quot;. הטכנולוגיה של המערכת אמורה לאפשר לה לתפקד גם בתנאי מזג אוויר קשים ובסביבות שבהן התקשורת מוגבלת או לא קיימת, ממש כפי שראינו בזירות לחימה באוקראינה, במפרץ וקרוב אלינו.</p>
-<p>עדו בר-און, מייסד שותף ומנכ&quot;ל סקפיון, מסביר כי האתגר כיום כבר לא מסתכם ביכולת לזהות מטרה בודדת, אלא מול מאסות של כלים, &quot;השאלה כיום כבר אינה אם ניתן לזהות או לפגוע בכטב&quot;ם בודד, אלא האם צבאות מודרניים מסוגלים להתמודד עם נחילי איומים במהירות, בהיקף ובעלות הנדרשים בשדה הקרב החדש. סקפיון הוקמה כדי לתת מענה למציאות שבה איומים רבים מגיעים בו־זמנית ודורשים תגובה מהירה ואפקטיבית&quot;. לדברי בר-און, סבב הגיוס הנוכחי יאפשר לחברה להאיץ את פיתוח הטכנולוגיה, להרחיב את צוותי ההנדסה ולבנות את היכולות הנדרשות כדי להתמודד עם מה שהוא מכנה &quot;אחד מאתגרי הביטחון המרכזיים של העשור הקרוב&quot;. בחברה בונים על לוח זמנים שאפתני למדי של מערכת מבצעית לפני 2029.</p>
-<h2>שילוב של תעשיות בטחוניות וסטארטאפים</h2>
-<p>Skapion הוקמה בסוף שנת 2025 ומאחוריה עומד צוות מייסדים עם לא מעט ניסיון: הארכיטקט הראשי הוא פיני יונגמן, תת אלוף במילואים, שניהל בעבר את חטיבת מערכות ההגנה והטילים ברפאל והיה מעורב בפרויקטים כמו &quot;כיפת ברזל&quot; ו&quot;קלע דוד&quot;. לצידו נמצאים המנכ&quot;ל בר-און, סגן אלוף במילואים ביחידות מיוחדות, שהוביל בעבר פעילות בחברת XTEND; מנהל הטכנולוגיות גל גורן; צפריר יואלי ממייסדי חברת Enlight; והיזם ירון קרפ.</p>
-<p>את סבב הגיוס הנוכחי הובילו קרן Khosla Ventures, המוכרת בתור המשקיעה הראשונה של חברת OpenAI, וקרן UP Partners. בנוסף השתתפו המשקיעים המוקדמים של הסטארטאפ, בהם Fusion VC, Stratos Ventures, tbd vc וקרן qFund. סקפיון פועלת כיום ממטה בוושינגטון וממרכז פיתוח ברמת גן, ומונה למעלה מ-20 עובדים במגוון תחומי הנדסה, רובוטיקה ואוטונומיה.</p>
-<p>The post <a href="https://www.geektime.co.il/skapion-seed-funding-drone-swarms/">מבטיחים לחסל את נחילי הכטב&quot;מים: גיוס חריג לסטארטאפ ישראלי בן פחות משנה</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.geektime.co.il/skapion-seed-funding-drone-swarms/feed/</wfw:commentRss>
-			<slash:comments>8</slash:comments>
 		
 		
 			</item>
