@@ -12,7 +12,7 @@
 	<atom:link href="https://www.geektime.co.il/category/funding/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.geektime.co.il/category/funding/</link>
 	<description>גיקטיים - אתר הטכנולוגיה וההייטק של ישראל</description>
-	<lastBuildDate>Wed, 19 Aug 2026 12:55:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Aug 2026 13:21:34 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,41 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>הסטארטאפ הישראלי שמגן על אנת&#039;רופיק ו-NVIDIA גייס 140 מיליון דולר</title>
+		<link>https://www.geektime.co.il/israeli-startup-nvidia-anthropic-raises-140m-alice/</link>
+					<comments>https://www.geektime.co.il/israeli-startup-nvidia-anthropic-raises-140m-alice/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 13:29:54 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[alice]]></category>
+		<category><![CDATA[אליס]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=590514</guid>
+
+					<description><![CDATA[<p>מתקפות סייבר כוללות הרבה גורמים, אבל כדי להתגונן באמת חובה להבין קודם כל איך התוקף עצמו מתנהל. הסטארטאפ הישראלי Alice (לשעבר ActiveFence) אסף במשך שנים דאטה עצום על תוקפים ועל דרכי התקיפה שלהם, ועכשיו הוא נעזר במידע הזה כדי להגן על תשתיות ה-AI של כמה מהחברות הגדולות בעולם. &#34;לא רק למצוא חולשות, אלא להבין איך [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/israeli-startup-nvidia-anthropic-raises-140m-alice/">הסטארטאפ הישראלי שמגן על אנת&#039;רופיק ו-NVIDIA גייס 140 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_590531" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-590531" class="size-large wp-image-590531" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/alice-founders-1-1024x682.jpg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/alice-founders-1-1024x682.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/alice-founders-1-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/alice-founders-1-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/alice-founders-1-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/alice-founders-1-2048x1365.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/alice-founders-1-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/alice-founders-1-793x529.jpg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-590531" class="wp-caption-text">המייסדים של אליס | צילום: Eduardo Feldman</p></div>
+<p>מתקפות סייבר כוללות הרבה גורמים, אבל כדי להתגונן באמת חובה להבין קודם כל איך התוקף עצמו מתנהל. הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/alice/">Alice</a> (לשעבר <a href="https://www.geektime.co.il/tag/activefence/">ActiveFence</a>) אסף במשך שנים דאטה עצום על תוקפים ועל דרכי התקיפה שלהם, ועכשיו הוא נעזר במידע הזה כדי להגן על תשתיות ה-AI של כמה מהחברות הגדולות בעולם.</p>
+<h2 dir="rtl">&quot;לא רק למצוא חולשות, אלא להבין איך AI נכשל&quot;</h2>
+<p>&quot;אנחנו עונים על שאלה אחת: איך יודעים שמערכת AI לא תישבר, לא תנוצל לרעה, ולא תיהפך בעצמה לכלי ביד תוקף &#8211; גם לפני שהיא יוצאת לעולם וגם אחריה&quot;, מסביר בשיחה עם גיקטיים נועם שוורץ, מנכ&quot;ל ומייסד שותף ב-Alice. לדבריו שוורץ, החברה הוקמה במקור כדי לזהות מתקפות ופגיעות ברשתות חברתיות, כשהחל מ-2022 המאגר שלהם משרת את חברות המודלים הגדולות בהגנה מפני תקיפות ושימוש לרעה, בין אם מדובר בתקיפות זדוניות אנושיות או בהתנהגויות לא רצויות של המודל עצמו.</p>
+<p>לדברי שוורץ, שכבות ההגנה המובנות של מעבדות ה-AI הן רק קו הגנה ראשוני ולא פתרון אבטחה שלם שמתאים לארגונים, מכיוון שהן אינן מותאמות למדיניות, למותג או לרגולציה של כל חברה ספציפית. הפתרון של אליס מכסה את כל מחזור החיים של המערכת: מוצר אחד בודק ותוקף אותה לפני ההשקה כדי לאתר פרצות, מוצר שני מגן בזמן ריצה ומיירט קלט ופלט זדוני באופן כמעט מיידי, ומוצר שלישי ממשיך לבדוק את המערכת גם אחרי ההשקה. שלושת המוצרים הללו ניזונים ממנוע אחד מרכזי המבוסס על מאגר הנתונים של החברה, Rabbit Hole. &quot;היתרון שלנו הוא שלא מדובר בדאטה סינתטי או במיקור המונים, אלא בכמעט עשור של מחקר אמיתי ומיליארדי דוגמאות תקיפה אמיתיות בכ-120 שפות&quot;, מציין שוורץ.</p>
+<h2>פתרון משבר תוך שבוע</h2>
+<p>שוורץ מספר שלאורך השנים החברה סייעה ללקוחות רבים בקבלת החלטות קריטיות סביב שחרור מודלים ומוצרים חדשים. ההיכרות העמוקה עם המודלים ומדיניות השימוש, בשילוב הדאטה מהעולם האמיתי, מאפשרת לאליס לזהות סיכוני בטיחות שחברות לא מזהות לבד. כך למשל, לקוח של החברה מצא את עצמו בלב סערה תקשורתית חמורה בעקבות ליקויים במודל ששחרר ופנה לעזרה דחופה. &quot;בתוך 24 שעות בלבד פיתחנו פתרון אוטומטי המשולב בעבודת מומחי תוכן, וביצענו אלפי בדיקות שהביאו לפתרון הבעיה בתוך שבוע&quot;, חושף שוורץ. הוא מדגיש שמהות העבודה מול מעבדות ה-AI היא להבין כיצד המערכות נכשלות בעולם האמיתי ולתקן את הבעיות עוד לפני הגעתן למשתמשי הקצה.</p>
+<p>הסטארטאפ הוקם ב-2018 על ידי נועם שוורץ (המנכ&quot;ל), יפתח אור (CTO), אלון פורת (Chief Customer Officer) והנשיא אייל דיקן. אליס מעסיקה כיום כ-400 עובדים, רובם במרכז הפיתוח הישראלי והשאר בארצות הברית, וייטנאם ובריטניה. בין לקוחותיה של החברה ניתן למנות את אמזון, ByteDance (חברת האם של טיקטוק), אנבידיה, מטא, אנת'רופיק וגוגל. על פי נתוני החברה, היא מתקרבת ל-100 מיליון דולר בקצב הכנסות שנתיות חוזרות (ARR).</p>
+<h2>גיוס ענק של 140 מיליון דולר</h2>
+<p>היום (ג') מודיעה אליס על השלמת סבב גיוס ענק חדש בהיקף של 140 מיליון דולר. את הסבב הובילה קרן Apax Digital, והשתתפו בו חברות וקרנות בולטות כמו סמסונג, SentinelOne, Maj Invest, MoreTech ו-Phoenix. בנוסף, הצטרפו גם המשקיעים הקיימים של החברה בהם CRV, Grove, NVP, Highland, Vintage, Resolute, Claltech וקרן NFX של גיגי לוי-וייס. הסבב הנוכחי מביא את סך ההשקעות בחברה מאז הקמתה ל-280 מיליון דולר.</p>
+<p>The post <a href="https://www.geektime.co.il/israeli-startup-nvidia-anthropic-raises-140m-alice/">הסטארטאפ הישראלי שמגן על אנת&#039;רופיק ו-NVIDIA גייס 140 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/israeli-startup-nvidia-anthropic-raises-140m-alice/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>רשמית: הסטארטאפ At Bay נמכר ב-575 מיליון דולר</title>
 		<link>https://www.geektime.co.il/at-bay-sold-for-575m-exit/</link>
 					<comments>https://www.geektime.co.il/at-bay-sold-for-575m-exit/#comments</comments>
@@ -46,7 +81,7 @@
 					<description><![CDATA[<p>אחרי ההדלפה, מגיעה ההודעה הרשמית: ענקית הביטוח הגרמנית Munich Re רוכשת את סטארטאפ האינשורטק הישראלי At-Bay, שמתמחה בביטוחי סייבר ב-575 מיליון דולר. הסכום הזה משקף ירידת שווי לעומת שווי השיא של החברה ב-2021, אז היא הוערכה ב-1.35 מיליארד דולר. גם ביטוח גם סייבר אט-ביי הוקמה ב-2016 על ידי רותם אירם, רומן יצקוביץ', איתי הוכמן וטילי [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/at-bay-sold-for-575m-exit/">רשמית: הסטארטאפ At Bay נמכר ב-575 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_449100" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-449100" class="size-large wp-image-449100" src="https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-1024x827.jpg" alt="" width="1024" height="827" srcset="https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-1024x827.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-300x242.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-768x620.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-1536x1240.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-2048x1654.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-793x640.jpg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-449100" class="wp-caption-text">תמונה: At-Bay</p></div>
+										<content:encoded><![CDATA[<div id="attachment_449100" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-449100" class="size-large wp-image-449100" src="https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-1024x827.jpg" alt="" width="1024" height="827" srcset="https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-1024x827.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-300x242.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-768x620.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-1536x1240.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-2048x1654.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2021/07/At-Bay-1627386110-793x640.jpg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-449100" class="wp-caption-text">תמונה: At-Bay</p></div>
 <p>אחרי <a href="https://www.geektime.co.il/report-munich-re-acquires-at-bay/">ההדלפה</a>, מגיעה ההודעה הרשמית: ענקית הביטוח הגרמנית Munich Re רוכשת את סטארטאפ האינשורטק הישראלי <a href="https://www.geektime.co.il/tag/at-bay/">At-Bay</a>, שמתמחה בביטוחי סייבר ב-575 מיליון דולר. הסכום הזה משקף ירידת שווי <a href="https://www.geektime.co.il/at-bay-raises-185m-series-d/">לעומת שווי השיא של החברה ב-2021, אז היא הוערכה ב-1.35 מיליארד דולר</a>.</p>
 <h2>גם ביטוח גם סייבר</h2>
 <p>אט-ביי הוקמה ב-2016 על ידי רותם אירם, רומן יצקוביץ', איתי הוכמן וטילי קליסקי, והיא מציעה מודל שמשלב בין פוליסת ביטוח לאבטחת מידע אקטיבית. המוצר המרכזי של החברה כיום הוא פלטפורמת אבטחה בשם Stance, שמספקת לארגונים הגנה פרואקטיבית ומקיפה תחת קורת גג אחת. הפלטפורמה מציעה שירותי זיהוי ותגובה מנוהלים, שמנטרים את הרשת והמחשבים של הלקוחות מסביב לשעון, לצד יכולות מתקדמות של סריקות פגיעויות, ניטור של הדארקנט וסינון הודעות פישינג בעזרת מודלי AI.</p>
@@ -82,7 +117,7 @@
 <p>לא מעט ארגונים משלבים היום סוכני AI כדי לייעל תהליכים ולחסוך זמן במשימות שלהם, אבל מהר מאוד מגלים את כאב הראש האמיתי: חוסר שליטה על האייג'נטים, בעיות אבטחה ונעילה בתוך גן סגור של מודל אחד. סטארטאפ ישראלי חדש של יוצאי אמזון נחשף היום (ב') עם פתרון שמבטיח להחזיר את הכוח והגמישות לידיים של המשתמשים, ומגייס לזה 7.5 מיליון דולר.</p>
 <h2>מביאים את המומחיות מאמזון ל-AI</h2>
 <p>הסטארטאפ הישראלי <a href="https://gkt.me/xpander-ai">Xpander</a> פיתח פלטפורמה לניהול סוכנים עבור ארגונים, החל מניהול ההרשאות שלהם, החיבור שלהם לכל המערכות שהארגון צריך וניטור שלהם כדי לוודא שהכל פועל בצורה תקינה. &quot;בליבה נמצא מה שאנחנו קוראים לו Universal Harness: שכבת ריצה אגנוסטית לספק, שמריצה כל סוכן של כל Vendor בסביבה מרכזית שהארגון מחזיק&quot;, מסביר <strong>בשיחה עם גיקטיים</strong> דוד טויזר מנכ&quot;ל ומייסד שותף ב-Xpander.</p>
-<p><img decoding="async" class="aligncenter size-large wp-image-590075" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-1012x1024.jpg" alt="" width="1012" height="1024" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-1012x1024.jpg 1012w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-300x304.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-768x777.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-83x83.jpg 83w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-56x56.jpg 56w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-70x70.jpg 70w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-42x42.jpg 42w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-45x45.jpg 45w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-793x802.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8.jpg 1180w" sizes="(max-width: 1012px) 100vw, 1012px" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-590075" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-1012x1024.jpg" alt="" width="1012" height="1024" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-1012x1024.jpg 1012w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-300x304.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-768x777.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-83x83.jpg 83w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-56x56.jpg 56w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-70x70.jpg 70w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-42x42.jpg 42w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-45x45.jpg 45w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8-793x802.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/OmaK8gfS5X5XN4kxwaaJwldgJB8.jpg 1180w" sizes="auto, (max-width: 1012px) 100vw, 1012px" /></p>
 <p>טויזר מסביר כי המוצר של אקספנדר הוא סביבת Kubernetes שרצה בתוך התשתית הקיימת של הלקוח, בענן הפרטי שלו, on-prem או בענן של הסטארטאפ. &quot;בגלל שהסוכנים וה-sandboxes המקושרים שלהם רצים כקונטיינרים בקוברנטיס של הלקוח, הפלטפורמה עומדת בדרישות הסקיוריטי הקיימות שלו במקום להקים תשתית חדשה ולהעביר אותה עוד סבב אישורים&quot;, הוסיף.</p>
 <p>באקספנדר שמים דגש משמעותי על אבטחה, וספציפית על נושא הזהויות. כשסוכן ניגש למערכות של הארגון, הוא צריך להזדהות מול המודל ומערכות הקצה בתור המשתמש עצמו עם ההרשאות שלו, ולא באמצעות מפתח משותף. &quot;אצלנו זה עובד קצה לקצה, ולצד זה פרטי ההתחברות נשמרים ב-vault ומוזרקים רק ברגע קריאת הכלי, כך שהמודל אף פעם לא רואה סיקרט&quot;, מסביר טויזר ומוסיף כי כל ריצה מתבצעת בסביבה מבודדת, וכל פעולה מתועדת במלואה &#8211; כולל אישורים, כשלים ועלות למשימה.</p>
 <div id="attachment_577896" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-577896" class="wp-image-577896 size-large" src="https://cdn.geektime.co.il/wp-content/uploads/2026/02/TECH-OFFICE-STARTUP-1024x589.jpg" alt="" width="1024" height="589" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/02/TECH-OFFICE-STARTUP-1024x589.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/02/TECH-OFFICE-STARTUP-300x173.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/02/TECH-OFFICE-STARTUP-768x442.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/02/TECH-OFFICE-STARTUP-1536x883.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/02/TECH-OFFICE-STARTUP-793x456.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/02/TECH-OFFICE-STARTUP.jpg 1617w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-577896" class="wp-caption-text">תמונה: גיקטיים</p></div>
@@ -1149,39 +1184,6 @@
 					
 					<wfw:commentRss>https://www.geektime.co.il/cordant-comes-out-of-stealth-with-8m/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ה-GPS קפץ לביירות? הסטארטאפ שמנווט את צה&#034;ל גייס עכשיו 15 מיליון דולר</title>
-		<link>https://www.geektime.co.il/asio-raises-15m-tactical-navigation/</link>
-					<comments>https://www.geektime.co.il/asio-raises-15m-tactical-navigation/#comments</comments>
-		
-		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
-		<pubDate>Mon, 20 Jul 2026 13:00:31 +0000</pubDate>
-				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
-		<category><![CDATA[כללי]]></category>
-		<category><![CDATA[סטארטאפ והון סיכון]]></category>
-		<category><![CDATA[ASIO]]></category>
-		<category><![CDATA[סטארטאפ]]></category>
-		<category><![CDATA[גיוס]]></category>
-		<guid isPermaLink="false">https://www.geektime.co.il/?p=588001</guid>
-
-					<description><![CDATA[<p>אם יש משהו שלמדנו בשנים האחרונות זה שלא תמיד אפשר לסמוך על טכנולוגיות איתור ומיקום כמו GPS (או ליתר דיוק, GNASS), ואזורי לחימה מתאפיינים לא פעם בניתוק מוחלט מרשתות תקשורת רגילות ובשיבושי GPS. במצבים כאלו, הלוחמים בשטח נדרשים לדעת היכן הם ממוקמים, לזהות מטרות ולתקשר זה עם זה, גם כאשר המערכות המוכרות קורסות או משובשות. [&#8230;]</p>
-<p>The post <a href="https://www.geektime.co.il/asio-raises-15m-tactical-navigation/">ה-GPS קפץ לביירות? הסטארטאפ שמנווט את צה&quot;ל גייס עכשיו 15 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="attachment_588007" style="width: 1034px" class="wp-caption aligncenter"><a href="https://www.geektime.co.il/?attachment_id=588007" rel="attachment wp-att-588007"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-588007" class="size-large wp-image-588007" src="https://cdn.geektime.co.il/wp-content/uploads/2026/07/Asio-1024x757.jpeg" alt="" width="1024" height="757" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/07/Asio-1024x757.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/Asio-300x222.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/Asio-768x568.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/Asio-1536x1136.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/Asio-793x586.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/Asio.jpeg 1600w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a><p id="caption-attachment-588007" class="wp-caption-text">תמונה: ASIO</p></div>
-<p>אם יש משהו שלמדנו בשנים האחרונות זה שלא תמיד אפשר לסמוך על טכנולוגיות איתור ומיקום כמו GPS (או ליתר דיוק, GNASS), ואזורי לחימה מתאפיינים לא פעם בניתוק מוחלט מרשתות תקשורת רגילות ובשיבושי GPS. במצבים כאלו, הלוחמים בשטח נדרשים לדעת היכן הם ממוקמים, לזהות מטרות ולתקשר זה עם זה, גם כאשר המערכות המוכרות קורסות או משובשות. כדי לפתור את האתגר הזה, סטארטאפ הדיפנסטק הישראלי ASIO פיתח מערכות לחימה טקטיות לכוחות מתמרנים, והיום (ב') הוא מודיע על השלמת סבב גיוס הון ראשון בהיקף של 15 מיליון דולר.</p>
-<h2>לחבר בין מפות, מידע מבצעי, חיישנים ויכולות מיקום</h2>
-<p>הפתרון של החברה מבוסס על טכנולוגיית ליבה שנקראת GeoFusion. המערכת מחברת בין מפות, תצלומי אוויר, נתוני שטח וחיישנים, ומבצעת היתוך מידע כדי לייצר תמונה מבצעית אחת. כך, המערכת מפיקה נקודת ציון גאוגרפית מדויקת שמאפשרת לכוחות היבשה לפעול בעצמאות מבצעית גם בסביבות מאתגרות במיוחד.</p>
-<p>בשיחה עם גיקטיים, מסביר תומר מלחי, מייסד שותף ומנכ&quot;ל החברה, שהחברה מתמקדת בדרג המתמרן. הוא מספר שכוחות בשטח צריכים לקבל החלטות מהירות ולשתף מידע, ולעיתים הם נדרשים לעשות זאת ללא חיבור רציף למפקדות שמאחוריהם. לדבריו, &quot;הייחוד של ASIO הוא ביכולת לחבר בין מפות, מידע מבצעי, חיישנים ויכולות מיקום למערכות שנבנו במיוחד עבור הדרג המתמרן&quot;.</p>
-<p>על בסיס טכנולוגיה זו, החברה מציעה כמה מוצרים כולל סמארטפון מוקשח הכולל את תשתית המיפוי של צה&quot;ל ומשמש לתכנון ולסנכרון בין כוחות, וזכה לשם &quot;אול&quot;ר&quot; (לא באמת ציפיתם למשהו צה&quot;לי בלי ראשי-תיבות, נכון?). המערכת הזו נמצאת בשימוש נרחב, עם עשרות אלפי יחידות שנמצאות כיום בשימוש של צה&quot;ל, כשבנוסף אליה, החברה פיתחה מערכת בשם נוע&quot;ם המיועדת לקציני מודיעין ומערכת NOCTA לניווט אופטי של כלי טיס ללא תלות באותות לווייניים, אשר משולבת כבר בכלים של התעשייה האווירית ואלביט מערכות.</p>
-<p>באופן חריג יחסית להייטק המקומי, החברה צמחה עד עכשיו כחברה רווחית לחלוטין ופעלה במימון עצמי, ללא משקיעים קודמים. עכשיו, כאמור, היא משלימה את סבב הגיוס הראשון שלה בסך 15 מיליון דולר. את הסבב הובילה קרן ההשקעות Protego Ventures המתמקדת בחברות דיפנסטק, ואליה הצטרפה הקרן Aliya Capital Partners. חברת ASIO הוקמה על ידי תומר ויניב מלחי, וכספי ההשקעה ישמשו להרחבת יכולות הייצור, האצת פיתוח המוצרים והעמקת הפעילות הגלובלית מול לקוחות ביטחוניים ברחבי העולם.</p>
-<p>The post <a href="https://www.geektime.co.il/asio-raises-15m-tactical-navigation/">ה-GPS קפץ לביירות? הסטארטאפ שמנווט את צה&quot;ל גייס עכשיו 15 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.geektime.co.il/asio-raises-15m-tactical-navigation/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
 		
 		
 			</item>
