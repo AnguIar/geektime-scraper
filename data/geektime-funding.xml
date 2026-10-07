@@ -1,90 +1,1134 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Attention Required! | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
 
+<channel>
+	<title>גיקטיים - גיוסי הון ואקזיטים</title>
+	<atom:link href="https://www.geektime.co.il/category/funding/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.geektime.co.il/category/funding/</link>
+	<description>גיקטיים - אתר הטכנולוגיה וההייטק של ישראל</description>
+	<lastBuildDate>Tue, 06 Oct 2026 12:00:09 +0000</lastBuildDate>
+	<language>he-IL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
 
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
+<image>
+	<url>https://cdn.geektime.co.il/wp-content/uploads/2022/07/favicon-gt-1657181594-42x42.png</url>
+	<title>גיקטיים - גיוסי הון ואקזיטים</title>
+	<link>https://www.geektime.co.il/category/funding/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>חד הקרן Capitolis מכריז על גיוס ענק חדש</title>
+		<link>https://www.geektime.co.il/capitolis-major-new-funding-round/</link>
+					<comments>https://www.geektime.co.il/capitolis-major-new-funding-round/#respond</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 12:00:03 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[capitolis]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<category><![CDATA[קפיטוליס]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592990</guid>
 
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
-        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> geektime.co.il</h2>
-      </div><!-- /.header -->
+					<description><![CDATA[<p>יוניקורן הפינטק הישראלי Capitolis הכריז בשבוע שעבר על רכישה מפתיעה של סטארטאפ ב-200 מיליון דולר. היום (ג') הוא גם חושף את סבב הגיוס, שאמור כנראה לממן את הרכישה היקרה. Capitolis מפתחת תוכנה עבור בנקים וגופים פיננסיים במטרה לייעל את השימוש שלהם בהון ולהפחית עלויות וסיכונים. המערכת של החברה מאפשרת לבנקים לנהל ולקזז פוזיציות פיננסיות בצורה [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/capitolis-major-new-funding-round/">חד הקרן Capitolis מכריז על גיוס ענק חדש</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_553006" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-553006" class="size-large wp-image-553006" src="https://cdn.geektime.co.il/wp-content/uploads/2025/08/dreamstime_m_1087261-1024x685.jpg" alt="" width="1024" height="685" srcset="https://cdn.geektime.co.il/wp-content/uploads/2025/08/dreamstime_m_1087261-1024x685.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2025/08/dreamstime_m_1087261-300x201.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2025/08/dreamstime_m_1087261-768x514.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2025/08/dreamstime_m_1087261-1536x1028.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2025/08/dreamstime_m_1087261-2048x1370.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2025/08/dreamstime_m_1087261-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2025/08/dreamstime_m_1087261-793x531.jpg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-553006" class="wp-caption-text">מקור: Dreamstime</p></div>
+<p>יוניקורן הפינטק הישראלי Capitolis הכריז בשבוע שעבר על רכישה מפתיעה של סטארטאפ ב-200 מיליון דולר. היום (ג') הוא גם חושף את סבב הגיוס, שאמור כנראה לממן את הרכישה היקרה.</p>
+<p><a href="https://www.geektime.co.il/tag/capitolis/">Capitolis</a> מפתחת תוכנה עבור בנקים וגופים פיננסיים במטרה לייעל את השימוש שלהם בהון ולהפחית עלויות וסיכונים. המערכת של החברה מאפשרת לבנקים לנהל ולקזז פוזיציות פיננסיות בצורה יעילה יותר, להפחית את דרישות ההון ולשחרר הון לפעילות נוספת, ובמקביל קפיטוליס מפעילה שוק הון שמחבר בין גופים שזקוקים להון לבין משקיעים מוסדיים.</p>
+<p>לאחר קריסת הבנקים ב-2008, תקנות עולמיות חדשות חייבו בנקים להחזיק יותר הון, מה שהגביל את יכולתם להשתמש בכסף לפעילויות אחרות. קפיטוליס, שעובדת עם כמה מהבנקים הגדולים בעולם, מסייעת להם לשחרר חלק מההון הזה באמצעות שני מנגנונים עיקריים: המנגנון הראשון כולל אופטימיזציה של תיקי מט&quot;ח, שבאמצעותה מבטלת החברה עסקאות סותרות בין בנקים שונים; המנגנון השני מקשר בין בנקים לבין משקיעים גדולים, שרוכשים מהם ניירות ערך ובכך מאפשרים לבנקים לשחרר הון כלוא.</p>
+<h2>סבב גיוס חדש</h2>
+<p>את Capitolis הקים ב-2017 גיל מנדלזיס, מייסד חברת Traiana, שנרכשה ע”י ICAP ב-2007 תמורת רבע מיליארד דולר; יחד עם טום גלוסר, מנכ”ל תומסון רויטרס לשעבר; ואיגור טלשבסקי, יוצא Traiana. היום חושף חד הקרן הישראלי גיוס חדש של 120 מיליון דולר, לצד גיוס חוב של 100 מיליון דולר. הסבב בוצע על פי הערכת שווי של 1.9 מיליארד דולר. את סבב ההון הובילה Citi שהיא משקיעה קיימת בחברה, בהשתתפות המשקיעות האסטרטגיות החדשות Bank of America, Nomura ו-Tradeweb Markets. בסבב השתתפו משקיעים קיימים נוספים, כולל כמה מהבנקים הגדולים בעולם בהם UBS, Barclays, BNP Paribas, J.P. Morgan ו-State Street.</p>
+<p>הגיוס נועד, בין היתר, לממן חלק מהסכום <a href="https://www.geektime.co.il/flash/capitolis-acquires-eseclending-200-million/">לרכישת הסטארטאפ eSecLending שהוכרזה בשבוע שעבר</a>. זו הרכישה הרביעית של קפיטוליס בחמש השנים האחרונות, והיא נועדה להרחיב את סל המוצרים שהיא מציעה לבנקים גלובליים וגופים מוסדיים בתחומי ה-repo והמימון. גיל מנדלזיס אומר בשיחה איתנו על הסבב החדש כי רוב הסכום ישמש לתמיכה ברכישה, אך לא מפרט בדיוק איך יחולק. לדבריו, בשנה האחרונה השיקה קפיטוליס מוצרים חדשים בתחום אופטימיזציית הפורטפוליו ובתחום שוק ההון (Capital Marketplace), והגדילה את מצבת כוח האדם שלה לכ-200 עובדים.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.geektime.co.il/capitolis-major-new-funding-round/">חד הקרן Capitolis מכריז על גיוס ענק חדש</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/capitolis-major-new-funding-round/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר</title>
+		<link>https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/</link>
+					<comments>https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/#comments</comments>
+		
+		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 11:38:24 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[Inferize]]></category>
+		<category><![CDATA[Nebius]]></category>
+		<category><![CDATA[סטארטאפ]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<category><![CDATA[רכישה]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592711</guid>
 
-      <div class="cf-section cf-highlight">
-        <div class="cf-wrapper">
-          <div class="cf-screenshot-container cf-screenshot-full">
-            
-              <span class="cf-no-screenshot error"></span>
-            
-          </div>
-        </div>
-      </div><!-- /.captcha-container -->
+					<description><![CDATA[<p>אחת הבעיות המוכרות והכואבות ביותר בהפעלה של LLM's בסביבות פרודקשן היא בעיית ההתנעה הקרה, המוכרת גם כ-Cold Start, כלומר, הזמן שלוקח למודל להיטען לפני שהוא בכלל מסוגל לעבד ולשרת את הבקשה הראשונה של המשתמש, מה שיוצר צוואר בקבוק משמעותי. בזמן ההמתנה הזה, מעבדי GPU חזקים ויקרים עומדים בפועל בלי שימוש. התופעה הזו מתרחשת בעיקר כשיש [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/">סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_592729" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-592729" class="size-large wp-image-592729" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592729" class="wp-caption-text">תמונה: Unsplash</p></div>
+<p>אחת הבעיות המוכרות והכואבות ביותר בהפעלה של LLM's בסביבות פרודקשן היא בעיית ההתנעה הקרה, המוכרת גם כ-Cold Start, כלומר, הזמן שלוקח למודל להיטען לפני שהוא בכלל מסוגל לעבד ולשרת את הבקשה הראשונה של המשתמש, מה שיוצר צוואר בקבוק משמעותי. בזמן ההמתנה הזה, מעבדי GPU חזקים ויקרים עומדים בפועל בלי שימוש. התופעה הזו מתרחשת בעיקר כשיש קפיצות פתאומיות בביקוש שדורשות הקצאה של משאבים חדשים, או כשהמשקולות של המודל מתעדכנות תוך כדי תנועה, למשל בתהליכי למידת חיזוק. התוצאה היא שחברות ה-AI נאלצות להחזיק רזרבות גדולות של כוח מחשוב רק כדי להצליח לעמוד בזמנים וביעדי הביצועים שלהן. זה בדיוק מה שבא לתקן המוצר של חברת Inferize הישראלית, שעוד לא הספיקה ממש להיחשף, וכבר נרכשת.</p>
+<p>חברת הענן <a href="https://www.geektime.co.il/tag/nebius/">Nebius</a>, שנסחרת בנאסד&quot;ק ומתמחה בתשתיות AI, הודיעה היום (ה') על רכישתה של חברת Inferize. החברות לא פרסמו את סכום הרכישה, אולם על פי ההערכות הוא עשוי להגיע ל-150 מיליון דולר (כולל מענקים).</p>
+<h2>אבטיפוס פועל תוך 3 חודשים</h2>
+<p>חברת <a href="https://www.geektime.co.il/tag/inferize/">Inferize</a> פיתחה טכנולוגיה לאופטימיזציה של תהליכי אינפרנס והרצת מודלים, שמאפשרת לקצר דרסטית את הזמן הדרוש להשקה ולהתרחבות של מודלי AI גדולים. הפתרון שלהם הופך את עומסי העבודה לאלסטיים יותר, ככה שקיבולת המחשוב מותאמת טוב יותר לשימוש בפועל, מה שמשפר את כלכלת הטוקנים, שקובעת היום כמעט הכל בעולם הטכנולוגיה. הצוות של Inferize, שהוקמה רק בינואר 2026, הצליח להעמיד אבטיפוס עובד בתוך שלושה חודשים בלבד מההקמה.</p>
+<p>בעקבות הרכישה, הצוות והטכנולוגיה של אינפרייז ישולבו בתוך פלטפורמת Nebius Token Factory של נביוס.</p>
+<p>דנילה שטען, סמנכ&quot;ל הטכנולוגיות של חברת Nebius, התייחס לרכישה והסביר כי הרצה יעילה דורשת הרבה יותר מאשר רק מעבדים מהירים ומודלים שעברו אופטימיזציה. לדבריו, המערכת כולה צריכה לדעת כיצד להגיב לשינויים בביקוש, ו-Inferize מביאה איתה את הטכנולוגיה שמאיצה את התהליך הזה, יחד עם צוות הנדסה בעל מומחיות עמוקה במערכות GPU.</p>
+<div id="attachment_592756" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-592756" class="size-large wp-image-592756" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-1536x1025.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-793x529.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1.jpeg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592756" class="wp-caption-text">תמונה: Inferize</p></div>
+<p>גיא בורטניקוב, מייסד משותף ומנכ&quot;ל Inferize, הוסיף כי החזקת מעבדים רזרביים פועלים היא פשוט המחיר שחברות נאלצות לשלם כיום כדי להיות מוכנות לביקוש. הוא ציין כי המטרה שלשמה נבנתה החברה היא להסיר את העלות הזו בדיוק, והצוות יעבוד כעת עם מטרה אחת ברורה והיא לשרת כמה שיותר בקשות לקוחות מכל מעבד קיים.</p>
+<p>שחר צפריר, שותף-מנהל בקרן ההון סיכון TLV Partners, שהשקיעה בסבב הסיד (והיחיד) של החברה, אמר: ”לשמחתנו הכרנו את הצוות והם אותנו, בזכות השקעת הסיד שלנו בגרנולייט, ולכן הם בחרו בנו כמשקיעי הסיד שלהם. ידענו מה הם מסוגלים. כולם מבינים היום את הצורך בתשתיות אינפרנס ל-AI וכל שיפור בתחום חייוני לשחקנים הגדולים. זה נראה טריוויאלי. אבל צוות שמסוגל לפצח אתגר טכנולוגי כל כך מורכב ברמות העמוקות ביותר, ועם ערך כזה לשחקנים הגדולים, הוא נדיר בצורה יוצאת דופן. להגיע לאקזיט כזה שמונה חודשים בלבד מהקמת החברה זה הישג חריג ביותר, שממחיש את העוצמה והאיכות של היזמים והצוות המצוין שהם גייסו&quot;.</p>
+<div id="attachment_592724" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592724" class="size-large wp-image-592724" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-793x529.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM.jpeg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592724" class="wp-caption-text">צוות Inferize. תמונה: Inferize</p></div>
+<p>חברת Inferize הוקמה בתחילת 2026, ע&quot;י גיא בורטניקוב (מנכ&quot;ל) וליאור גורבונוס (CTO), שהיו בין המקימים של Granulate שנמכרה לאינטל. החברה גייסה סיבוב סיד בהובלת TLV Partners ואנג'לים, ומעסיקה 17 עובדים במשרדיה בתל אביב.</p>
+<p>The post <a href="https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/">סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>גייסו עכשיו 50 מיליון דולר כדי לחסל את האייג&#039;נט המופרע שלכם</title>
+		<link>https://www.geektime.co.il/reco-ai-security-funding-50m/</link>
+					<comments>https://www.geektime.co.il/reco-ai-security-funding-50m/#respond</comments>
+		
+		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 13:00:28 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[רקו]]></category>
+		<category><![CDATA[reco]]></category>
+		<category><![CDATA[סוכני AI]]></category>
+		<category><![CDATA[ריקו]]></category>
+		<category><![CDATA[אבטחה]]></category>
+		<category><![CDATA[סייבר]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592486</guid>
 
-      <div class="cf-section cf-wrapper">
-        <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+					<description><![CDATA[<p>במשך שנים, תפיסות אבטחת המידע בחברות ובארגונים התבססו על עיקרון פשוט של גישה מוגבלת, כשכל עובד נחשף אך ורק למידע ההכרחי עבורו. אבל כניסתם של סוכני AI לתוך הארגון טרפה את הקלפים. פלטפורמות מוכרות כמו Salesforce או ServiceNow כוללות היום סוכנים חכמים שמחוברים לכלל המערכות כבר מהרגע הראשון, והמשמעות היא שכל עובד עם גישה לסוכן [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/reco-ai-security-funding-50m/">גייסו עכשיו 50 מיליון דולר כדי לחסל את האייג&#039;נט המופרע שלכם</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_592488" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592488" class="size-large wp-image-592488" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-1024x810.jpg" alt="" width="1024" height="810" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-1024x810.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-300x237.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-768x607.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-1536x1215.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-793x627.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO.jpg 1866w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592488" class="wp-caption-text">תמונה: Reco</p></div>
+<p>במשך שנים, תפיסות אבטחת המידע בחברות ובארגונים התבססו על עיקרון פשוט של גישה מוגבלת, כשכל עובד נחשף אך ורק למידע ההכרחי עבורו. אבל כניסתם של סוכני AI לתוך הארגון טרפה את הקלפים. פלטפורמות מוכרות כמו Salesforce או ServiceNow כוללות היום סוכנים חכמים שמחוברים לכלל המערכות כבר מהרגע הראשון, והמשמעות היא שכל עובד עם גישה לסוכן מסוים, מקבל בפועל גם גישה לכל המידע שהסוכן נוגע בו.</p>
+<p>כדי לפתור את כאב הראש הזה, הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/reco/">Reco</a> מפתח פלטפורמה שממפה ומנהלת את סוכני ה-AI ואת האפליקציות בארגון. החברה התחילה את דרכה עם יכולות גילוי ומיפוי בלבד, אבל לאחרונה עשתה קפיצת מדרגה טכנולוגית. בשיחה עם גיקטיים מסביר גל נקש, מייסד שותף וסמנכ&quot;ל מוצר ב-Reco, שמאז פברואר האחרון החברה הוסיפה שלוש שכבות חדשות למוצר.</p>
+<p>הראשונה היא גילוי אוטומטי של סוכנים על פני פלטפורמות כמו Copilot Studio או Agentforce, שכוללת הערכת סיכונים עמוקה לכל סוכן. השכבה השנייה היא הרחבת דפדפן שיודעת למסך או לחסום פרומפטים שמכילים מידע רגיש, לפני שהם נשלחים למודלים חיצוניים.</p>
+<p>השכבה השלישית ואולי המסקרנת יותר נקראת AI Runtime ופועלת, כמו שאתם יכולים לנחש מהשם, בזמן אמת. המנוע הזה יושב על הפעולות של הסוכן ומזהה ניסיונות של הזרקת פרומפטים זדוניים. כאן נכנס לתמונה Kill Switch, כלומר, מתג השבתה האוטומטי. תארו לכם סוכן פיננסי אוטומטי שפתאום מתחיל לשאוב נתונים שחורגים מהמטרה המקורית שלו, או שמשתמש מנסה לתחמן אותו כדי לעקוף הרשאות. במקום להסתפק בהתראה שתגיע לצוות האבטחה בדיעבד, המערכת מזהה את החריגה ומפעילה Kill Switch שמנתק את הסוכן באותו הרגע. נקש מציין כי אצל אחד הלקוחות הם מצאו 42 אלף סוכנים, כולל כאלו שהיו חשופים לאינטרנט או השתמשו במודלים שלא אושרו בארגון.</p>
+<p>למרות שאיפה שלא תזרקו אבן תפגעו ככל הנראה בסטארטאפ ישראלי שעוסק באבטחת סוכני AI, נקש אומר לנו שבעוד שפלטפורמות אחרות מאבטחות את הקוד שהמפתחים בונים, הפתרון שלהם מתמקד בשכבה שהעסק מפעיל בפועל. בכל מקרה, הדרישה לפתרונות אלו רק גוברת, ולפי דוח של גרטנר, חברת אנטרפרייז ממוצעת תפעיל מעל ל-150 אלף סוכנים עד שנת 2028. בהתאמה, החברה מדווחת על קצב צמיחה של 400 אחוזים, שממשיך את המגמה של השנים הקודמות.</p>
+<p>היום (ג') מודיעה גם Reco על הרחבת סבב הגיוס השני שלה ב-50 מיליון דולר נוספים בהובלת ענקית התקשורת האמריקאית AT&amp;T, שהפכה מלקוחה למשקיעה אסטרטגית, ובהשתתפות הקרנות Forestay ו-Quadrille Capital. סך ההון שגייסה החברה, אותה הקימו עופר קליין, ד&quot;ר טל שפירא וגל נקש, עומד כעת על 135 מיליון דולר.</p>
+<p>The post <a href="https://www.geektime.co.il/reco-ai-security-funding-50m/">גייסו עכשיו 50 מיליון דולר כדי לחסל את האייג&#039;נט המופרע שלכם</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/reco-ai-security-funding-50m/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>מייסד Wiz משקיע בסטארטאפ של העובד שלו לשעבר</title>
+		<link>https://www.geektime.co.il/rig-comes-out-of-stealth/</link>
+					<comments>https://www.geektime.co.il/rig-comes-out-of-stealth/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 12:00:31 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Rig Security]]></category>
+		<category><![CDATA[סייבר]]></category>
+		<category><![CDATA[עמי לוטבק]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<category><![CDATA[ריג]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592340</guid>
 
-            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
-          </div>
+					<description><![CDATA[<p>&#34;חשבונות והרשאות מחברים בין הענן, המערכות המקומיות והיישומים שבהם עובדים. מי שמשתלט על חשבון יכול לנצל את החיבורים האלה כדי להגיע לקוד, למידע ולתשתיות&#34;, אומר בשיחה עם גיקטיים גיא קוזלינר, המייסד והמנכ&#34;ל של הסטארטאפ Rig, שנחשף היום (ג') עם גיוס הון ראשון. ריג רוצה לפתור את בעיית הזהויות בארגונים, ובמיוחד את זהויות הסוכנים שארגונים מטמיעים [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/rig-comes-out-of-stealth/">מייסד Wiz משקיע בסטארטאפ של העובד שלו לשעבר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_592378" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592378" class="size-large wp-image-592378" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-1024x630.jpg" alt="" width="1024" height="630" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-1024x630.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-300x185.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-768x472.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-1536x945.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-2048x1260.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-793x488.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592378" class="wp-caption-text">הצוות של ריג</p></div>
+<p>&quot;חשבונות והרשאות מחברים בין הענן, המערכות המקומיות והיישומים שבהם עובדים. מי שמשתלט על חשבון יכול לנצל את החיבורים האלה כדי להגיע לקוד, למידע ולתשתיות&quot;, אומר בשיחה עם גיקטיים גיא קוזלינר, המייסד והמנכ&quot;ל של הסטארטאפ <a href="https://www.rig.security">Rig</a>, שנחשף היום (ג') עם גיוס הון ראשון. ריג רוצה לפתור את בעיית הזהויות בארגונים, ובמיוחד את זהויות הסוכנים שארגונים מטמיעים כיום בכל מקום. קוזלינר הקים את הסטארטאפ אחרי שעזב בשנה שעברה את Wiz, רגע לפני המכירה (תיכף נגיע לתזמון), ואחרי שעבד בה תחת ה-CTO <a href="https://www.geektime.co.il/wiz-co-founder-ami-luttwak-scan-for-good-interview/">עמי לוטבק</a> (ממייסדי החברה ויוצא 8200).</p>
+<h2 data-path-to-node="3">מנוע חכם שמזהה מי עומד מאחורי כל חשבון</h2>
+<p data-path-to-node="2">לדברי קוזלינר, בעוד שצוותי האבטחה מתמודדים עם מספר עצום של חשבונות ואמצעי גישה, התוקפים מנצלים הרשאות קיימות כדי לנוע בתוך הארגון. המידע כיום מפוזר בין מערכות שונות, וכשמחברים אותו, מגלים לעיתים שעובד מסוים יכול לגשת להרבה יותר מערכות מכפי שהתכוונו. הבעיה מחמירה עם כניסתם של סוכנים, שיכולים להשתמש בהרשאות של עובד או שירות ולבצע פעולות במהירות שקשה לבקר ידנית. &quot;ארגונים רוצים להעביר אליהם יותר משימות, אבל צריכים לוודא שהם לא מאבדים בדרך את השליטה בגישה למערכות ולמידע&quot;, אומר קוזלינר.</p>
+<p>כדי להתמודד עם האתגר, פיתחו ב-Rig מודלי AI שמחברים מידע ממערכות שונות כדי לזהות מי עומד מאחורי כל חשבון ואת רמת הסיכון הנגזרת מההרשאות שלו. החברה יצרה חיישן ייעודי המזהה פעילות של סוכן ואוכף עליה את כללי האבטחה, כך שבמקרה של השתלטות עוינת, הארגון יודע בדיוק איך לעצור את התוקף.</p>
+<p>בשיחה עם גיקטיים מסביר קוזלינר כיצד זה עובד בפועל: &quot;לעובד אחד יכולים להיות חשבון רגיל, חשבון מנהל בענן וטוקן שיצר לתהליך אוטומטי. בכל מערכת הם עשויים להופיע בשם אחר. כדי להבין למה אותו עובד יכול לגשת, צריך לזהות שכל החשבונות האלה קשורים אליו. לשם כך פיתחנו את RICE, מנוע שמשלב מודלים של למידת מכונה ושיטות מתמטיות&quot;. המודלים של Rig משקללים יותר מ-20 מאפיינים, כגון שיוך ארגוני, קבוצות הרשאה, דפוסי פעילות ונתונים מתחנות הקצה. כך המערכת מזהה קשר בין חשבונות גם ללא כתובת מייל משותפת, מציגה מדד ביטחון לכל התאמה, ויודעת לזהות אם חשבון שירות סווג בטעות כחשבון של אדם.</p>
+<div id="attachment_592500" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592500" class="wp-image-592500 size-large" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi-1024x851.jpg" alt="" width="1024" height="851" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi-1024x851.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi-300x249.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi-768x639.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi-793x659.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi.jpg 1299w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592500" class="wp-caption-text">גיא קוזלינר. תמונה: Noi Arkobi</p></div>
+<p>בנוסף, מודלי שפה גדולים משמשים במערכת כדי לנתח מקרים מורכבים של זהויות לא אנושיות, כשהתשובות עוברות בדיקה ולא קובעות לבדן את ההחלטה. מהמידע הזה בונה המערכת גרף שמחבר בין הזהויות, ההרשאות והמערכות, המאפשר לזהות מסלולי תקיפה. הכלים גם מייצרים מדרג סיכונים שעוזר לצוותי האבטחה להבין במה לטפל קודם, מתוך הבנה שהחשש להשבית תהליך חשוב הוא לרוב הסיבה לכך שהרשאות מיותרות נשארות פעילות.</p>
+<h2>עזב את Wiz ומקבל השקעה מהבוס לשעבר</h2>
+<p>היום (ג') מדווח הסטארטאפ על גיוס סבב Seed בהיקף של 12 מיליון דולר בהובלת הקרנות TENELEVEN ו-Brightmind Partners. בסבב השתתפה גם זרוע ההשקעות של ענקית הסייבר Crowdstrike (תחת השם Crowdstrike Falcon), יחד עם אנג'לים בולטים, ובראשם הבוס הקודם של קוזלינר &#8211; עמי לוטבק.</p>
+<p><strong>יש תחושת פספוס כלשהי בעזיבה בתזמון כזה?</strong></p>
+<p>קוזלינר: &quot;אני שמח מאוד בשביל האנשים ב-Wiz וגאה שהייתה לי הזדמנות לעבוד איתם. לקחתי מהתקופה הזאת הרבה, וזה מלווה אותי גם בבנייה של Rig. כשעזבתי, רציתי להקים חברה. רציתי לקחת בעיה שאני מאמין בה ולנסות לפתור אותה, עם כל האחריות שמגיעה עם זה. בזמן שמקבלים החלטה כזאת לא יודעים איך הדברים יתפתחו, באף אחד מהמסלולים. במבחן המציאות, כל החלטה שקיבלתי בכל הצמתים בחיי הובילה להצלחה גדולה &#8211; יש פה רף גדול אבל העבר מנבא את הבאות. יש משהו מאוד מספק בלבנות צוות, לעבוד על מוצר ולראות לקוח משתמש במשהו שהתחיל כרעיון. זה מה שרציתי לעשות, והיום זה מה שמעסיק אותי. יש לנו עוד הרבה לבנות ב-Rig&quot;.</p>
+<p>The post <a href="https://www.geektime.co.il/rig-comes-out-of-stealth/">מייסד Wiz משקיע בסטארטאפ של העובד שלו לשעבר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/rig-comes-out-of-stealth/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>הסטארטאפ הישראלי Bluevine נמכר ב-340 מיליון דולר</title>
+		<link>https://www.geektime.co.il/bluevine-340m-exit/</link>
+					<comments>https://www.geektime.co.il/bluevine-340m-exit/#comments</comments>
+		
+		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 11:59:08 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[סטארטאפ]]></category>
+		<category><![CDATA[BlueVine]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592433</guid>
 
-          <div class="cf-column">
-            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+					<description><![CDATA[<p>הבנק האמריקאי Valley National Bank הודיע היום (ב') על חתימת הסכם מחייב לרכישת חברת הפינטק הישראלית הוותיקה Bluevine, שמפתחת פלטפורמת בנקאות דיגיטלית חכמה המיועדת לעסקים קטנים. סכום הרכישה עומד על כ-340 מיליון דולר, כשהתמורה תשולם ברובה במזומן, כ-75 אחוזים, והשאר יועבר במניות של הבנק הרוכש. העסקה צפויה להיסגר סופית בתחילת שנת 2027, לאחר קבלת כל [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/bluevine-340m-exit/">הסטארטאפ הישראלי Bluevine נמכר ב-340 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_592438" style="width: 840px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592438" class="size-full wp-image-592438" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/BLUEVINE.jpg" alt="" width="830" height="592" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/BLUEVINE.jpg 830w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/BLUEVINE-300x214.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/BLUEVINE-768x548.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/BLUEVINE-793x566.jpg 793w" sizes="auto, (max-width: 830px) 100vw, 830px" /><p id="caption-attachment-592438" class="wp-caption-text">תמונה: Bluevine</p></div>
+<p>הבנק האמריקאי Valley National Bank הודיע היום (ב') על חתימת הסכם מחייב לרכישת חברת הפינטק הישראלית הוותיקה <a href="https://www.geektime.co.il/tag/bluevine/">Bluevine</a>, שמפתחת פלטפורמת בנקאות דיגיטלית חכמה המיועדת לעסקים קטנים. סכום הרכישה עומד על כ-340 מיליון דולר, כשהתמורה תשולם ברובה במזומן, כ-75 אחוזים, והשאר יועבר במניות של הבנק הרוכש. העסקה צפויה להיסגר סופית בתחילת שנת 2027, לאחר קבלת כל האישורים הרגולטוריים הנדרשים.</p>
+<h2>&quot;בנק&quot; לעסקים קטנים</h2>
+<p>במקום להתבסס על סניפים פיזיים מיושנים ובירוקרטיה אינסופית, הפלטפורמה של Bluevine מציעה לבעלי עסקים מוצר שמנוהל כולו ברשת. המערכת שלה משלבת תחת קורת גג אחת ניהול חשבון עובר ושב, סליקת תשלומים, הפקת חשבוניות וכלים מתקדמים לניהול תזרים מזומנים. מאחורי הקלעים, החברה עושה שימוש נרחב במודלים של למידת מכונה וניתוח נתונים חכם כדי לייעל תהליכים ולהעניק פתרונות אשראי מהירים ומדויקים יותר לעסקים. כיום המערכת משרתת כ-175 אלף לקוחות פעילים, והצליחה לייצר עבור החברה פיקדונות בהיקף של יותר משני מיליארד דולר.</p>
+<p>הבנק הרוכש בונה במידה רבה על צוותי המחקר והפיתוח של Bluevine, המונים כ-180 מהנדסים, מפתחים ואנשי דאטה, שיושבים בין היתר במרכז הפיתוח של החברה בתל אביב. המטרה המוצהרת של המהלך היא להטמיע את יכולות הבינה המלאכותית והארכיטקטורה המודרנית של הסטארטאפ בתוך מערכות הבנק הוותיקות, ולהפחית משמעותית את התלות של Valley בספקים חיצוניים.</p>
+<p>אייל ליפשיץ, מייסד שותף ומנכ&quot;ל Bluevine, התייחס לעסקה ואמר כי החברה הוקמה במטרה להעניק לבעלי עסקים קטנים את הכלים הפיננסיים והחוויה הדיגיטלית הדרושים להם כדי לנהל את עסקיהם ולצמוח: &quot;Valley שותפה למחויבות הזו ומביאה עמה את יכולות המאזן והמומחיות בבנקאות כדי לתמוך בלקוחותינו,&quot; ציין ליפשיץ. עם השלמת המהלך, הוא צפוי להשתלב בהנהלת הבנק כמנהל תחום הבנקאות לעסקים קטנים.</p>
+<p>מהצד הרוכש, איירה רובינס, נשיא ומנכ&quot;ל Valley, הסביר כי המהלך תואם את האסטרטגיה של הבנק: &quot;רכישת Bluevine תאיץ באופן משמעותי את יכולות הדיגיטל והבינה המלאכותית שלנו. החברה בנתה פלטפורמה טכנולוגית מודרנית שנבנתה במיוחד לצורכיהם של עסקים קטנים, ויצרה קהילת לקוחות מעורבת מאוד,&quot; הוסיף רובינס.</p>
+<p>חברת Bluevine הוקמה בשנת 2013 על ידי אייל ליפשיץ, ניר קלר ומוטי שטנר, <a href="https://www.geektime.co.il/bluevine-raises-102-5-million-dollars/">וגייסה מאז כ-250 מיליון דולר ממשקיעים</a> כמו Lightspeed וקרן M12 של מיקרוסופט, Citi Ventures, קרן Vintage, קרן ION ועוד. לפני כשנתיים היא פיטרה כ-18% מהעובדים שלה בסבב קיצוצים, שהצטרף לסבב קודם באותה שנה.</p>
+<p>The post <a href="https://www.geektime.co.il/bluevine-340m-exit/">הסטארטאפ הישראלי Bluevine נמכר ב-340 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/bluevine-340m-exit/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>מגה רבעון: הסטארטאפים הישראליים כבר גייסו יותר מבשנה שעברה</title>
+		<link>https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-q3-2026/</link>
+					<comments>https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-q3-2026/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Sat, 26 Sep 2026 08:39:04 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[כללי]]></category>
+		<category><![CDATA[סיכום גיוסים רבעוני]]></category>
+		<category><![CDATA[סיכום גיוסים רבעון 3 2026]]></category>
+		<category><![CDATA[סיכום גיוסים]]></category>
+		<category><![CDATA[סיכום גיוסי הון]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<category><![CDATA[רכישה]]></category>
+		<category><![CDATA[הנפקה]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592216</guid>
 
-            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
-          </div>
-        </div>
-      </div><!-- /.section -->
+					<description><![CDATA[<p>הרבעון השלישי של 2026 היה חלומי עבור האקוסיסטם, וכזה שרשמית הוביל להישג חריג מבחינת הסטארטאפים הישראליים &#8211; שגייסו יותר הון בתשעת החודשים הראשונים של השנה לעומת כל השנה שעברה. מגה-רבעון הסטארטאפים הישראליים דיווחו על גיוסי הון בסך כולל של כ-4.4 מיליארד דולר ברבעון השלישי של השנה, הכולל בתוכו חודשיים של קיץ &#8211; תקופה רגועה יחסית [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-q3-2026/">מגה רבעון: הסטארטאפים הישראליים כבר גייסו יותר מבשנה שעברה</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_549113" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-549113" class="size-large wp-image-549113" src="https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-2048x1365.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-793x529.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-549113" class="wp-caption-text">הצוות של Wonderful עם צוות הכלבים המשרדיים שדורשים לדבר עם המנהל שלהם</p></div>
+<p>הרבעון השלישי של 2026 היה חלומי עבור האקוסיסטם, וכזה שרשמית הוביל להישג חריג מבחינת הסטארטאפים הישראליים &#8211; שגייסו יותר הון בתשעת החודשים הראשונים של השנה לעומת כל השנה שעברה.</p>
+<h2>מגה-רבעון</h2>
+<p>הסטארטאפים הישראליים דיווחו על גיוסי הון בסך כולל של כ-4.4 מיליארד דולר ברבעון השלישי של השנה, הכולל בתוכו חודשיים של קיץ &#8211; תקופה רגועה יחסית מבחינת גיוסי הון. בסך הכל דיווחו 62 סטארטאפים ישראליים על גיוסי הון בשלושת החודשים האחרונים, כאשר החלוקה שאנחנו מכירים בדרך כלל מבחינת גיוסי סטארטאפים צעירים (בשלבי פרי-סיד ועד A) לעומת סטארטאפים בשלבי צמיחה (סבב B ואילך) עמדה על 2:1 &#8211; שני גיוסי הון של סטארטאפים צעירים על גיוס אחד של הסטארטאפים הבוגרים.</p>
+<p>ועם זאת, הסטארטאפים הבוגרים ממשיכים להוביל את גיוסי ההון מבחינת הסכומים שגייסו, והם אחראים על 11 גיוסי הון ברבעון האחרון בסך כולל של 2.4 מיליארד דולר &#8211; משמע אחראיים על כ-60% לפחות מההון שגייסו הסטארטאפים הישראליים בשלושת החודשים האחרונים. חשוב לציין כי ספטמבר היה חריג לטובה מבין חודשי הרבעון האחרון, עם גיוסים בסך כולל של כ-2.2 מיליארד דולר, מתוכם כמה מהגיוסים הגדולים ביותר של השנה &#8211; כמו גיוס הענק של Wonderful בסך 550 מיליון דולר, גיוס ההמשך של Cyera בסך 400 מיליון דולר (שלושה חודשים אחרי גיוס 600 מיליון דולר), גיוס 400 מיליון דולר על ידי איילנד של דן אמיגה וגיוס ענק נוסף של Upwind בסך 300 מיליון דולר.</p>
+<h2>חזרה ללימודים? יותר כמו חזרה לימי הבועה</h2>
+<div id="attachment_580275" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-580275" class="size-large wp-image-580275" src="https://cdn.geektime.co.il/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-09.51.30-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-09.51.30-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-09.51.30-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-09.51.30-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-09.51.30-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-09.51.30-793x529.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-09.51.30.jpeg 1145w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-580275" class="wp-caption-text">דן אמיגה</p></div>
+<p>כשמדברים על הרבעון הזה אי אפשר שלא לדבר על חודש ספטמבר, שסגר אותו בלא פחות ממבול של גיוסים (גשם בספטמבר? לא נתלונן). החודש האחרון בלבד היה אחראי על 20 עסקאות &#8211; שליש מכל העסקאות המדווחות ברבעון האחרון &#8211; בסכום כולל של כ-2.5 מיליארד דולר. מדובר בסכום גיוסים שלא ראינו באקוסיסטם מאז השיא של ימי הבועה ב-2021-2022, וכבר הספקנו לראות חודשים עם גיוסים של מיליארד דולר לסטארטאפ אחד שלא הגיעו בסופו של דבר לסכום חודשי כזה. אנחנו אוהבים לסייג זאת, ונמשיך, שבסופו של דבר הגיוסים הללו אולי נסגרו לפני ספטמבר &#8211; אולי מתישהו בימי החופש החמים ביולי-אוגוסט &#8211; וסטארטאפים &quot;ישבו&quot; על ההכרזה שלהם וזה מה שמוביל למספר המנופח יחסית לעומת אוגוסט, למשל.</p>
+<h2>עושה היסטוריה</h2>
+<p>לצד גיוסי הענק של הרבעון האחרון, שלוש חברות חדשות הצטרפו בשלושת החודשים האחרונים למועדון חדי הקרן &#8211; בילדוטס ו-Guardio עשו זאת בחודש האחרון כאשר ביולי היה זה Glow של רואי טיגר &#8211; שמכר את Onavo למטא (אז קראו לה רק פייסבוק).</p>
+<p>הרבעון השלישי הוא אחד הטובים שראה האקוסיסטם הישראלי בשנים האחרונות, והוא כבר מוביל את השנה מבחינת סך ההון שגויס כשבדקה ה-90 הוא עקף את הרבעון השני של השנה &#8211; אז דיווחו הסטארטאפים על גיוסים בסך 4.2 מיליארד דולר. <a href="https://www.geektime.co.il/israeli-ecosystem-q3-funding-exits-roundup/">בהשוואה לשנה שעברה</a> מדובר ביותר מהכפלה של סך ההון שגויס ברבעון השלישי (כ-2 מיליארד דולר ב-2025). אם חוזרים <a href="https://www.geektime.co.il/q3-ecosystem-funding-roundup/">לרבעון השלישי של 2024</a>, שנתיים אחורה בלבד, מדובר כבר בהכפלה של קרוב לפי 4 בסך הגיוסים &#8211; אז דיווחו הסטארטאפים על גיוסי הון בסך 1.18 מיליארד דולר בלבד.</p>
+<h2>שתי הנפקות ואקזיטי ענק</h2>
+<div id="attachment_589167" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-589167" class="size-large wp-image-589167" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-1536x1024.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-793x529.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24.jpeg 1600w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-589167" class="wp-caption-text">הנהלת BioCatch | מקור: BioCatch</p></div>
+<p>גם בגזרת האקזיטים לא נחו באקוסיסטם ברבעון השלישי. בסך הכל נרשמו החודש 15 עסקאות רכישה של סטארטאפים ישראליים, מתוכן שתי הנפקות &#8211; של LightSolver ושל XTEND &#8211; שתיהן בעסקאות SPAC שכבר חשבנו שעברו מן העולם. לצד ההנפקות הללו ראינו כמה אקזיטים חריגים ומרשימים ברבעון האחרון, כשהגדולה מכולן היא עסקת הרכישה של BioCatch על ידי ויזה ב-2.4 מיליארד דולר באוגוסט. ביולי, מנגד, ראינו מגה-אקזיט ישראלי עם <a href="https://www.geektime.co.il/cyera-acquires-oasis/">הודעת הרכישה של Cyera כי תשלם מיליארד דולר ותוסיף אליה את הסטארטאפ הישראלי Oasis</a>. בספטמבר בלטה לטובה עסקת הרכישה של הסטארטאפ RealSense &#8211; שהיה לכאורה בדרך לסגירה ב-2021 בתוך אינטל ובשנה שעברה הפך לעצמאי. כעת הוא בדרך להפוך לחלק מחברת הרובוטיקה Cognex בעסקה בשווי של יותר מ-600 מיליון דולר.</p>
+<h2>&quot;הנתונים משקפים שוק חזק, אבל לא אחיד&quot;</h2>
+<p>&quot;הנתונים בהחלט משקפים שוק חזק, וזה גם מה שאנחנו רואים בשטח, אבל הוא מאוד לא אחיד&quot;, אומר <strong>בשיחה עם גיקטיים </strong>יאיר קסוטו &#8211; שותף בקרן ההון-סיכון הישראלית פיטנגו, &quot;סיפורים גדולים וצוותים מנוסים מצליחים לגייס סכומים משמעותיים מאוד, בעיקר בסייבר, AI ודיפנס, והתחרות על החברות הטובות גבוהה&quot;. הוא מוסיף כי במקביל, כשכ-60% מההון שגויס מגיע ממגה-סבבים, חשוב לא להתבלבל בין היקף ההון לבין רוחב השוק. &quot;ה-Pre-Seed וה-Seed פעילים, אבל בשלבי הביניים מורגשת חולשה והמשקיעים סלקטיביים יותר. לכן מוקדם בעיניי להכריז שאנחנו בדרך לעוד רבעון בומבסטי. הסימן המשמעותי יותר יהיה אם נראה את העומק של השוק מתרחב: יותר חברות שמצליחות להתקדם ולגייס גם בשלבי הביניים, ולא רק עוד כמה סבבי ענק&quot;.</p>
+<div id="attachment_592280" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592280" class="size-large wp-image-592280" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-24-09.35.34-1024x758.jpeg" alt="" width="1024" height="758" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-24-09.35.34-1024x758.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-24-09.35.34-300x222.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-24-09.35.34-768x569.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-24-09.35.34-793x587.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-24-09.35.34.jpeg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592280" class="wp-caption-text">יאיר קסוטו | צילום: דור סבג</p></div>
+<p>קסוטו אומר כי מעבר למספרים, אחד הדברים המעניינים ברבעון הזה הוא שה-AI כבר לא מתנהג כמו קטגוריה נפרדת, אלא דרך לשנות קטגוריות שלמות. &quot;אנחנו רואים את זה בסייבר, בתשתיות, בתוכנה ארגונית וגם בדיפנס. במקביל, ענקיות הטכנולוגיה ושחקני ה-AI הגדולים משפיעים על השוק לא רק דרך התחרות על טאלנט, אלא גם דרך השקעות, שיתופי פעולה ורכישות, שמייצרים לסטארטאפים מסלולי צמיחה חדשים ומעלים את הרף למה שנחשב טכנולוגיה משמעותית&quot;, הוסיף. עוד מאפיין של הרבעון, אומר המשקיע, הוא הפער בין חברות שיש להן מומנטום מאוד ברור לבין שאר השוק: &quot;כשיש צוות מנוסה, טכנולוגיה חזקה ושוק שנמצא בתנועה, אנחנו רואים יכולת לגייס מהר ובסכומים גדולים מאוד. לכן בעיניי הסיפור של הרבעון הוא לא רק כמה כסף גויס, אלא לאן הוא הולך. אנחנו רואים הון שמתרכז סביב מספר תחומים וחברות שהמשקיעים מאמינים שיכולים להפוך למובילי קטגוריה גלובליים&quot;.</p>
+<p>The post <a href="https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-q3-2026/">מגה רבעון: הסטארטאפים הישראליים כבר גייסו יותר מבשנה שעברה</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-q3-2026/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>רגע אחרי שגייסה 100 מיליון דולר: groundcover רוכשת סטארטאפ ישראלי</title>
+		<link>https://www.geektime.co.il/groundcover-acquires-wand/</link>
+					<comments>https://www.geektime.co.il/groundcover-acquires-wand/#respond</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 14:07:40 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Wand]]></category>
+		<category><![CDATA[וונד]]></category>
+		<category><![CDATA[groundcover]]></category>
+		<category><![CDATA[גראונדקאבר]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<category><![CDATA[רכישה]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592270</guid>
 
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-    <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">a4635f0619fb144a</strong></span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-        Your IP:
-        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.161.59.5</span>
-        <span class="cf-footer-separator sm:hidden">&bull;</span>
-      </span>
-      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-      
-    </p>
-    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-  </div><!-- /.error-footer -->
+					<description><![CDATA[<p>אקזיט כחול לבן: הסטארטאפ הישראלי groundcover, שהשלים רק לאחרונה סבב גיוס מרשים, הכריז היום (ה') על הרכישה של סטארטאפ ישראלי אחר &#8211; Wand &#8211; המפתח טכנולוגיה שמאפשרת לארגונים לנהל בצורה אוטומטית ויעילה את משאבי תשתיות הענן שלהם. סכום הרכישה לא פורסם. ירחיבו את סל הכלים ב-groundcover מפתחים מוצר eBPF, כלומר מוצר שרץ ישירות בתוך הקרנל [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/groundcover-acquires-wand/">רגע אחרי שגייסה 100 מיליון דולר: groundcover רוכשת סטארטאפ ישראלי</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_592300" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592300" class="size-large wp-image-592300" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Groundcover-team-1024x730.jpeg" alt="" width="1024" height="730" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Groundcover-team-1024x730.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Groundcover-team-300x214.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Groundcover-team-768x547.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Groundcover-team-1536x1094.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Groundcover-team-793x565.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Groundcover-team.jpeg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592300" class="wp-caption-text">צילום: Ohad Kab</p></div>
+<p>אקזיט כחול לבן: הסטארטאפ הישראלי groundcover, שהשלים רק לאחרונה סבב גיוס מרשים, הכריז היום (ה') על הרכישה של סטארטאפ ישראלי אחר &#8211; Wand &#8211; המפתח טכנולוגיה שמאפשרת לארגונים לנהל בצורה אוטומטית ויעילה את משאבי תשתיות הענן שלהם. סכום הרכישה לא פורסם.</p>
+<h2>ירחיבו את סל הכלים</h2>
+<p>ב-groundcover מפתחים מוצר eBPF, כלומר מוצר שרץ ישירות בתוך הקרנל של לינוקס, שעל פי החברה ניתן להטמעה בתוך דקות וללא שינויים בקוד. לאחר ההתקנה, התוכנית אוספת נתונים מכל שכבות התשתית והאפליקציה. המידע שנאסף נשמר בתוך סביבת הענן הפרטית של הארגון, כך שהיא יכולה לעמוד בתקנות פרטיות מחמירות. &quot;גראונדקאבר מובילה את שוק ה-AI-native observability עם Agent Mode שמאפשר למפתחים ול-Agents לעבוד יחד בתחקור בעיות ו-AI Observability שמאפשר לחברות מודרניות המשלבות AI במוצרים שלהן לנטר את הביצועים שלהם בזמן אמת&quot;, אמר בעבר לגיקטיים שחר אזולאי, מנכ&quot;ל גראונדקאבר.</p>
+<p>אזולאי הקים את גראונדקאבר יחד עם יחזקאל רבינוביץ', CTO, ורק בחודש יולי האחרון דיווח על <a href="https://www.geektime.co.il/groundcover-raises-100m-series-c/">השלמת גיוס מרשים של 100 מיליון דולר על פי שווי של חצי מיליארד דולר</a>, בהובלת One Peak ובהשתתפות Morgan Stanley Expansion Capital והמשקיעים הקיימים Zeev Ventures, Angular Ventures, Heavybit ו-Jibe.</p>
+<p>כעת גראונדקאבר רוצים להרחיב את המוצר שלהם עם הרכישה של וונד, שהוקם ב-2023 ע&quot;י שון לב-רן ושיר מוניטר. עד לרכישה גייס הסטארטאפ כ-4 מיליון דולר בסבב סיד, בהובלת קרן אנגולר ונצ'רס, ובעקבות הרכישה יהפכו כל עובדי הסטארטאפ הנרכש לעובדי גראונדקאבר.</p>
+<div id="attachment_588822" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-588822" class="size-large wp-image-588822" src="https://cdn.geektime.co.il/wp-content/uploads/2026/07/GROUNDCOVER-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/07/GROUNDCOVER-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/GROUNDCOVER-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/GROUNDCOVER-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/GROUNDCOVER-1536x1025.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/GROUNDCOVER-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/GROUNDCOVER-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/07/GROUNDCOVER.jpg 1619w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-588822" class="wp-caption-text">מייסדי groundcover &#8211; מימין שחר אזולאי, יחזקאל רבינוביץ'. תמונה: ירדן רוקח</p></div>
+<p>בשיחה עם גיקטיים על הרכישה אומר אזולאי כי &quot;בשנה האחרונה יותר ויותר חברות מחפשות פתרונות לאופטימיזציה אוטונומית של תשתית הענן שלהם, ומוכנות לאפשר לאוטומציה מבוססת AI לקבל החלטות בזמן אמת על תשתית פרודקשן &#8211; דבר שאולי לא דמיינו לפני כמה שנים. זה מתחיל באופטימיזציה של עלות תשתית ענן, שהיא כאב גדול שחברות מתקשות לפתור, וממשיך בבעיות יציבות ואמינות של התשתית שמשפיעות על השירות שמציעות החברות האלה ללקוחות שלהן&quot;. הוא מוסיף כי &quot;אנחנו מאמינים שהשילוב של Wand בגראונדקבר מקדם אותנו עוד צעד לכיוון פיתוח תוכנה ותשתית אוטונומיים, ויאפשר לנו להציע לחברות יכולת לפתח קוד מבוסס AI טוב ויעיל יותר, וגם להבטיח שהוא יעיל בעלות ובביצועים בפרודקשן&quot;.</p>
+<p>עוד אומר לנו כי המוצר של וונד יוטמע ישירות בתוך גראונדקאבר, ויעבור התאמות לארכיטקטורה שיצרו &#8211; BYOC (או bring your own cloud) &#8211; וישדרג את הפלטפורמה של גראונדקאבר סביב קטגוריה חדשה שיוכלו להציע ללקוחות הקיימים שלהם.</p>
+<p>The post <a href="https://www.geektime.co.il/groundcover-acquires-wand/">רגע אחרי שגייסה 100 מיליון דולר: groundcover רוכשת סטארטאפ ישראלי</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/groundcover-acquires-wand/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>איילנד גייסה 400 מיליון דולר ושווה כבר 6.4 מיליארד דולר</title>
+		<link>https://www.geektime.co.il/island-mega-round-propels-it-to-6-4b-valuation/</link>
+					<comments>https://www.geektime.co.il/island-mega-round-propels-it-to-6-4b-valuation/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 10:00:26 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[דן אמיגה]]></category>
+		<category><![CDATA[מגה גיוס]]></category>
+		<category><![CDATA[Island]]></category>
+		<category><![CDATA[איילנד]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592257</guid>
 
-    </div><!-- /#cf-error-details -->
-  </div><!-- /#cf-wrapper -->
+					<description><![CDATA[<p>ספטמבר האיר פנים על הסטארטאפים הבוגרים של האקוסיסטם, והיום (ה') מצטרפת לרשימה המכובדת הזאת גם Island של דן אמיגה &#8211; שחושפת סבב גיוס ענקי בסך 400 מיליון דולר. &#34;מהתחלה האסטרטגיה שלנו הייתה לבנות פלטפורמה גדולה&#34; חברת הסייבר הישראלית-אמריקאית הייתה בין הראשונות להיכנס לתחום הדפדפנים המאובטחים ומאז הספיקה להתרחב לתחומים נוספים &#8211; כולל יצירת שכבת אבטחה [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/island-mega-round-propels-it-to-6-4b-valuation/">איילנד גייסה 400 מיליון דולר ושווה כבר 6.4 מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_460473" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-460473" class="size-large wp-image-460473" src="https://cdn.geektime.co.il/wp-content/uploads/2022/02/Island-IMG_9459-1643715163-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2022/02/Island-IMG_9459-1643715163-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2022/02/Island-IMG_9459-1643715163-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2022/02/Island-IMG_9459-1643715163-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2022/02/Island-IMG_9459-1643715163-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2022/02/Island-IMG_9459-1643715163-2048x1365.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2022/02/Island-IMG_9459-1643715163-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2022/02/Island-IMG_9459-1643715163-793x529.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-460473" class="wp-caption-text">תמונה: Island</p></div>
+<p>ספטמבר האיר פנים על הסטארטאפים הבוגרים של האקוסיסטם, והיום (ה') מצטרפת לרשימה המכובדת הזאת גם Island של דן אמיגה &#8211; שחושפת סבב גיוס ענקי בסך 400 מיליון דולר.</p>
+<h2>&quot;מהתחלה האסטרטגיה שלנו הייתה לבנות פלטפורמה גדולה&quot;</h2>
+<p>חברת הסייבר הישראלית-אמריקאית הייתה בין הראשונות להיכנס לתחום הדפדפנים המאובטחים ומאז הספיקה להתרחב לתחומים נוספים &#8211; כולל יצירת שכבת אבטחה ובקרה שבאמצעותה ארגונים מנהלים תהליכים מבוססי AI. המוצר הראשון של איילנד היה דפדפן ארגוני (Island Enterprise Browser) שמאפשר בין היתר להגן על מערכת ההפעלה; להפעיל מנגנון Isolation, מנגנון Anti Phishing, Anti Exploitation, Anti Malware; מניעת דליפה של מידע, הגנה מפני Extensions מסוכנים; זיהוי גישה לרשתות לא מאובטחות ועוד – הכל בסביבת הדפדפן. במקביל, המוצר של החברה מאפשר ניטור של פעילות משתמשים, פרוטוקולי רשת, גישה לזיכרון ולדיסק ולשכבות האפליקציה, ומזהה חריגות, שגיאות והתנהגויות מסוכנות של תוקפים, דליפות מידע ופעולות סוכנות של משתמשים.</p>
+<p>מוקדם יותר השנה חשפה איילנד את Perfect Packet, ארכיטקטורת Modern SASE שפותחה על ידי צוותי ה-R&amp;D של החברה בישראל. הארכיטקטורה נבנתה עבור סביבות עבודה מבוססות דפדפנים, אפליקציות SaaS וסוכני AI, מתוך הבנה שדפוסי העבודה הארגוניים השתנו ואינם מתרכזים עוד ברשת הפנימית בלבד. בניגוד למודלים מסורתיים המבוססים על ניתוב תעבורה דרך פרוקסי מרוחק, המערכת מעבירה את האכיפה והבקרה ישירות לדפדפן, לנקודות קצה ולענן. &quot;מהתחלה האסטרטגיה שלנו הייתה לבנות פלטפורמה גדולה, והדפדפן היה רק הפתרון הראשון. הארכיטקטורה שלנו הוכיחה את עצמה, מכיוון שהיא מבוססת על אבני בניין שבנינו עוד בשלב מוקדם ולאורך צמיחת החברה נכנסו למוצרים חדשים&quot;, אומר <strong>בשיחה עם גיקטיים</strong> דן אמיגה &#8211; CTO ומייסד-שותף באיילנד. הוא אומר עוד כי &quot;אימוץ ה-AI ארגוני 'שבור מיסודו' כי אין שכבת בקרה אחידה על עמדת קצה, שכבת התצוגה, שכבת המידע וההרשאות, שכבת הרשת והדפדפנים. זאת הסיבה שהרחבנו את הפלטפורמה להגן ולאפשר לארגונים לאמץ AI&quot;.</p>
+<p>אמיגה מוכר בין היתר בזכות היותו אחד ממייסדי <a href="https://www.geektime.co.il/fireglass-acquired-by-symantec/">Fireglass שנרכשה ב-2017 על ידי Symantec</a>. מנכ&quot;ל החברה ומי שייסד אותה עם אמיגה הוא מייק פיי, שהיה ה-COO והנשיא של Symantec. המטה של Island נמצא בארה”ב, ומרכז המו&quot;פ שלה נמצא בתל אביב תחת ניהולו של אמיגה.</p>
+<h2>השווי קפץ ביותר ממיליארד דולר</h2>
+<p>היום מדווחת החברה על השלמת סבב גיוס חדש שמזניק את השווי שלה ל-6.4 מיליארד דולר, עלייה משמעותית מאז <a href="https://www.geektime.co.il/israeli-startup-island-raises-250m-with-5b-valuation/">הגיוס הקודם במרץ 2025 אז שוויה הוערך בכ-5 מיליארד דולר</a>. את הסבב הובילה קרן Evolution Equity Partners, בהשתתפות משקיעים קיימים וחדשים, בהם Prysm Capital, Cyberstarts ו-Sequoia Capital, ולצדן גם Coatue Management, Insight Partners, J.P. Morgan Growth Equity Partners, Alta Park Capital, Georgian, G Squared ו-Squarepoint. יזם הסייבר דמיטרי אלפרוביץ', מייסד משותף ו-CTO לשעבר של CrowdStrike, ביצע השקעה אישית נוספת בחברה.</p>
+<p>אמיגה מספר לי כי מאז הגיוס הקודם איילנד גדלה ליותר מ-1,000 לקוחות ארגוניים בכל הורטיקלים, כולל חברות Fortune 1000, בנקים, תעשייה, ריטייל, גופי ממשל ומוסדות אקדמיה ועוד. &quot;מבחינת מוצר, הצעד המרכזי הוא השקת Island Agentic Control Plane במרץ, שהיא הרחבה מדפדפן ארגוני בלבד לפלטפורמה מאוחדת שכוללת גם דפדפני צרכן, אפליקציות דסקטופ וארכיטקטורת רשת חדשה, עם שירותי AI ארגוני, זהות, הגנת מידע ופרודוקטיביות תחת אותה מדיניות&quot;, הוסיף.</p>
+<p dir="rtl"><strong>אנחנו רואים הרבה קונסולידציה בענף. אתם גם בונים על זה כדי להיכנס לתחומים נוספים דרך רכישות?</strong></p>
+<p dir="rtl">אמיגה: &quot;אנחנו מאוד אוהבים שחברות ישראליות רוכשות חברות ישראליות ויש הרבה חברות ישראליות טובות שהתמקצעו בתחומים מעניינים בשבילנו. אנחנו תמיד מסתכלים על חברות, אבל גם מפתחים הרבה מאוד דברים חדשים בקצב גבוה מאוד אצלנו בבית&quot;.</p>
+<p>The post <a href="https://www.geektime.co.il/island-mega-round-propels-it-to-6-4b-valuation/">איילנד גייסה 400 מיליון דולר ושווה כבר 6.4 מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/island-mega-round-propels-it-to-6-4b-valuation/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>בעשרות מיליוני דולרים: Upwind רוכשת סטארטאפ ישראלי שלא הספיק להיחשף</title>
+		<link>https://www.geektime.co.il/upwind-acquires-a-new-startup/</link>
+					<comments>https://www.geektime.co.il/upwind-acquires-a-new-startup/#comments</comments>
+		
+		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 13:00:42 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Aegis]]></category>
+		<category><![CDATA[אגיס]]></category>
+		<category><![CDATA[Upwind]]></category>
+		<category><![CDATA[אפווינד]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<category><![CDATA[אקזיט כחול לבן]]></category>
+		<category><![CDATA[רכישה]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592198</guid>
 
-  <script>
-    window._cf_translation = {};
-    
-    
-  </script>
-<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4635f0619fb144a',t:'MTc5MTI3NjEzMA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
-</html>
+					<description><![CDATA[<p>חברת הסייבר הישראלית Upwind ממשיכה את המומנטום האדיר שלה. אחרי שגייסה 300 מיליון דולר בתחילת החודש והכפילה את השווי שלה בפחות משנה, ואחרי שגם כבשה את כנס Geektime Code 2026, היא כעת מודיעה על רכישה של סטארטאפ ישראלי שלא הספיק אפילו לצאת מ-Stealth. כעת יפתח חד הקרן מעבדה חדשה בהובלת היזמים. משותפה אסטרטגית לרוכשת תוך [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/upwind-acquires-a-new-startup/">בעשרות מיליוני דולרים: Upwind רוכשת סטארטאפ ישראלי שלא הספיק להיחשף</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_592202" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592202" class="size-large wp-image-592202" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Omri-Saar-48-1024x682.jpg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Omri-Saar-48-1024x682.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Omri-Saar-48-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Omri-Saar-48-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Omri-Saar-48-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Omri-Saar-48-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Omri-Saar-48-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Omri-Saar-48.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592202" class="wp-caption-text">עמרי לימור וסער אנקונינה לצד עמירם שחר, מנכ&quot;ל ומייסד Upwind. צילום: עומר גואטה</p></div>
+<p>חברת הסייבר הישראלית Upwind ממשיכה את המומנטום האדיר שלה. אחרי <a href="https://www.geektime.co.il/upwind-raises-300m-series-c/">שגייסה 300 מיליון דולר</a> בתחילת החודש והכפילה את השווי שלה בפחות משנה, ואחרי שגם <a href="https://www.geektime.co.il/geektime-code-2026-opening-keynote/">כבשה את כנס Geektime Code 2026</a>, היא כעת מודיעה על רכישה של סטארטאפ ישראלי שלא הספיק אפילו לצאת מ-Stealth. כעת יפתח חד הקרן מעבדה חדשה בהובלת היזמים.</p>
+<h2>משותפה אסטרטגית לרוכשת תוך כמה חודשים</h2>
+<p>אפווינד הודיעה היום (ד') על רכישת סטארטאפ הסייבר Aegis. על פי אפווינד, מדובר בעסקת מניות הנאמדת בסכום של עשרות מיליוני דולרים. Aegis הוקמה על ידי עמרי לימור וסער אנקונינה, והסטארטאפ פיתח מוצר לאבטחת תשתיות AI עם דגש על סוכני AI. &quot;המוצר עסק בסריקת סוכנים ואת התוספות שלהם על עמדות קצה בארגונים, הסריקה הייתה מחפשת בעיות אבטחה, מזהה תקיפות בזמן אמת ומונעת אותן&quot;, נסבער עמרי לימור, שותף מייסד ב-Aegis בשיחה עם גיקטיים. בחברה מספרים כי Aegis עבדה עם Upwind במסגרת שיתוף פעולה אסטרטגי, ולאחר מספר חודשים, הוחלט ב-Upwind לרכוש את החברה &#8211; שאפילו לא הספיקה להיחשף. לימור מסביר כי פנה עם אנקונינה ל-VP Product &amp; Research ב-Upwind, שבמקרה, או שלא, השלושה גם נפגשו בבה&quot;ד 1 במהלך קורס קצינים, והציגו לו את הרעיון. &quot;מאוד מהר תוך כדי ה-POC המוצר התברר כחלק נוסף במוצר הכללי של החברה, ואבן מרכזית במענה לעולם האבטחה על AI. משם הדרך לשיתוף פעולה הייתה מאוד מהירה&quot;, אומר לימור.</p>
+<p>בעקבות הרכישה, לימור ואנקונינה יקימו ויובילו מחלקה חדשה, Upwind AI Security Labs. זוהי מעבדה חדשה שתשלב את הטכנולוגיות של Aegis עם היכולות הקיימות של Upwind, ותהיה אחראית על זיהוי טכניקות תקיפה חדשות, סריקה ואיתור של איומים תוך פיתוח יכולות אבטחה עבור סביבות AI. המעבדה כוללת 12 מפתחים וחוקרים משתי החברות המשולבות, והחברה טוענת כי מתכפיל את מספר העובדים במעבדה ברבעון הקרוב. &quot;המעבדה אמורה להתעסק בבעיות מחקריות שאין להן תשובה תוך תזוזה מהירה מול השוק שמשתנה&quot;, מסביר לימור. &quot;שמנו לדגלנו עם הצוות של Upwind להקים את מעבדת ה-AI Cyber הגדולה במדינה תוך התחשבות גם בצד של הסייבר וגם בצד של ה-AI כדי באמת לייצר שינוי אמיתי בשוק תוך הזדמנות להיות בחברה שהולכת להוביל שוק שעוד לא קיים בעזרת צוותים שבאמת מבינים איך AI עובד&quot;.</p>
+<h2>ב-Upwind אומרים: נהפוך מחקרים ליכולות הגנה במהירות</h2>
+<p>Upwind מפתחת מערכת לאבטחת תשתיות ענן המשתמשת במידע, שבדרך כלל יושב אצל צוותי ה-operations בארגונים, ומנגישה אותו בצורה קלה וקונטקסטואלית לצוותי אבטחת המידע. על פי עמירם שחר, שותף-מייסד ומנכ&quot;ל הסטארטאפ, אחת הבעיות המרכזיות ש-Upwind פותרת היא עומס ההתרעות (ה-Alert Fatigue המפורסם) שחווים צוותי אבטחה. פלטפורמת ה-CNAPP של החברה יודעת להפחית רעשים ולתעדף סיכונים על בסיס נתונים חיים מהשטח. לפי נתונים של החברה, לקוחותיה מדווחים על ירידה של 98% בכמות התרעות הסרק ועל צמצום של 60% בזיהוי חולשות אבטחה (CVE) שאינן רלוונטיות בפועל לסביבת הייצור. המוצר שפיתחו בחברה מסוגל לחסום תקשורת בזמן אמת, למנוע תהליכים מלרוץ, לזהות פריצות ואיומים ולחסום אותם לפני שהם מייצרים נזק, בזמן שצוותי אבטחת המידע נמצאים בשליטה מלאה על הסיטואציה.</p>
+<p>&quot;ההתפתחויות בתחום ה-AI משנות במהירות גם את עולם הסייבר ואת היכולות שעומדות לרשות התוקפים&quot;, אמר עמירם שחר, מנכ&quot;ל ושותף מייסד ב-Upwind. &quot;הרכישה של Aegis והצטרפותם של עמרי וסער מאפשרות לנו לבנות צוות שיכול להתקדם באותו קצב. השילוב בין המומחיות שלהם באבטחת סוכני AI, לבין הפלטפורמה הקיימת של Upwind יאפשרו לנו להפוך מחקר על איומים חדשים ליכולות הגנה מעשיות עבור ארגונים במהירות רבה יותר&quot;.</p>
+<p>אפווינד הודיעה רק בתחילת החודש על גיוס בהיקף של 300 מיליון דולר, שהושלם על פי שווי של 3.8 מיליארד דולר. כל זאת פחות משנה לאחר <a href="https://www.geektime.co.il/upwind-series-b-funding-unicorn-250m/">שהפכה לחד קרן וגייסה סכום ענק</a>. מאז הקמתה ב-2022 גייסה אפווינד יותר מ-400 מיליון דולר.</p>
+<p>The post <a href="https://www.geektime.co.il/upwind-acquires-a-new-startup/">בעשרות מיליוני דולרים: Upwind רוכשת סטארטאפ ישראלי שלא הספיק להיחשף</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/upwind-acquires-a-new-startup/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>מצוקת כוח האדם בבתי חולים היא האוצר של הסטארטאפ הישראלי הזה</title>
+		<link>https://www.geektime.co.il/ultrasight-raises-24m-series-b/</link>
+					<comments>https://www.geektime.co.il/ultrasight-raises-24m-series-b/#respond</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 12:00:33 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[ultrasight]]></category>
+		<category><![CDATA[אולטרה סייט]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592139</guid>
+
+					<description><![CDATA[<p>אם אי פעם הייתם בבדיקת אולטרה-סאונד עם בת הזוג או קרובי משפחה, אתם יודעים שכדי לבצע אותה, אתם זקוקים לטכנאים מוכשרים ולא מדובר בפעולה שכל אדם יכול לבצע. עם הפיתוח הישראלי הזה, הצורך הזה מתייתר &#8211; ובכך ניתן לספק להרבה יותר אנשים טיפול משמעותי בזמן קצר יותר. נהנים ממצוקת כוח האדם בארה&#34;ב הסטארטאפ הישראלי UltraSight [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/ultrasight-raises-24m-series-b/">מצוקת כוח האדם בבתי חולים היא האוצר של הסטארטאפ הישראלי הזה</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_592142" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592142" class="size-large wp-image-592142" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Ultrasight-team-photo.-Credit-Ultrasight-1024x529.jpg" alt="" width="1024" height="529" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Ultrasight-team-photo.-Credit-Ultrasight-1024x529.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Ultrasight-team-photo.-Credit-Ultrasight-300x155.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Ultrasight-team-photo.-Credit-Ultrasight-768x396.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Ultrasight-team-photo.-Credit-Ultrasight-793x409.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Ultrasight-team-photo.-Credit-Ultrasight.jpg 1261w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592142" class="wp-caption-text">מקור: אולטרה-סייט</p></div>
+<p>אם אי פעם הייתם בבדיקת אולטרה-סאונד עם בת הזוג או קרובי משפחה, אתם יודעים שכדי לבצע אותה, אתם זקוקים לטכנאים מוכשרים ולא מדובר בפעולה שכל אדם יכול לבצע. עם הפיתוח הישראלי הזה, הצורך הזה מתייתר &#8211; ובכך ניתן לספק להרבה יותר אנשים טיפול משמעותי בזמן קצר יותר.</p>
+<h2>נהנים ממצוקת כוח האדם בארה&quot;ב</h2>
+<p>הסטארטאפ הישראלי UltraSight פיתח טכנולוגיה מבוססת AI (עוד לפני ChatGPT, קלוד וחבריהם) המאפשרת לאבחן במהירות ובדיוק בדיקות אולטרה-סאונד. הממשק של החברה מספק הנחיות בזמן אמת עבור מי שמפעיל את האולטרה-סאונד, כולל כיצד לאחוז ולהזיז את מתמר האולטרה-סאונד על מנת לקבל תמונות באיכות אבחונית, ללא קשר לרמת המיומנות שלו בסריקת אולטרה-סאונד. המוצר של החברה נקרא Navigator, מכיוון שהוא &quot;מנווט&quot; את הפעולות של מי שאינם טכנאים במכוני אקו-לב, ובכך חוסך את התלות בטכנאים שדורשים הכשרה ארוכה ואימון יומי כדי לשמור על רמת מקצועיות גבוהה. כך יכולים הצוותים לבצע באמצעות מכשירי אולטרה-סאונד ניידים את הבדיקות בכל סביבה טיפולית – ולאפשר ליותר חולים לקבל אבחון מדויק וטיפול שתואם את תוצאות הבדיקה שלהם במהירות. בבסיס שלו משתמש Navigator במודלים של deep learning על אקו דו-ממדי (B-mode). המודל מנתח את הזרם בזמן אמת ואומר למפעיל כיצד להזיז את המתמר כדי להגיע לחתכים הסטנדרטיים (Parasternal, Subcostal, Apical). האלגוריתם מעריך את איכות התמונה תוך כדי, ובוחר אוטומטית את ה-clip הטוב ביותר לכל חתך.</p>
+<p>דוידי וורטמן, מנכ&quot;ל אולטרה-סייט, אומר <strong>בשיחה עם גיקטיים </strong>כי מאז <a href="https://www.geektime.co.il/ultrasight-raises-13m-in-series-b/">הגיוס האחרון של הסטארטאפ ב-2021</a> הם התעסקו במה שהוא מכנה &quot;החלקים הקשים שלא עושים כותרות&quot;, כמו למשל קבלת אישור FDA ל-Navigator, בניית מחקרים קליניים מול בתי חולים אמיתיים, ולמידה מלקוחות ראשונים. &quot;ב-2021 המוצר ידע להנחות אדם להגיע לתמונת אקו איכותית: להוביל בזמן אמת מישהו שהוא לא מומחה באקו לב ולהנחות אותו איך להזיז את המתמר של האולטראסאונד עד שהוא מקבל תמונה באיכות אבחונית&quot;, הוא מספר. &quot;מאז קרו שני דברים מהותיים: Navigator נמצא בשימוש אמיתי בשטח, לא הדגמה; ועל בסיס היכולת שלו בנינו שכבות נוספות שיודעות לקחת פרוצדורה מורכבת או Workflow שדורש מדדים מדויקים כדי לענות על שאלות קליניות ולייצר את כל התהליך קצה לקצה עד קבלת דאטה שמאפשר לבצע פעולות בשטח&quot;. וורטמן אומר כי מאז אותו גיוס הם עברו ממצב שבו רצו שהמוצר רק &quot;יעזור לצלם תמונה טובה&quot; למצב שבו הוא כבר יכול לבצע פעולות מורכבות יותר כמו לקבל החלטה בצורה מהירה וללא תלות במומחה, עם ביצוע הבדיקה.</p>
+<p>הוא מוסיף כי נכון לעכשיו הסטארטאפ ממוצב היטב, מכיוון שבשוק הרפואי בארה&quot;ב יש מצוקת כוח אדם, לצד עלייה בביקוש לבדיקות אקו לב &#8211; מה שהופך את המוצר שלהם לשימושי ונחוץ במיוחד. &quot;אנחנו רואים את המשבר הזה כהזדמנות להביא ערך אמיתי. זה כבר קורה ב-10 בתי חולים, מהמובילים בארה&quot;ב והמטרה שלנו היא להגיע ליותר מ-100 בתי חולים בשנה הקרובה&quot;, הוסיף.</p>
+<p>את אולטרה-סייט הקימו ב-2018 איתי קזורר (CTO), ירון ליפמן (יועץ מדעי) ואחי לודמירסקי (Chief Medical Officer). דוידי וורטמן, שלא היה בין מייסדי הסטארטאפ, מכהן כמנכ&quot;ל. באולטרה-סייט מועסקים כיום 25 עובדים, מתוכם 19 בישראל והשאר בארה&quot;ב. היום (ד') מדווח הסטארטאפ על השלמת סבב גיוס B בהיקף של 24 מיליון דולר. את סבב ההשקעה הובילה קרן Alive HealthTech Growth Fund, והשתתפו בו משקיעים נוספים, בהם Deep Insight, Star51 Capital, קרןConnecticut Innovations, ו-eHealth Ventures, לצד משקיעים קודמים בחברה ובהם Mayo Clinic Ventures, NYU ו-Iron Nation.</p>
+<p>The post <a href="https://www.geektime.co.il/ultrasight-raises-24m-series-b/">מצוקת כוח האדם בבתי חולים היא האוצר של הסטארטאפ הישראלי הזה</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/ultrasight-raises-24m-series-b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>מיליארד ב-3 חודשים: Cyera גייסה עוד 400 מיליון דולר</title>
+		<link>https://www.geektime.co.il/cyera-raises-1b-in-3-months/</link>
+					<comments>https://www.geektime.co.il/cyera-raises-1b-in-3-months/#respond</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 11:18:18 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Cyera]]></category>
+		<category><![CDATA[סייארה]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592129</guid>
+
+					<description><![CDATA[<p>אחרי שנים שבהן Wiz החזיקה בתואר, נראה ש-Cyera הפכה לחברה החדשה שזוכה למבול השקעות בלתי פוסק. ביוני האחרון דיווחה על גיוס 600 מיליון דולר, והיום (ג') היא מרחיבה את הסבב למיליארד דולר בדיוק. שווים יותר מ-Wiz בשיאה סייארה הכריזה היום על גיוס 400 מיליון דולר מ-Goldman Sachs Alternatives, כהרחבה לסבב G שעליו הכריזה לפני שלושה [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/cyera-raises-1b-in-3-months/">מיליארד ב-3 חודשים: Cyera גייסה עוד 400 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_584967" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-584967" class="size-large wp-image-584967" src="https://cdn.geektime.co.il/wp-content/uploads/2026/06/cyera-699c9787a6e056c1c4d49fce_Cyera-Company-Employees-2026-06-03-10-54-02-1024x428.jpg" alt="" width="1024" height="428" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/06/cyera-699c9787a6e056c1c4d49fce_Cyera-Company-Employees-2026-06-03-10-54-02-1024x428.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/06/cyera-699c9787a6e056c1c4d49fce_Cyera-Company-Employees-2026-06-03-10-54-02-300x125.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/06/cyera-699c9787a6e056c1c4d49fce_Cyera-Company-Employees-2026-06-03-10-54-02-768x321.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/06/cyera-699c9787a6e056c1c4d49fce_Cyera-Company-Employees-2026-06-03-10-54-02-1536x642.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/06/cyera-699c9787a6e056c1c4d49fce_Cyera-Company-Employees-2026-06-03-10-54-02-793x331.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/06/cyera-699c9787a6e056c1c4d49fce_Cyera-Company-Employees-2026-06-03-10-54-02.jpg 1968w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-584967" class="wp-caption-text">עובדי Cyera. תמונה: אתר Cyera</p></div>
+<p>אחרי שנים שבהן Wiz החזיקה בתואר, נראה ש-Cyera הפכה לחברה החדשה שזוכה למבול השקעות בלתי פוסק. <a href="https://www.geektime.co.il/cyera-raises-600m/">ביוני האחרון דיווחה על גיוס 600 מיליון דולר</a>, והיום (ג') היא מרחיבה את הסבב למיליארד דולר בדיוק.</p>
+<h2>שווים יותר מ-Wiz בשיאה</h2>
+<p>סייארה הכריזה היום על גיוס 400 מיליון דולר מ-<span style="font-weight: 400;">Goldman Sachs Alternatives, כהרחבה לסבב G שעליו הכריזה לפני שלושה חודשים בלבד. ההרחבה משאירה את שווי החברה מאותו הסבב על כ-12 מיליארד דולר, הערכה שהכפילה את שווי החברה </span><a href="https://www.geektime.co.il/cyera-officially-raises-540m/">מסבב הגיוס ביוני 2025</a>. כבר ביוני עקפה סייארה את <a href="https://www.geektime.co.il/wiz-breaks-all-the-records-with-1b-funding-round/">שווי השיא של Wiz</a> של אסף רפפורט עד <a href="https://www.geektime.co.il/wiz-is-officially-a-part-of-google/">שנרכשה ע&quot;י גוגל ב-32 מיליארד דולר</a>. הסבב שהוכרז ביוני הובל על ידי Evolution Equity Partners, בהשתתפות Cyberstarts ו-Temasek, לצד כלל המשקיעים הקיימים, בהם Sequoia, Accel, AT&amp;T Ventures, Blackstone, Coatue ו-Spark Capital. הגיוס של מיליארד דולר בשלושה חודשים אומר כי סייארה, על הנייר, הצליחה לגייס ממשקיעים את כל הסכום הנחוץ לה <a href="https://www.geektime.co.il/cyera-acquires-oasis/">לרכישת הסטארטאפ Oasis &#8211; שהוכרזה ביולי האחרון</a>.</p>
+<p><span style="font-weight: 400;">את Cyera הקימו ב-2021 יותם שגב (מנכ&quot;ל), יונתן איתי (סמנכ&quot;ל מחקר ופיתוח) ותמר בר-אילן (סמנכ&quot;ל טכנולוגיות), שלושתם בוגרי תוכנית תלפיות ויחידת 8200. החברה גייסה לאורך השנים ממשקיעים מובילים בהם Lightspeed, Greenoaks, Georgian, Sapphire, Sequoia Capital, Accel, Coatue, Cyberstarts, Redpoint ו-Spark Capital. בין לקוחותיה נמנות חברות ענק כמו Paramount, Chipotle ו-Valvoline ועוד.</span></p>
+<p>הטכנולוגיה של החברה מתבססת על DSPM (או Data Security Posture Management) והיא מספקת לארגונים תמונת מצב מקיפה של המידע שלהם בענן – מה קיים, איפה הוא נשמר ומי ניגש אליו. זו יכולת קריטית עבור חברות שמאמצות כלים מבוססי AI, שדורשים גישה למידע רגיש. בשונה ממוצרים שמסתפקים במיפוי נכסים, המערכת של סייארה מחפשת באופן אקטיבי את המידע הרגיש. לאחר זיהוי מאגרי הנתונים בענן, המערכת מסווגת אותם לקטגוריות כמו פרטים אישיים, מידע פיננסי, רפואי, קניין רוחני ועוד. רק בשלב זה היא מאתרת פרצות אבטחה או כשלי רגולציה. בתום הסריקה, המערכת מספקת תוכנית פעולה לתיקון הבעיות ומציעה כלים לשיפור עתידי.</p>
+<p>בסייארה אומרים כי ההשקעה החדשה <span style="font-weight: 400;">תשמש להמשך פיתוח יכולות חדשות בפלטפורמת אבטחת ה-AI שלה, לצד העמקת הפעילות בשוק הפדרלי בארה&quot;ב והמשך ההתרחבות באירופה, המזרח התיכון ואפריקה (EMEA) ובאסיה-פסיפיק (APAC), על רקע הביקוש הגובר מצד ארגונים לפיקוח ושליטה על סוכני AI.</span></p>
+<p>The post <a href="https://www.geektime.co.il/cyera-raises-1b-in-3-months/">מיליארד ב-3 חודשים: Cyera גייסה עוד 400 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/cyera-raises-1b-in-3-months/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>הסטארטאפ שיצא מאינטל נמכר עכשיו בחצי מיליארד דולר</title>
+		<link>https://www.geektime.co.il/realsense-sold-for-half-a-billion-after-being-spun-out-of-intel/</link>
+					<comments>https://www.geektime.co.il/realsense-sold-for-half-a-billion-after-being-spun-out-of-intel/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 11:00:26 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[כללי]]></category>
+		<category><![CDATA[רילסנס]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[RealSense]]></category>
+		<category><![CDATA[אינטל]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<category><![CDATA[רכישה]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592119</guid>
+
+					<description><![CDATA[<p>לא פעם אנחנו שומעים על סטארטאפים שיוצאים מתוך חברות גדולות, אך זה לא תמיד אומר שמדובר בהצלחה ודאית. במקרה של RealSense, מדובר בפיתוח שכבר דווח שייסגר לחלוטין &#8211; והיום מודיע על אקזיט מרשים ביותר. ההודעה יצאה, ואז האקוסיסטם חסם את הצעד באוגוסט 2021 הכריזה אינטל, שהייתה אז במצב הרבה פחות סימפטי מזה שהיא נמצאת בו [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/realsense-sold-for-half-a-billion-after-being-spun-out-of-intel/">הסטארטאפ שיצא מאינטל נמכר עכשיו בחצי מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_592125" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592125" class="size-large wp-image-592125" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/RealSense-Team-Photo-1-1024x768.jpg" alt="" width="1024" height="768" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/RealSense-Team-Photo-1-1024x768.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RealSense-Team-Photo-1-300x225.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RealSense-Team-Photo-1-768x576.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RealSense-Team-Photo-1-1536x1152.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RealSense-Team-Photo-1-793x595.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RealSense-Team-Photo-1.jpg 1600w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592125" class="wp-caption-text">הצוות המוביל של רילסנס | מקור: רילסנס</p></div>
+<p>לא פעם אנחנו שומעים על סטארטאפים שיוצאים מתוך חברות גדולות, אך זה לא תמיד אומר שמדובר בהצלחה ודאית. במקרה של RealSense, מדובר בפיתוח שכבר דווח שייסגר לחלוטין &#8211; והיום מודיע על אקזיט מרשים ביותר.</p>
+<h2>ההודעה יצאה, ואז האקוסיסטם חסם את הצעד</h2>
+<p>באוגוסט 2021 הכריזה אינטל, שהייתה אז במצב הרבה פחות סימפטי מזה שהיא נמצאת בו כיום, כי תסגור את RealSense &#8211; החטיבה שלה שפיתחה מצלמות עומק ושרוב עובדיה היו ישראלים. למרות ההודעה, בסופו של דבר אינטל פיטרה רק כמה עובדים מהחטיבה וזו פעלה בשקט במשך כשלוש שנים וחצי. בינואר 2025, אחרי שהחברה פעלה מתחת לרדאר בתוך אינטל והתפתחה &#8211; היא יצאה מתוך אינטל והחלה לפעול בתור סטארטאפ.</p>
+<p>&quot;ההודעה ב-2021 יצאה, ואז קרה משהו שלא רואים הרבה בתאגידים בסדר גודל של אינטל: הטלפונים התחילו לצלצל. לקוחות, שותפים וכל האקוסיסטם הרובוטי שכבר נבנה סביב המצלמות שלנו הבהירו שהמוצר הזה אינו 'עוד רכיב' עבורם אלא תשתית קריטית שהרובוטים שלהם לא יכולים לזוז בלעדיה&quot;, מסביר <strong>בשיחה עם גיקטיים</strong> נדב אורבך &#8211; מנכ&quot;ל רילסנס, &quot;אינטל הקשיבה, הבינה שהעיתוי והמהלך היו שגויים, והחליטה להמשיך את הפעילות במתכונת ממוקדת יותר. בדיעבד, ההחלטה הזו היא מה ששימר את הצוות, את הידע ואת בסיס הלקוחות שאיתם יצאנו לדרך כחברה עצמאית&quot;.</p>
+<p>רילסנס נחשף כסטארטאפ עם גיוס של 50 מיליון דולר, כולל השקעה מאינטל עצמה דרך זרוע Intel Capital, ומוביל אותו אורבך, שהיה סמנכ&quot;ל באינטל ומייסד תחום הראייה הממוחשבת בחברה, יחד עם מארק יאהירו, מייסד רילסנס שהיה גם הוא בתואר סמנכ&quot;ל באינטל. אורבך מספר כי בסופו של דבר לא היה מדובר בפרידה, אלא שינוי במערכת היחסים בין שתי החברות: &quot;אינטל עזרה לנו לעמוד על הרגליים, וחשוב מכך &#8211; בחרה להשקיע בנו כחברה פרטית. תאגיד לא משקיע בחברה שהוא לא מאמין בה. יצאנו עם בסיס טכנולוגי, IP וצוות שנבנו במשך יותר מעשור, ועם שותף אסטרטגי סביב שולחן הדירקטוריון&quot;.</p>
+<h2>מגה-רכישה תוך פחות משנתיים</h2>
+<p>היום (ג') מדווח הסטארטאפ שיצא מאינטל, פחות משנתיים אחרי שהפך עצמאי, כי הוא נרכש בעסקת ענק בשווי של יותר מחצי מיליארד דולר. Cognex, חברת ענק בתחום הראייה הממוחשבת, הודיעה על רכישת RealSense בעסקה שבה תשלם כחצי מיליארד דולר במזומן עבור רילסנס, לצד הקצאת 106 מיליון דולר לעובדי RealSense בחבילת מענקים במניות, מזומן ואופציות. העסקה צפויה להיסגר סופית ברבעון הרביעי לשנה, ובמסגרתה יהפוך הסטארטאפ &#8211; המעסיק כ-135 מתוך 180 העובדים שלו בישראל &#8211; למרכז הפיתוח של קוגנקס בארץ.</p>
+<p><strong>איך עברה התקופה הזו מאז ההפיכה לעצמאיים ועד הרכישה?</strong></p>
+<p>אורבך: &quot;הדימוי הכי מדויק שיש לי הוא טיסה במהירות שיוט בזמן שמרכיבים חלק מהמטוס באוויר. כשאתה חטיבה של אינטל, השם עושה חלק מהעבודה. כסטארטאפ עצמאי, היינו צריכים להוכיח ללקוחות הגדולים בעולם שהם יכולים להמשיך לסמוך עלינו כספק של מערכת הראייה של הרובוט שלהם &#8211; שחייבת להיות מדויקת ואמינה בכל תנאי תאורה, מרחק וסביבה. במקביל לא עצרנו לרגע את הפיתוח. השקנו ארבע מצלמות חדשות, ובנינו יכולות תוכנה מתקדמות שאנחנו משחררים למפתחים ברחבי העולם בקצב של כל כמה שבועות &#8211; כולל יכולות Perception מתקדמות שרצות ישירות על המצלמה, ומוצרים עם שותפים כמו NVIDIA&quot;.</p>
+<p>אורבך מדגיש כי כל העובדים הישראלים יישארו ברילסנס אחרי הרכישה, וזו אחת הסיבות שהיא קרתה בכלל: &quot;הצוות הישראלי הוא מרכז הפיתוח והלב הפועם של החברה. היכולות והידע שיש כאן, כמו גם יכולות האקוסיסטם הישראלי, הם חלק מהותי במוטיבציה לעסקה&quot;. הוא גם אומר לנו כי העסקה כוללת חלק מעניין נוסף, כאשר חטיבת זיהוי ואימות הפנים של RealSense לא נכללת בעסקה ותהפוך לחברה עצמאית &#8211; כפי שקרה עם חברת האם שלה. את החברה החדשה יוביל הצוות הקיים, שמונה כ-25 עובדים של RealSense, שיתמקד בהרחבת הפעילות ובגיוס והרחבת מגוון הלקוחות.</p>
+<p>The post <a href="https://www.geektime.co.il/realsense-sold-for-half-a-billion-after-being-spun-out-of-intel/">הסטארטאפ שיצא מאינטל נמכר עכשיו בחצי מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/realsense-sold-for-half-a-billion-after-being-spun-out-of-intel/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>פחות משנה אחרי ה-Seed: הסטארטאפ Chamelio גייס עוד 26 מיליון דולר</title>
+		<link>https://www.geektime.co.il/chamelio-raises-another-26m-round-a/</link>
+					<comments>https://www.geektime.co.il/chamelio-raises-another-26m-round-a/#respond</comments>
+		
+		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 10:00:20 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Chamelio]]></category>
+		<category><![CDATA[קמליו]]></category>
+		<category><![CDATA[קמיליו]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=592116</guid>
+
+					<description><![CDATA[<p>פחות משנה. זה כל פרק הזמן שלקח לסטארטאפ Chamelio לגייס עוד 26 מיליון דולר מאז סבב ה-Seed. בשיחה עם גיקטיים מסביר מנכ&#34;ל החברה כי המציאות יצרה הזדמנות להאיץ את ההתקדמות של החברה, ומספר על הפיצ'רים החדשים של המערכת שהצליחה להשיג את Wiz כלקוח. מ-10 מיליון דולר ל-26 מיליון דולר ב-9 חודשים Chamelio מפתחת מערכת שמרכזת [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/chamelio-raises-another-26m-round-a/">פחות משנה אחרי ה-Seed: הסטארטאפ Chamelio גייס עוד 26 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_576360" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-576360" class="size-large wp-image-576360" src="https://cdn.geektime.co.il/wp-content/uploads/2026/01/Chamelio-team.-credit-Yuval-Shemesh-1-1024x781.jpg" alt="" width="1024" height="781" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/01/Chamelio-team.-credit-Yuval-Shemesh-1-1024x781.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/01/Chamelio-team.-credit-Yuval-Shemesh-1-300x229.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/01/Chamelio-team.-credit-Yuval-Shemesh-1-768x586.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/01/Chamelio-team.-credit-Yuval-Shemesh-1-1536x1171.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/01/Chamelio-team.-credit-Yuval-Shemesh-1-2048x1562.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/01/Chamelio-team.-credit-Yuval-Shemesh-1-793x605.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-576360" class="wp-caption-text">הצוות של קמיליו עם קובלנה, הבורדר קולי המשרדית. אה, וקארל קמיליו &#8211; הקמע של החברה. תמונה: יובל שמש</p></div>
+<p>פחות משנה. זה כל פרק הזמן שלקח לסטארטאפ Chamelio לגייס עוד 26 מיליון דולר מאז סבב ה-Seed. בשיחה עם גיקטיים מסביר מנכ&quot;ל החברה כי המציאות יצרה הזדמנות להאיץ את ההתקדמות של החברה, ומספר על הפיצ'רים החדשים של המערכת שהצליחה להשיג את Wiz כלקוח.</p>
+<h2>מ-10 מיליון דולר ל-26 מיליון דולר ב-9 חודשים</h2>
+<p>Chamelio מפתחת מערכת שמרכזת ומנהלת את כל הידע והעבודה המשפטית של הארגון במקום אחד, שמלווה את הצוותים בכל תהליך: מחוזים, תבניות, סעיפים, החלטות משפטיות, משא ומתן ומדיניות. כל זאת תוך כדי שהמחלקה המשפטית יכולה להמשיך להשתמש בכלים הקיימים שלה, שגם ב-2026 כוללים מסמכים ב-Word, בקשות ב-Slack ובמייל ועוד. נראה שב-Chamelio לכל הפחות הצליחו לשכנע את כמה מהשמות הגדולים ביותר בישראל, ובהם חברות כמו Cellebrite, WSC Sports, Integrity, Source, Lightricks, Wiz ו-Fiverr, מה שהוביל בין היתר להכרזה על <a href="https://www.geektime.co.il/chamelio-raises-10m-series-seed/">סבב גיוס סיד בהיקף של 10 מיליון דולר בחודש ינואר האחרון</a>.</p>
+<p>היום (ג') מודיעה קמיליו על השלמת סבב גיוס A בהיקף של 26 מיליון דולר ובהובלת Entrée Capital. עוד השתתפו בסבב Work-Bench ו-Emerge Ventures ובשיתוף Bright Pixel Capital. עד כה גייסה החברה כ-36 מיליון דולר. כששאלתי את אלכס זילברמן, מנכ&quot;ל קמיליו, מדוע לגייס שוב בפרק זמן כל כך קצר, הוא הסביר כי מאז הגיוס הקודם, התרחשו בחברה כמה אירועים משמעותיים ובקצב יותר מהיר משציפה לו: &quot;בתוך חודשים ספורים ה-ARR שלנו גדל בערך פי 4, עברנו את רף 100 הלקוחות, והרחבנו משמעותית את העבודה עם חברות גדולות וצוותים משפטיים מורכבים. במקביל, ראינו האצה מאוד חזקה בשוק עצמו&quot;. לדבריו, גם המוצר עצמו התפתח משמעותית, כאשר כיום, Chamelio מסוגלת לא רק לסייע ליועץ המשפטי של החברה, אלא גם להשלים משימות באופן עצמאי: &quot;לדוגמה, Agents יכולים לעקוב אחרי חידושי חוזים, לזהות שינויים רגולטוריים, לעקוב אחרי משימות ותהליכים שממתינים להשלמה, להכין מסמכים, להפעיל Workflows ולערב את האנשים הנכונים בארגון כשצריך&quot;. לדבריו, החברה רואה &quot;מעבר מאוד ברור מ-AI שמחכה לפרומפט, ל-AI שמקבל אחריות ותפקיד בתוך המחלקה המשפטית. מבחינתנו זו קפיצת מדרגה משמעותית במוצר וגם באופן שבו אנחנו רואים את העתיד של התחום&quot;.</p>
+<p>בנוסף, כך טוען זילברמן, הביקוש בשוק הפך למשמעותי, וכדי להתרחב במהירות ולעמוד בקצב, החברה הייתה צריכה להגדיל את המשאבים העומדים לרשותה: &quot;לשמחתנו, מצאנו שותפים מצוינים לדרך, שרואים איתנו את גודל ההזדמנות ואת היעדים השאפתניים שהצבנו לעצמנו: להפוך את Chamelio למערכת ההפעלה של המחלקה המשפטית בכל חברה מסחרית בעולם&quot;.</p>
+<p>החברה הוקמה ב-2024 על ידי אלכס זילברמן, מנכ&quot;ל, גיל בניאס, COO וגל ללוש, CTO. זילברמן כיהן בתפקידים בכירים ב-Pagaya ו-AnyVision; בניאס היה היועץ המשפטי הראשי של AnyVision; וללוש הקים בעבר את  Task Sheriff שנמכר ל-Sage.</p>
+<p>The post <a href="https://www.geektime.co.il/chamelio-raises-another-26m-round-a/">פחות משנה אחרי ה-Seed: הסטארטאפ Chamelio גייס עוד 26 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/chamelio-raises-another-26m-round-a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>הסטארטאפ שימנע מהסוכנים שלכם להדליף מידע גייס 72 מיליון דולר</title>
+		<link>https://www.geektime.co.il/mind-security-raises-b-round/</link>
+					<comments>https://www.geektime.co.il/mind-security-raises-b-round/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 10:00:47 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[מיינד סקיוריטי]]></category>
+		<category><![CDATA[MIND Security]]></category>
+		<category><![CDATA[מיינד]]></category>
+		<category><![CDATA[mind]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591975</guid>
+
+					<description><![CDATA[<p>סוכני ה-AI הם ההבטחה הגדולה של השנתיים האחרונות, והם מתחילים לצוץ בכל מקום ואצל לא מעט עובדים. עם זאת, הם יכולים להיות כאב ראש רציני מבחינת אבטחה &#8211; והסטארטאפ הישראלי MIND רוצה לטפל בדיוק בבעיה הזאת עם הפיתוח שלו. חיבור תוך דקות הסטארטאפ הישראלי MIND מפתח מערכת למניעת חשיפה, דליפה ואובדן של מידע רגיש של [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/mind-security-raises-b-round/">הסטארטאפ שימנע מהסוכנים שלכם להדליף מידע גייס 72 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591976" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591976" class="size-large wp-image-591976" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/mind-security-team-1024x682.jpeg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/mind-security-team-1024x682.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/mind-security-team-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/mind-security-team-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/mind-security-team-1536x1023.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/mind-security-team-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/mind-security-team-793x528.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/mind-security-team.jpeg 1600w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591976" class="wp-caption-text">הצוות של מיינד והכלבים דליפת, מידע, סוכן ו-AI | צילום: תומר לשר</p></div>
+<p>סוכני ה-AI הם ההבטחה הגדולה של השנתיים האחרונות, והם מתחילים לצוץ בכל מקום ואצל לא מעט עובדים. עם זאת, הם יכולים להיות כאב ראש רציני מבחינת אבטחה &#8211; והסטארטאפ הישראלי MIND רוצה לטפל בדיוק בבעיה הזאת עם הפיתוח שלו.</p>
+<h2>חיבור תוך דקות</h2>
+<p>הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/mind/">MIND</a> מפתח מערכת למניעת חשיפה, דליפה ואובדן של מידע רגיש של הארגון. המוצר של מיינד, שמבוסס כמובן על בינה מלאכותית, מסוגל להתחבר תוך דקות לכל מקורות המידע של הארגון, לסרוק את המידע הקיים בכל המקורות, ועל פי ההקשר העסקי והסיכונים, ולתקן ולמנוע את הדליפה הבאה. כל התיקון מתבצע בכל הסביבות של הארגון, כולל בתחנות הקצה, וזאת באמצעות Agent שיושב בתחנות הקצה. כך ניתן למנוע דליפת מידע כולל חשיפה של מידע רגיש לעובדים שכבר לא מועסקים בחברה, קבלנים שסיימו את עבודתם, ומשתמשים קצת פחות זהירים באירגון.</p>
+<p>בסטארטאפ הישראלי אומרים כי המוצר שלהם הוא הראשון מסוגו לאפשר סיווג מידע ונתונים במנוחה, בתנועה ובשימוש כאחד; כולל תיקון ומניעה של דליפת מידע בכל הפלטפורמות השונות (מערכות SaaS ובינה מלאכותית, שרתים מקומיים, תחנות קצה ואימייל) באותו המוצר.</p>
+<p>הסטארטאפ הישראלי הוקם ב-2023 על ידי ערן ברק, שהספיק כבר <a href="https://www.geektime.co.il/hexadite-acquired-by-microsoft/">למכור את הסטארטאפ שלו Hexadite למיקרוסופט ב-100 מיליון דולר</a>; יחד עם איתי שוורץ (CTO), שהיה העובד הראשון ב-Torq; והוד בן נון, סמנכ&quot;ל הפיתוח, שהיה עובד הראשון ב-Dazz (<a href="https://www.geektime.co.il/wiz-acquirrers-dazz-for-450m/">שנמכרה ל-Wiz בנובמבר שעבר</a>).</p>
+<div>ברק אומר <strong>בשיחה עם גיקטיים </strong>כי החברה נהנית מההתקדמות של תחום ה-AI, לא רק בפיתוח המוצר שלה &#8211; אלא פשוט כי הוא מייצר לה עבודה. &quot;AI מאיץ את הבעיה, הוא נותן לאנשים ולמערכות אוטונומיות דרכים חדשות לגשת למידע רגיש ולהזיז אותו במהירות חסרת תקדים. במקביל, הוא נותן לנו את הטכנולוגיה להמציא מחדש את האופן שבו מגנים על המידע הזה&quot;, אומר לנו ברק, &quot;ההתאמה בין המוצר לשוק אפשרה לנו להעמיק ולהתמקד ישירות סביב סיכוני AI Agents &#8211; התחום שהופך למוקד הדאגה המרכזי של ארגונים ברגע שהם עוברים מ-Copilots לסוכנים אוטונומיים עם גישה לנתונים רגישים&quot;.</div>
+<p>הוא מספר לנו כי בשנה האחרונה מיינד רשמו זינוק משמעותי במספר הלקוחות, מה שהוביל אותם גם למקרים מעניינים &#8211; כמו זה של חברת Fortune 250: &quot;זיהינו גדילה חריגה בכמות סוכני ה-AI בארגון. חקירה מעמיקה בעזרת הפלטפורמה גילתה גישה לא מאושרת של אותם סוכנים (חלקם במחשבי הקצה וחלקם בענן) למידע הרגיש של הארגון. צוות אבטחת המידע פעל מיד למנוע את הפעולות והגדיר ניטור במערכת של מיינד כדי למנוע אירועים מסוג כזה בעתיד&quot;.</p>
+<h2>מגייסים סבב גדול חדש</h2>
+<p>היום (ד') מדווח הסטארטאפ על השלמת סבב B מרשים בהיקף של 72 מיליון דולר, קצת יותר משנה <a href="https://www.geektime.co.il/mind-raises-a-round-7-months-after-seed">אחרי הגיוס הקודם שלו</a>. <span style="font-weight: 400;">את הסבב הובילה Crosspoint Capital Partners, קרן השקעות המתמחה בסייבר וב-AI, בהשתתפות המשקיעים הקיימים YL Ventures ו-Paladin Capital Group. </span></p>
+<p>The post <a href="https://www.geektime.co.il/mind-security-raises-b-round/">הסטארטאפ שימנע מהסוכנים שלכם להדליף מידע גייס 72 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/mind-security-raises-b-round/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>הסטארטאפ שמנסה להחליף מורים לאנגלית ב-AI גייס עוד 22 מיליון דולר</title>
+		<link>https://www.geektime.co.il/loora-raises-22m-series-b/</link>
+					<comments>https://www.geektime.co.il/loora-raises-22m-series-b/#comments</comments>
+		
+		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 12:06:58 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[לימודי אנגלית]]></category>
+		<category><![CDATA[Loora]]></category>
+		<category><![CDATA[לורה]]></category>
+		<category><![CDATA[אנגלית]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591981</guid>
+
+					<description><![CDATA[<p>כן כן. אנחנו יודעים שא-ת-ם מתכתבים עם הקולגה Itzik באנגלית של לורד אנגלי ושואלים אותו מתי הוא מגיע לפינת ה-Tami-Four, אבל חלק עצום של אוכלוסיית העולם לא דובר אנגלית ברמת שפת אם. הסטארטאפ Loora מפתח אפליקציית AI שעוזרת למיליוני אנשים ללמוד אנגלית, והוא מגייס עוד 22 מיליון דולר. במקום מאות שקלים לשעה &#8211; 10 דולר [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/loora-raises-22m-series-b/">הסטארטאפ שמנסה להחליף מורים לאנגלית ב-AI גייס עוד 22 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591982" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591982" class="size-large wp-image-591982" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Team-without-Loora-1024x682.jpg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Team-without-Loora-1024x682.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Team-without-Loora-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Team-without-Loora-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Team-without-Loora-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Team-without-Loora-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Team-without-Loora-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Team-without-Loora.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591982" class="wp-caption-text">צילום: רחל פרידמן</p></div>
+<p>כן כן. אנחנו יודעים שא-ת-ם מתכתבים עם הקולגה Itzik באנגלית של לורד אנגלי ושואלים אותו מתי הוא מגיע לפינת ה-Tami-Four, אבל חלק עצום של אוכלוסיית העולם לא דובר אנגלית ברמת שפת אם. הסטארטאפ Loora מפתח אפליקציית AI שעוזרת למיליוני אנשים ללמוד אנגלית, והוא מגייס עוד 22 מיליון דולר.</p>
+<h2>במקום מאות שקלים לשעה &#8211; 10 דולר למורה AI פרטי</h2>
+<p>בלורה מסבירים כי בנו את אחד ממאגרי הנתונים הגדולים בעולם בתחום לימוד האנגלית, מה שמאפשר לחברה למדוד ולהתאים את מסלול הלמידה למשתמשים באופן אישי. הדגש של האפליקציה הוא על האפשרות לשוחח בצורה טבעית על איזה תחום שאתם רוצים – בדומה לשיחה עם מורים דוברי אנגלית, אבל בלי הצורך לשלם מאות שקלים לשעה, אלא 10 דולר בחודש.</p>
+<p>בלורה מדווחים על יותר מ-15 מיליון משתמשים עם יותר מ-200 מיליון אינטרקציות באפליקציה ו-ARR של עשרות מיליוני דולרים. על הרקע הזה, היום (ד') מודיעה לורה על השלמת סבב גיוס B בהיקף של 22 מיליון דולר בהובלת Union Tech Ventures ובהשתתפות vgames והמשקיעות הקיימות Emerge, Hearst Ventures ו-QP Ventures. עד כה גייסה החברה כ-43 מיליון דולר, והחברה טוענת כי תשתמש בכספי הגיוס להרחבת פעילות המחקר והפיתוח שעליה מבוססת מערכת הלמידה של החברה, וכן להאצת הצמיחה בארצות הברית, אירופה, אסיה ודרום אמריקה.</p>
+<p>את Loora הקימו ב-2020 רועי מור ויונתי לוי (CTO). השניים הכירו במסגרת השירות המשותף שלהם. לא, לא ב-8200, אלא בסיירת מטכ&quot;ל. סליחה, Sayeret Matkal.</p>
+<p>The post <a href="https://www.geektime.co.il/loora-raises-22m-series-b/">הסטארטאפ שמנסה להחליף מורים לאנגלית ב-AI גייס עוד 22 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/loora-raises-22m-series-b/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>אנדריסן-הורוביץ משקיעה בסטארטאפ הישראלי Keewano שנחשף היום</title>
+		<link>https://www.geektime.co.il/keewano-comes-out-of-stealth/</link>
+					<comments>https://www.geektime.co.il/keewano-comes-out-of-stealth/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 12:04:56 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Keewano]]></category>
+		<category><![CDATA[קיוואנו]]></category>
+		<category><![CDATA[סוכנים]]></category>
+		<category><![CDATA[סוכני AI]]></category>
+		<category><![CDATA[דאטה]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591889</guid>
+
+					<description><![CDATA[<p>&#34;ארגונים היום מנסים לחבר סוכנים אנליטיים לדאטה-בייסים קיימים שלא תוכננו עבורם&#34;, אומר בשיחה עם גיקטיים מארק קרדשוב, מייסד שותף ומנכ&#34;ל הסטארטאפ הישראלי Keewano שנחשף היום (ג'). וזו בדיוק הבעיה שמנסה לפתור המיזם החדש של קרדשוב: להפוך את ה-data stack הקיים של ארגונים ל-agent first, פשוט כי סוכנים ניגשים לדאטה-בייסים בצורה שונה מבני האדם שאליהם המוצר [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/keewano-comes-out-of-stealth/">אנדריסן-הורוביץ משקיעה בסטארטאפ הישראלי Keewano שנחשף היום</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591890" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591890" class="size-large wp-image-591890" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/keewano-team-5053-web-size-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/keewano-team-5053-web-size-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/keewano-team-5053-web-size-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/keewano-team-5053-web-size-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/keewano-team-5053-web-size-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/keewano-team-5053-web-size-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/keewano-team-5053-web-size-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/keewano-team-5053-web-size.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591890" class="wp-caption-text">הצוות של קיוואנו והכלבים קיאנו וריבס | צילום: תמי בר שי</p></div>
+<p>&quot;ארגונים היום מנסים לחבר סוכנים אנליטיים לדאטה-בייסים קיימים שלא תוכננו עבורם&quot;, אומר בשיחה עם גיקטיים מארק קרדשוב, מייסד שותף ומנכ&quot;ל הסטארטאפ הישראלי <a href="https://gkt.me/keewano">Keewano</a> שנחשף היום (ג'). וזו בדיוק הבעיה שמנסה לפתור המיזם החדש של קרדשוב: להפוך את ה-data stack הקיים של ארגונים ל-agent first, פשוט כי סוכנים ניגשים לדאטה-בייסים בצורה שונה מבני האדם שאליהם המוצר כוון מלכתחילה.</p>
+<p>קרדשוב מסביר שכיום מדובר בתהליך שכולל לא פעם פרויקטי הטמעה ארוכים ויקרים, שגם אחריהם הסוכנים בדרך כלל עובדים רק על חלק מהמידע שנבחר והוכן עבורם מראש, ולעיתים על מידע היסטורי ולא בזמן אמת. &quot;קיוואנו נבנה מראש בעידן ה-AI כדי לפתור את הבעיות האלה בשכבת הדאטה עצמה, במקום לנסות להפוך בדיעבד תשתית קיימת ל-agent first&quot;, הוא מוסיף.</p>
+<h2>לבנות את הדאטה-בייס מחדש</h2>
+<p>KeewanoDB, המוצר של הסטארטאפ, הוא מסד נתונים חדש הכולל מנוע ופורמט אחסון המותאמים לסוכנים שצורכים ומנתחים את המידע בעצמם. &quot;אחד ההבדלים המרכזיים הוא באופן שבו הדאטה מאורגן ונשמר&quot;, מסביר לנו קרדשוב. &quot;במקום לשמור אירועים בטבלאות ממודלות, עם קשרים מוגדרים ואופטימיזציה לפי ההנחות הקיימות מראש עבור איזה דאטה יישמר ואיזה סוגי שאילתות ירוצו עליו, קיוואנו מארגן את המידע לפי הישות הלוגית וסדר האירועים שקרו בפועל&quot;.</p>
+<p>המוצר למעשה חוסך את הצורך בריבוי טבלאות, אינדקסים או קשרים מוגדרים מראש. במקום זאת, הוא מעניק לסוכן את היכולת להריץ שאילתות לפי צרכיו, מבלי להיות מוגבל במידע מעובד. לדברי קרדשוב, גישה זו מאפשרת לעבד מיליוני אירועים במקביל בשברירי שנייה, מבלי להעביר את המידע הלוך ושוב ברשת. &quot;רק התוצאה הקומפקטית וה-context הרלוונטי חוזרים אל הסוכן&quot;, הוא מציין. המשמעות ברורה: פחות מידע שהמודל צריך לעבד, פחות טוקנים, זמני תגובה קצרים יותר ויותר context רלוונטי לתשובה.</p>
+<p>קיוואנו יכול לרוץ לצד data stack קיים או כדאטה-בייס עצמאי. ניתן להזרים אליו events ישירות מהאפליקציה באמצעות SDK או API, ובתרחיש כזה ההטמעה אורכת שעות בודדות עד ימים. במקביל, הפלטפורמה יכולה לפעול לצד data lake או message bus קיימים כשכבת אופטימיזציה ואקסלרציה לסוכנים, כאשר אינטגרציה רחבה כזו עשויה לארוך מספר שבועות.</p>
+<h2>השקעה מהקרן המוכרת בעולם</h2>
+<p>את Keewano הקימו בשנת 2024 מארק קרדשוב המשמש כמנכ&quot;ל, דימה קרגר (COO), ויטאלי בוחובסקי (CPO) ופבל ביברגל (CTO). עבור קרדשוב ובוחובסקי זהו הסטארטאפ השלישי, לאחר שמכרו את TestProject ל-Tricentis בשנת 2019 ואת Devalore ל-Abra ב-2022. ביברגל שימש בעברו כ-CTO של Plarium, וקרגר היה ה-GM שהוביל את אחד מהסטודיואים הגדולים בחברה. החברה מעסיקה כיום כ-20 עובדים במשרדיה במתחם הבורסה ברמת גן, ומתכננת להתרחב השנה גם לארה&quot;ב.</p>
+<p>כאמור היום נחשף הסטארטאפ רשמית עם גיוס Seed בהיקף של 12 מיליון דולר. את הסבב הובילה קרן Hetz Ventures, בהשתתפות אנדריסן הורוביץ (a16z) &#8211; קרן ההון-סיכון המוכרת בעולם &#8211; <a href="https://www.geektime.co.il/the-most-important-vc-in-silicon-valley-is-coming-to-israel/">דרך האקסלרטור שלה Speedrun</a>. בנוסף השתתפו בסבב Remagine Ventures, DIG Ventures ומשקיעים פרטיים.</p>
+<p>&quot;השתתפנו בתוכנית Speedrun במחזור השלישי שלה ב-2024. התהליך היה יחסית קליל, וביקרנו בסן פרנסיסקו למשך כמה שבועות. למדנו הרבה, פגשנו אנשים מעניינים והיה מאד מעשיר&quot;, מספר קרדשוב על התהליך מול a16z. האקסלרטור של הקרן מהווה תחרות ישירה ל-Y Combinator, ומשמש עבורה כדרך להגיע ליזמים מוקדם ככל האפשר.</p>
+<p>The post <a href="https://www.geektime.co.il/keewano-comes-out-of-stealth/">אנדריסן-הורוביץ משקיעה בסטארטאפ הישראלי Keewano שנחשף היום</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/keewano-comes-out-of-stealth/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ותודה לדאטה-סנטרים: גיוס ענק ל-Buildots שמתקרב לשווי של מיליארד דולר</title>
+		<link>https://www.geektime.co.il/buildots-raises-130m/</link>
+					<comments>https://www.geektime.co.il/buildots-raises-130m/#respond</comments>
+		
+		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 12:08:03 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Buildots]]></category>
+		<category><![CDATA[בילדוטס]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<category><![CDATA[גיוסים]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591798</guid>
+
+					<description><![CDATA[<p>במקביל לעלייה המטאורית בשימוש בכלי AI, ישנה כמובן עלייה אדירה בבנייה של דאטה סנטרים, שיתמכו בכל הקוד שאתם מג'נרטים ובכל התמונות המיותרות שאתם שולחים. אבל כל טעות בבנייה של הפרויקטים הללו עלולה להוביל להוצאות אדירות ועיכובים משמעותיים בתקופה שבה כל רגע חשוב. כאן נכנסת לתמונה פלטפורמה ישראלית שמנטרת פרויקטים במיליארדים בעזרת קסדות חכמות, ומגייסת עכשיו [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/buildots-raises-130m/">ותודה לדאטה-סנטרים: גיוס ענק ל-Buildots שמתקרב לשווי של מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_546783" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-546783" class="size-large wp-image-546783" src="https://cdn.geektime.co.il/wp-content/uploads/2025/05/IMG_3377-1024x682.jpg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2025/05/IMG_3377-1024x682.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/IMG_3377-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/IMG_3377-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/IMG_3377-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/IMG_3377-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/IMG_3377-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/IMG_3377.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-546783" class="wp-caption-text">מקור: Buildots</p></div>
+<p>במקביל לעלייה המטאורית בשימוש בכלי AI, ישנה כמובן עלייה אדירה בבנייה של דאטה סנטרים, שיתמכו בכל הקוד שאתם מג'נרטים ובכל התמונות המיותרות שאתם שולחים. אבל כל טעות בבנייה של הפרויקטים הללו עלולה להוביל להוצאות אדירות ועיכובים משמעותיים בתקופה שבה כל רגע חשוב. כאן נכנסת לתמונה פלטפורמה ישראלית שמנטרת פרויקטים במיליארדים בעזרת קסדות חכמות, ומגייסת עכשיו סכום מרשים כדי להתרחב בעולם.</p>
+<h2>כשכל טעות יכולה להוביל להפסד אדיר</h2>
+<p>הסטארטאפ Buildots (בילדוטס) מפתח מערכת שמבצעת מעקב אוטומטי אחרי התקדמות של פרויקטי בנייה שונים. המערכת משתמשת במצלמות המותקנות על קסדות הפועלים ומנהלי הפרויקטים השונים, ומשווה את הנתונים המתקבלים מהן לתוכניות וללוחות הזמנים המקוריים של הפרויקט. תוך כדי שהיא עוקבת אחרי ההתקדמות, היא מסוגלת להתריע על עיכובים פוטנציאליים, ליקויי בנייה, עלויות מפתיעות ועוד שלל אלמנטים שמובילים בסופו של דבר לעיכובים, ולמיליוני דולרים שהולכים לפח. המטרה היא לזהות את כל המפגעים האלה, כדי לאפשר למנהלי האתרים לפעול בהתאם ולקבל החלטות המבוססות על הנתונים הללו. לפני כשנה <a href="https://www.geektime.co.il/buildots-acquires-genda/">רכשה בילדוטס את הסטארטאפ Genda</a>, ומאז, היא יכולה להציג גם נתוני כוח אדם בפרויקטים. &quot;היכולת החדשה מאפשרת לתעד באופן אוטומטי את הנוכחות באתר, להבין כמה בעלי מקצוע נמצאים בכל איזור ביחס לצרכי הפרויקט, ללא צורך בניהול ידני של יומני עבודה וללא רדיפה אחר עדכונים מהשטח&quot;, מסביר רועי דנון, מנכ&quot;ל ומייסד-משותף של בילדוטס. &quot;החיבור בין נתוני מעקב התקדמות הבנייה ותובנות כוח האדם מאפשרים לנתח בצורה מדויקת את קצב התפוקה בפרויקט וכן לגבש תוכניות מדויקות יותר לצמצום עיכובים אפשריים&quot;.</p>
+<p>בנוסף, החברה הוסיפה יכולת עיבוד של סריקות לייזר, מה שאמור להוסיף שכבת דיוק נוספת לתנאי האתר, והשיקה את Intelligence Lab, שלדברי דנון הינה יוזמה שמספקת תובנות ונתונים על תעשיית הבנייה כולה, ללא תשלום: &quot;זהו חלק ממאמץ רחב יותר לסייע לחברות בענף בקבלת החלטות ברמת ההנהלה הבכירה, באמצעות גישה לנתונים אמינים ומידע השוואתי&quot;.  בשנה האחרונה התרחבה החברה ליותר מ-400 עובדים ופתחה משרדים חדשים בטורונטו ואוסטין, ובקרוב, גם תעבור למשרדים חדשים ונוצצים בתל אביב, בנוסף למטה הקיים של החברה בשיקגו.</p>
+<p>במהלך השנה האחרונה בילדוטס נהנתה מאוד מהעלייה בביקוש לפרויקטי בניית חוות שרתים. לדברי דנון, החברה הבחינה במאפיינים ייחודיים לתחום שבאופן לא מפתיע, מסייעים לביזנס של בילדוטס: &quot;מדובר בפרויקטים עם רגישות גבוהה במיוחד לזמן, כאשר לוחות הזמנים לבנייה קצרים יחסית ועומדים בדרך כלל על 12–18 חודשים. בעלי חוות שרתים אומרים לנו שוב ושוב שהטכנולוגיה מתקדמת בקצב כל כך מהיר, שאורך החיים השימושי של המתקן מתחיל להתקצר עוד לפני שהבנייה שלו מסתיימת. המשמעות היא שכל חודש נוסף שמושקע בבנייה מייצג ערך שלא ניתן להחזיר&quot;. לדבריו, הפרויקטים הללו כל כך עצומים, שעוד יותר קשה לעקוב ולנהל אותם. &quot;בנוסף, ענקיות דאטה סנטרים ויזמים בתחום מנהלים במקרים רבים מספר פרויקטים במקביל, לעיתים באתרים שונים ובמדינות שונות. היקף המידע, המשימות והעבודה בשטח פשוט גדול מדי מכדי שניתן יהיה לנהל ולעקוב אחר הכול באופן ידני&quot;, הוא טוען.</p>
+<h2>עוד 130 מיליון דולר</h2>
+<p>היום (ב') מודיעה Buildots על השלמת סבב גיוס נוסף בהיקף גבוה במיוחד של 130 מיליון דולר בהובלת O.G. Venture Partners ובהשתתפות Lightspeed Venture Partners, Intel Capital, Mohari Ventures, Human Capital, Qumra Capital, Poalim Equity, Viola Growth ואביגדור וילנץ. על פי ההערכות, סבב הגיוס נעשה על פי שווי של כמעט מיליארד דולר, עלייה חדה מהסבב הקודם. מאז הקמתה גייסה החברה כ-300 מיליון דולר ממשקיעים בהם הקרנות TLV Partners, Future Energy Ventures, Maor Investments.</p>
+<p>לדבריו של דנון, החברה החליטה לגייס סכום כסף כל כך משמעותי כדי להתרחב בשלושה צירים: &quot;התרחבות אל הפרויקטים הגדולים ביותר בצפון אמריקה, באירופה, במזרח התיכון, הרחבת התמיכה של הפלטפורמה אל כל שלבי הפרויקט, משלב המכרז ועד לשלב המסירה ושיפור יכולות הניתוח של המערכת במטרה להגיע לרמת הבנה של מנהל בעל עשרות שנות ניסיון&quot;.</p>
+<p>&quot;אנחנו משקיעים למעלה משני עשורים בחברות שיוצרות קטגוריות חדשות, והחברות המצליחות הן אלה שמייצרות תשתית טכנולוגית שהענף כולו מתחיל לעבוד באמצעותה&quot;, אמר זיו קופ, שותף מנהל ב-O.G. Venture Partners. &quot;המודלים הייחודיים של בילדוטס והיכולת שלה לאסוף דאטה מהשטח מביאים את מהפיכת ה-AI לעולם הבניה המסורתי ולעולם הבניה הטכנולוגי שכולל כיום דאטה סנטרים, מפעלי ייצור צ'יפים ומפעלי דיפנס טק. בילדוטס עושה לענף הבניה את מה שמובילאיי עשתה בזמנו לעולם התחבורה&quot;.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.geektime.co.il/buildots-raises-130m/">ותודה לדאטה-סנטרים: גיוס ענק ל-Buildots שמתקרב לשווי של מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/buildots-raises-130m/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#034;כל אדם הוכפל פי 1000&#034;: Cymphony נחשפת עם 30 מיליון דולר</title>
+		<link>https://www.geektime.co.il/cymphony-raised-30m-in-seed-and-a-rounds/</link>
+					<comments>https://www.geektime.co.il/cymphony-raised-30m-in-seed-and-a-rounds/#comments</comments>
+		
+		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 13:00:55 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Cymphony]]></category>
+		<category><![CDATA[סימפוני]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591472</guid>
+
+					<description><![CDATA[<p>לפעמים אנחנו חושבים שאם אנשים היו מקדישים באבטחה של סוכני AI את הזמן שהם משקיעים בחישוב הטוקנים או בחירת השמות שלהם, המצב היה הרבה יותר טוב; אז הסטארטאפ Cymphony רוצה שתמשיכו לעבוד עם הסוכנים שלכם בדיוק כמו שאתם רגילים ורוצים, ואפילו להתייחס אליהם כעובדים בחברה &#8211; רק בלי החלק של  לסכן אותה. &#34;כל אדם הוכפל [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/cymphony-raised-30m-in-seed-and-a-rounds/">&quot;כל אדם הוכפל פי 1000&quot;: Cymphony נחשפת עם 30 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591473" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591473" class="size-large wp-image-591473" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-1536x1025.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591473" class="wp-caption-text">צילום: שי הנסב</p></div>
+<p>לפעמים אנחנו חושבים שאם אנשים היו מקדישים באבטחה של סוכני AI את הזמן שהם משקיעים בחישוב הטוקנים או בחירת השמות שלהם, המצב היה הרבה יותר טוב; אז הסטארטאפ Cymphony רוצה שתמשיכו לעבוד עם הסוכנים שלכם בדיוק כמו שאתם רגילים ורוצים, ואפילו להתייחס אליהם כעובדים בחברה &#8211; רק בלי החלק של  לסכן אותה.</p>
+<h2>&quot;כל אדם הוכפל פי 1000&quot;</h2>
+<p><a href="https://gkt.me/cymphony">Cymphony</a> מפתחת פלטפורמת אבטחה וניהול ששולטת באופן שבו עובדים וסוכני AI ניגשים למידע ולמערכות בארגון. התהליך מתחיל בפגישת אפיון לתיעדוף קונבנציות, ולאחריה הלקוח מחבר את המערכת לסביבה שלו. תוך רגעים ספורים, המערכת מציגה מידע ראשוני כמו חשיפה למידע רגיש ודרכים לתיקון.</p>
+<p>בשיחה עם גיקטיים מסביר שי דקל, מייסד שותף ומנכ&quot;ל בסימפוני: &quot;אנחנו פונים בדיוק רב, כאחוז אחד מהעובדים בהתחלה, ומסוגלים לסגור לצוות האבטחה את מעגל הערך &#8211; לעבור מהר מנראות להורדת סיכון. משם אנחנו מתרחבים לכיסוי מוצרי קולבורציה, זהות, CASB ודפדפני אנטרפרייז&quot;. בסופו של תהליך, המערכת ממפה את כל העובדים והסוכנים, ומאפשרת לצוותים להבין לאיזה מידע יש להם גישה ואיך זה עלול להשפיע על הביזנס.</p>
+<p>סימפוני הוקמה לפני כשנתיים, קצת לפני טירוף האייג'נטים הנוכחי. אחרי שדקל ועידן ברקוביץ (CPO) הוקפצו למילואים ב-7 באוקטובר, הם חזרו והבינו שהמיקוד חייב להיות במיפוי גישות לארגונים. &quot;כשסקויה השקיעו והפגישו אותנו עם עשרות סיסואים לשיחות אישיות, הבנו שהבעיה הרבה יותר בסיסית: צוותי אבטחה לא יודעים למפות את כוח האדם והגישה שהם מקבלים&quot;, משתף דקל.</p>
+<p>לדבריו, עם כניסתם של סוכני ה-AI, כל אדם &quot;הוכפל פי 1000&quot;. סוכנים מנצלים הרשאות גישה עודפות למסמכי משכורות, שרטוטים הנדסיים או מידע רגיש על מטופלים. אייג'נטים, הוא מדגיש, הם ישות חזקה וקריטית שאי אפשר להשאיר ללא ניהול. דקל חולק דוגמה מטרידה משלב ה-POC אצל אחד הלקוחות: המערכת זיהתה פעילות של Claude שקרא אלפי מסמכים ביום &#8211; מבלי שהותקן רשמית בחברה. מתברר שעובד הריץ את קלוד מחשבון פרטי, ושיתף איתו אזורים בדרייב לעבודה זמנית שמעולם לא נסגרו.</p>
+<h2>30 מיליון דולר</h2>
+<p>היום (ד') מודיעה Cymphony על השלמת שני סבבי גיוס: סבב Seed של 5 מיליון דולר בהובלת Sequoia Capital, וסבב A של 25 מיליון דולר בהובלת Sequoia Capital ו-Fin Capital. החברה, שהוקמה על ידי דקל, ברקוביץ ואדי גוטליב (CTO) &#8211; כולם בוגרי תוכנית תלפיות &#8211; מעסיקה כ-23 עובדים בישראל ובארה&quot;ב, וכבר עובדת עם לקוחות ענק כמו Syngenta, KKR ו-Cass Information Systems.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2></h2>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.geektime.co.il/cymphony-raised-30m-in-seed-and-a-rounds/">&quot;כל אדם הוכפל פי 1000&quot;: Cymphony נחשפת עם 30 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/cymphony-raised-30m-in-seed-and-a-rounds/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>מייסדי Cyera, Wiz ו-Eon משקיעים בסטארטאפ הישראלי Euno</title>
+		<link>https://www.geektime.co.il/euno-raises-a-round/</link>
+					<comments>https://www.geektime.co.il/euno-raises-a-round/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 11:00:31 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Euno]]></category>
+		<category><![CDATA[יונו]]></category>
+		<category><![CDATA[סטארטאפ ישראלי]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591529</guid>
+
+					<description><![CDATA[<p>אם ניסיתם לתת לאייג'נט AI משימה שדורשת חפירות וחיטוטים בדאטה הארגוני שלכם, כנראה שגיליתם מהר מאוד שהוא הולך לאיבוד. בזמן שהמידע קבור בדאטה-בייסים שונים או לפעמים בראש של המפתחים, הסטארטאפ הישראלי Euno פיתח מערכת שמתממשקת לכל הכלים בארגון ומנגישה אותו לסוכנים. עכשיו הוא נחשף עם גיוס של 23 מיליון דולר. החברה שהשתנתה &#34;כמעט בכל ממד&#34; [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/euno-raises-a-round/">מייסדי Cyera, Wiz ו-Eon משקיעים בסטארטאפ הישראלי Euno</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591530" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591530" class="size-large wp-image-591530" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-1024x693.jpeg" alt="" width="1024" height="693" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-1024x693.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-300x203.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-768x520.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-197x134.jpeg 197w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-793x537.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43.jpeg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591530" class="wp-caption-text">היזמים של Euno | מקור: Euno</p></div>
+<p>אם ניסיתם לתת לאייג'נט AI משימה שדורשת חפירות וחיטוטים בדאטה הארגוני שלכם, כנראה שגיליתם מהר מאוד שהוא הולך לאיבוד. בזמן שהמידע קבור בדאטה-בייסים שונים או לפעמים בראש של המפתחים, הסטארטאפ הישראלי Euno פיתח מערכת שמתממשקת לכל הכלים בארגון ומנגישה אותו לסוכנים. עכשיו הוא נחשף עם גיוס של 23 מיליון דולר.</p>
+<h2>החברה שהשתנתה &quot;כמעט בכל ממד&quot; תוך שנתיים</h2>
+<p>הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/euno/">Euno</a> פיתח כלי שמתחבר ישירות למערכות השונות בארגון &#8211; דאטה-בייסים, כלי טרנספורמציה, כלי BI, מערכות אבטחה, ניהול הרשאות ובקרת איכות &#8211; ואוסף מהן מטא-דאטה באופן רציף. מתוך המידע הזה, המערכת בונה אוטומטית גרף חי שמתעדכן בהתאם לשינויים בסביבה, וממפה את הקשרים מקצה לקצה בין נכסי הדאטה והמשתמשים. הגרף הזה מוכן לשליפה על ידי אייג'נטים דרך MCP כבר מהיום הראשון להתקנת המערכת.</p>
+<p>בשיחה עם גיקטיים מסבירה שרה לוי, מנכ&quot;לית ואחת ממייסדות Euno, כי על גבי הגרף מקודד גם הידע הארגוני שלא קיים באופן מפורש במערכות, כמו מה נחשב אמין ומוכן ל-AI, חלוקה ל-Domains, כללי Governance, הנחיות לאייג'נטים וטרמינולוגיה עסקית. לדבריה, &quot;חלק מרכזי מהמחקר שלנו עוסק ביכולת להסיק את הידע הזה אוטומטית מתוך הדפוסים והקשרים בגרף, במקום לדרוש מאנשים להגדיר ולתחזק אותו ידנית&quot;. המערכת מקיימת תהליכי פידבק מתמשכים הבוחנים את איכות המענה של האייג'נטים בשטח, מזהים פערים ומעשירים את הקונטקסט. התוצאה היא מערכת שלא רק נשארת מסונכרנת, אלא לומדת ומשתפרת עם השימוש.</p>
+<p>מ-POC לפרודקשן בחברות Fortune 500 את Euno הקימו ב-2023 שרה לוי, לשעבר ה-CTO של Sight Diagnostics, ואייל פירסטנברג, המשמש כ-CTO של החברה וייסד בעבר את <a href="https://www.geektime.co.il/palo-alto-networks-acquire-lightcyber-for-105-million-dollars/">LightCyber שנרכשה על ידי פאלו אלטו נטוורקס</a>. שני היזמים הם בוגרי תלפיות ויוצאי 8200, יחידה 81 ומחלקת הסייבר של צה&quot;ל.</p>
+<p>כשהוקמה החברה, מודלי שפה גדולים (LLMs) רק התחילו להיכנס לארגונים. &quot;כבר היה לנו ברור שכשמדברים על Self-service לדאטה, העתיד הוא AI&quot;, אומרת לוי. היא מסבירה כי הפערים בהבנת הדאטה תמיד היו שם, אך עם כניסתם של סוכנים אוטונומיים נוצר ואקום ללא ה&quot;אדם בלולאה&quot;. זה הוביל את Euno להתמקד לחלוטין בסוכנים, ולבנות מוצר שתומך ב-Scale, ביצועים ואינטגרציות מורכבות. המיקוד השתלם: <a href="https://www.geektime.co.il/founders-spoke-to-250-data-teams-and-founded-euno-with-a-seed-funding/">מאז הגיוס הקודם ב-2024</a>, החברה עברה לעבוד ישירות מול חברות Fortune 500. &quot;היום יש לנו לקוחות ופייפליין משמעותי של ארגונים מהסוג הזה, שכבר התנסו ב-AI ומבינים שהאתגר האמיתי הוא לעבור מ-POC לפרודקשן ולהצליח לשמור על איכות לאורך זמן&quot;, היא מדגישה. היכולת ללמוד מאינטראקציות אמיתיות של אייג'נטים עם דאטה אפשרה ליונו לבנות אוטומציות שמקצרות משמעותית את הדרך מהתקנה לדיפלוימנט מלא.</p>
+<p>גיוס מהחברים ליחידה היום (ד') נחשפת Euno רשמית ומודיעה על גיוס סבב A בהיקף של 23 מיליון דולר. הסבב הובל על ידי N47 בהשתתפות קרן 10D (שהייתה המשקיעה המרכזית בסבב הסיד). אל הקרנות הצטרפה שורת אנג'לים בולטת מהאקוסיסטם הישראלי, ביניהם ינון קוסטיקה (מייסד-שותף ב-Wiz), יותם שגב (מייסד-שותף ומנכ&quot;ל Cyera), אופיר ארליך (מייסד-שותף ומנכ&quot;ל Eon), רותם וייס (מייסד Tavily שנרכשה על ידי נביוס) ומארק נלסון, לשעבר מנכ&quot;ל ונשיא Tableau.</p>
+<p>החיבור ליזמים הללו מגיע גם מהשירות המשותף בצה&quot;ל, וגם מסינרגיה בין המוצרים השונים. &quot;מה שמעניין הוא שכל אחד מהיזמים האלה פוגש את מהפכת ה-AI מזווית אחרת&quot;, מסכמת לוי, &quot;מ-Eon בעולם תשתיות הדאטה, דרך Wiz ו-Cyera בעולמות אבטחת ה-AI, ועד Tavily (<a href="https://www.geektime.co.il/nebius-announces-agreement-to-acquire-israeli-startup/">שנרכשה על ידי נביוס</a>), שמתמקדת באופן שבו אייג'נטים ניגשים למידע מהעולם החיצוני&quot;.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.geektime.co.il/euno-raises-a-round/">מייסדי Cyera, Wiz ו-Eon משקיעים בסטארטאפ הישראלי Euno</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/euno-raises-a-round/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>הסטארטאפ Covenant נחשף היום עם גיוסים של רבע מיליארד דולר</title>
+		<link>https://www.geektime.co.il/covenant-exits-stealth-with-250m-funding/</link>
+					<comments>https://www.geektime.co.il/covenant-exits-stealth-with-250m-funding/#comments</comments>
+		
+		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 09:15:07 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[Covenant]]></category>
+		<category><![CDATA[דיפנס טק]]></category>
+		<category><![CDATA[סטארטאפ]]></category>
+		<category><![CDATA[anthem]]></category>
+		<category><![CDATA[קובננט]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591488</guid>
+
+					<description><![CDATA[<p>אחרי תקופה ארוכה בה פעל מתחת לרדאר (ליטרלי מתחת לרדאר) סטארטאפ הדיפנסטק Covenant נחשף היום (ד') רשמית עם המוצר החשאי שלו, שהיה בפיתוח בשנים האחרונות, עם גיוסים בסך 250 מיליון דולר. תחליף זול ונגיש לטומהוק הוותיק המוצר המרכזי שחושפת החברה נקרא Anthem, מערכת נשק לטווח ארוך שמסוגלת לשאת חימוש כבד. הרעיון של Covenant הוא לייצר [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/covenant-exits-stealth-with-250m-funding/">הסטארטאפ Covenant נחשף היום עם גיוסים של רבע מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591565" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591565" class="size-large wp-image-591565" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-2048x1366.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-793x529.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591565" class="wp-caption-text">תמונה: Covenant</p></div>
+<p>אחרי תקופה ארוכה בה פעל מתחת לרדאר (ליטרלי מתחת לרדאר) סטארטאפ הדיפנסטק Covenant נחשף היום (ד') רשמית עם המוצר החשאי שלו, שהיה בפיתוח בשנים האחרונות, עם גיוסים בסך 250 מיליון דולר.</p>
+<h2>תחליף זול ונגיש לטומהוק הוותיק</h2>
+<p>המוצר המרכזי שחושפת החברה נקרא Anthem, מערכת נשק לטווח ארוך שמסוגלת לשאת חימוש כבד. הרעיון של <a href="https://www.geektime.co.il/tag/covenant/">Covenant</a> הוא לייצר את המערכת באלפי יחידות ובעלות נמוכה בהרבה מהחלופות בשוק, כדי לפתור את השחיקה המהירה במלאי הטילים המדויקים של צבאות המערב. על פי דיווחים שונים, עלות כל טיל צפויה לעמוד על כמה מאות אלפי דולרים, מחיר נמוך משמעותית ממחירו של כל טיל טומהוק, שעומד על כ-2 מיליון דולר לטיל אחד.</p>
+<p>אחד החידושים שמביאה איתה המערכת הוא שהיא מבוססת ברובה על רכיבי מדף מסחריים, שמאפשרים ייצור רציף גם בחירום. לאחרונה אף דווח כי <a href="https://www.geektime.co.il/covenant-might-work-with-germany-on-cruise-missiles/">משרד ההגנה בגרמניה בוחן את המערכת</a> כתחליף אפשרי לטילי הטומהוק הוותיקים, שמעבר לעלותם, גם נתונים לשליטה ופיקוח הדוקים של הממשל האמריקאי.</p>
+<p>מאחורי הסטארטאפ עומד המייסד והמנכ&quot;ל מייקל קאופמן, אמריקאי-ישראלי, שעלה לישראל לפני מספר שנים, ועבד בעבר בקרן של המשקיע פיטר ת'יל. לצידו אביגיל דנברג כנשיאה, שמביאה ניסיון מבואינג ואופיר דיין, מייסד-משותף וסמנכ&quot;ל טכנולוגיות (CTO). לקובננט יש מטה בוושינגטון ומרכז פיתוח וייצור בתל אביב שמשתרע על שטח של 3,000 מ&quot;ר, יחד עם מפעלים בדאלאס ובגרמניה. עד כה בוצעו מעל 200 טיסות ניסוי של Anthem, והחברה צברה חוזים בסך 150 מיליון דולר, כולל פיתוח גרסה ימית עבור הצי האמריקאי. על פי החברה, הייצור הסדרתי יחל ב-2027 בקצב של כ-5,000 טילים בשנה.</p>
+<p>קאופמן הסביר: &quot;יש כיום אלפי יעדים מבצעיים שנמצאים מחוץ לטווח של מערכות הנשק הקיימות. Anthem נועד לאפשר פגיעה ביעדים האלה גם כשהלחימה נמשכת לאורך זמן. כדי לשמור על ההרתעה, צריך להחזיק מלאי גדול מספיק של חימוש ולהיות מסוגלים לחדש אותו בקצב הנדרש&quot;.</p>
+<h2>מאנדריסן הורביץ ועד פיטר ת'יל</h2>
+<p>היום כאמור נחשף הסטארטאפ עם סך השקעות של יותר מ-250 מיליון דולר בשלושה סבבי השקעה. את הגיוסים הובילו קרנות בולטות כמו Andreessen Horowitz ו-Founders Fund של פיטר ת'יל, לצד 8VC, Lux, Lightspeed וקרן Aleph. ההשקעות, שמשקפות שווי חברה של יותר ממיליארד דולר, מסמנות את המשך המומנטום של ענף הדיפנס-טק, שמושך כיום משקיעים שבעבר חששו מהתחום והעדיפו חברות תוכנה. התערערות המצב הגיאופוליטי בעולם עם הקונפליקטים במזרח התיכון, במפרץ הפרסי, באוקראינה והמתיחות בין טיוואן לסין &#8211; ביחד עם הצניחה באטרקטיביות של חברות תוכנה בעקבות מהפכת ה-AI &#8211; כל אלו הפכו את התחום ללוהט בשנים האחרונות.</p>
+<p>דייוויד אולביץ', שותף כללי ב-Andreessen Horowitz אמר: &quot;הקמנו את תוכנית ההשקעות American Dynamism כדי לתמוך בחברות שפועלות בתחומים חיוניים לביטחון ולאינטרס הלאומי של ארה&quot;ב. בנייתו מחדש של ארסנל התקיפה ארוך הטווח של המערב הוא אחת המשימות המרכזיות כיום. לקובננט יש את העומק הטכנולוגי ואת היכולת להתקדם במהירות&quot;.</p>
+<p>קתלין היקס, לשעבר סגנית שר ההגנה של ארה&quot;ב וכיום יועצת לחברה, הוסיפה: &quot;במסגרת יוזמת Replicator התמקדנו בהאצת היכולת של הפנטגון להצטייד בכמויות גדולות של מערכות אוטונומיות קטנות וזולות. אותה גישה נדרשת גם במערכות ארוכות טווח שנושאות חימוש כבד. Anthem נבנה כך שאפשר יהיה לייצר ולספק אותו בקצב שהצרכים המבצעיים דורשים&quot;.</p>
+<p>The post <a href="https://www.geektime.co.il/covenant-exits-stealth-with-250m-funding/">הסטארטאפ Covenant נחשף היום עם גיוסים של רבע מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/covenant-exits-stealth-with-250m-funding/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>עומרי כספי מגייס 250 מיליון דולר לקרן החדשה שלו וטוען: &#034;יגיעו מישראל חברות של 100 מיליארד דולר וצפונה&#034;</title>
+		<link>https://www.geektime.co.il/omri-casspi-swish-ventures-third-fund-250m/</link>
+					<comments>https://www.geektime.co.il/omri-casspi-swish-ventures-third-fund-250m/#respond</comments>
+		
+		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 11:39:29 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[כללי]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[Swish Ventures]]></category>
+		<category><![CDATA[עומרי כספי]]></category>
+		<category><![CDATA[vc]]></category>
+		<category><![CDATA[קרן הון סיכון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591189</guid>
+
+					<description><![CDATA[<p>עומרי כספי, הישראלי הראשון ב-NBA, שהפך בשנים האחרונות לאחד ממשקיעי ההון סיכון הפעילים בישראל, לא עוצר. Swish Ventures, הקרן שהקים לפני 3 שנים (אחרי קרן Sheva), מכריזה היום (ה') על השלמת גיוס של 250 מיליון דולר לקרן השלישית שלה. עם סגירת הקרן החדשה, עומד סך הנכסים המנוהלים של סוויש על 800 מיליון דולר. צ'ק ממוצע [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/omri-casspi-swish-ventures-third-fund-250m/">עומרי כספי מגייס 250 מיליון דולר לקרן החדשה שלו וטוען: &quot;יגיעו מישראל חברות של 100 מיליארד דולר וצפונה&quot;</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591190" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591190" class="size-large wp-image-591190" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/OMRI-CASSPI-1024x632.jpg" alt="" width="1024" height="632" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/OMRI-CASSPI-1024x632.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/OMRI-CASSPI-300x185.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/OMRI-CASSPI-768x474.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/OMRI-CASSPI-1536x948.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/OMRI-CASSPI-2048x1264.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/OMRI-CASSPI-793x489.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591190" class="wp-caption-text">עומרי כספי. תמונה: איליה מלינקוב</p></div>
+<p>עומרי כספי, הישראלי הראשון ב-NBA, שהפך בשנים האחרונות לאחד ממשקיעי ההון סיכון הפעילים בישראל, לא עוצר.</p>
+<p><a href="https://www.geektime.co.il/tag/swish/">Swish</a> Ventures, הקרן שהקים לפני 3 שנים (אחרי <a href="https://www.geektime.co.il/omri-casspi-announces-new-vc-sheva/">קרן Sheva</a>), מכריזה היום (ה') על השלמת גיוס של 250 מיליון דולר לקרן השלישית שלה. עם סגירת הקרן החדשה, עומד סך הנכסים המנוהלים של סוויש על 800 מיליון דולר.</p>
+<h2>צ'ק ממוצע של 20 מיליון דולר</h2>
+<p>הקרן החדשה צפויה להשקיע בכ-12 חברות בשלבי סיד ו-A, עם צ'ק ממוצע של כ-20 מיליון דולר, כשבין תחומי המיקוד המרכזיים אפשר למצוא סייבר, תשתיות טכנולוגיות, AI לענפי התעשייה, דיפנס-טק ואחד התחומים הלוהטים עכשיו, Physical AI, כלומר מקום המפגש בין מודלים ו-AI לעולם האמיתי.</p>
+<p>מאז שהושקה Swish, היא כבר רשמה השקעות ב-20 חברות, מתוכן 8 הפכו לחדי קרן, עם שווי מצרפי של למעלה מ-60 מיליארד דולר. בין היתר תמצאו בפורטפוליו שלה חברות כמו <a href="https://www.geektime.co.il/tag/upwind/">Upwind</a>, <a href="https://www.geektime.co.il/tag/eon/">EON</a> (שרק <a href="https://www.geektime.co.il/upwind-raises-300m-series-c/">אתמול הודיעה על גיוס ענק חדש</a>); ו-Cognition AI האמריקאית. את הגיוס החדש הובילו משקיעים קודמים וחדשים, בהם קרן Sequoia האמריקאית, קרנות פנסיה ואוניברסיטאות מארה&quot;ב. לדברי כספי, גיוס הקרן בפרק זמן קצר ובתמיכת משקיעים מוסדיים מובילים בעולם, הוא הבעת אמון ביזמים שאותם הקרן מלווה.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-591225" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWISH-1024x594.jpg" alt="" width="1024" height="594" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWISH-1024x594.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWISH-300x174.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWISH-768x446.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWISH-793x460.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWISH.jpg 1034w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p>
+<h2>&quot;הקרנות האמריקאיות משקיעות פה בקצבים וסכומים שלא נראו אף פעם&quot;</h2>
+<p>כאמור, כמו שעון, כספי סוגר שנה שלישית ברציפות עם הכרזה על קרן חדשה, כשההיקפים רק הולכים ועולים. בריאיון לגיקטיים אומר כספי כי לא חש בקשיים מיוחדים לסגור את הקרן החדשה: &quot;יש התפתחויות מדהימות שקורות בישראל, גם בעולמות של AI, בטח בסייבר וגם בתחומים אחרים. מבחינתנו הגיוס המהיר היה קודם כל הבעת אמון מצד המשקיעים ביזם הישראלי וגם בנו&quot;.</p>
+<p>כאמור, בניגוד לתחילת דרכה, החלה Swish להשקיע גם בחברות אמריקאיות דוגמת Cognition, שעל פי דיווחים חדשים, מגייסת עכשיו כמיליארד דולר על פי שווי של 47 מיליארד דולר. אבל כספי מסביר שהקרן תמשיך להשקיע בסטארטאפים ישראלים: &quot;הלחם והחמאה שלנו היא ישראל, אנחנו גאים מאוד למקד את הפעילות פה בארץ&quot;. יחד עם זאת הוא חושף שהקרן החדשה תשקיע מעתה בחלוקה של 50-50 בין סטארטאפים מישראל וארה&quot;ב, ומדגיש שזה לא בא על חשבון הפעילות המקומית.</p>
+<p><strong>בעבר השם &quot;ישראל&quot; היה שם נרדף להצלחה, סטארטאפ ניישן וסייבר. אבל אנחנו שומעים מאנשים שנמצאים בקשר יומיומי עם משקיעים ויזמים בוואלי על תדמית לא פשוטה עכשיו שמקשה על ניהול עסקאות. אחד מהם אפילו הגדיר אותה &quot;רעילה&quot;. מה ההתרשמות שלך?</strong></p>
+<p><strong>כספי</strong>: &quot;אני ממש לא מרגיש שיש תדמית רעילה לישראל, ההיפך. הקרנות האמריקאיות משקיעות פה בקצבים וסכומים שלא נראו אף פעם. אנחנו מרגישים שהפוטנציאל הגלום רק הולך וגדל, ואני מאמין שיגיעו מישראל חברות של 100 מיליארד דולר וצפונה. משימת חיינו עכשיו היא להיות הכתף התומכת של היזמים הכי מדהימים בעולם, לקחת חלק במסע שלהם ולעשות מה שצריך לגרום לדברים לקרות&quot;.</p>
+<h2>עדיין לא הולך למשחקים</h2>
+<p style="direction: rtl;">למרות הקריירה המפוארת, כספי כיום משקיע את כל כולו בעולמות ההייטק והון הסיכון. למעשה, לפני כשנתיים אף אמר בריאיון לכלכליסט, שכדי לא לאבד את הפוקוס, הוא לא הולך למשחקי כדורסל. ובכל זאת, הרבה השתנה מאז, כולל השקעות שלפחות על הנייר נראות מבטיחות מאוד ומעמד של משקיע פעיל ובולט, האם משהו השתנה אז? &quot;האמת שלא&quot; אומר כספי, &quot;אני עדיין לא הולך למשחקים ומרגיש דווקא שאני מצמצם יותר ויותר את זמן הפנאי שלי בעולמות האלה. הסיבה לכך היא כדי להתמקד בעבודה אפילו עוד יותר. אני ממשיך לעבוד בצורה צמודה עם היזמים שלנו, שזה באמת התענוג הכי גדול שיש בעבודה הזאת&quot;.</p>
+<p>The post <a href="https://www.geektime.co.il/omri-casspi-swish-ventures-third-fund-250m/">עומרי כספי מגייס 250 מיליון דולר לקרן החדשה שלו וטוען: &quot;יגיעו מישראל חברות של 100 מיליארד דולר וצפונה&quot;</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/omri-casspi-swish-ventures-third-fund-250m/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>גם אסף רפפורט בפנים: גיוס חדש הופך את Guardio לחד-קרן</title>
+		<link>https://www.geektime.co.il/guardio-raises-40m-unicorn/</link>
+					<comments>https://www.geektime.co.il/guardio-raises-40m-unicorn/#respond</comments>
+		
+		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 10:54:56 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Guardio]]></category>
+		<category><![CDATA[גארדיו]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591229</guid>
+
+					<description><![CDATA[<p>לא בכל יום מצטרפת חברה חדשה למועדון חדי הקרן הישראלי, אבל היום (ה') מודיעה חברת Guardio על השלמת סבב גיוס חדש, שנערך על פי שווי של 1.1 מיליארד דולר. הגנה לכולם בניגוד לים הסטארטאפים הישראלי שמגן על ארגוני ענק ולקוחות עם תקציבים עצומים, Guardio מפתחת מערכות הגנה דווקא לאנשים כמוני כמוכם ולעסקים קטנים. המערכת מסוגלת [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/guardio-raises-40m-unicorn/">גם אסף רפפורט בפנים: גיוס חדש הופך את Guardio לחד-קרן</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591230" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591230" class="size-large wp-image-591230" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guardio-1024x482.jpeg" alt="" width="1024" height="482" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guardio-1024x482.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guardio-300x141.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guardio-768x362.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guardio-1536x723.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guardio-793x374.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guardio.jpeg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591230" class="wp-caption-text">הצוות של גארדיו. תמונה: עומר הכהן</p></div>
+<p>לא בכל יום מצטרפת חברה חדשה למועדון חדי הקרן הישראלי, אבל היום (ה') מודיעה חברת Guardio על השלמת סבב גיוס חדש, שנערך על פי שווי של 1.1 מיליארד דולר.</p>
+<h2>הגנה לכולם</h2>
+<p>בניגוד לים הסטארטאפים הישראלי שמגן על ארגוני ענק ולקוחות עם תקציבים עצומים, Guardio מפתחת מערכות הגנה דווקא לאנשים כמוני כמוכם ולעסקים קטנים. המערכת מסוגלת לנטר הודעות, מיילים, שיחות, פעילויות ועוד, כדי להבין את המשתמש וההתנהגות שלו ולבלום הונאות ותקיפות לפני שהן מגיעות לשלב הנזק. המסע של גארדיו שונה מזה של מרבית הסטארטאפים. בשלוש השנים הראשונות לחייו הוא פעל במתכונת בוטסטראפ, ורק ב-<a href="https://www.geektime.co.il/after-3-years-of-bootstrap-guardio-raises-47m-a-round/">2021 גייס לראשונה 47 מיליון דולר</a>. לאחר מכן, ב-2025, הודיע הסטארטאפ על סבב גיוס גדול נוסף בהיקף של 80 מיליון דולר. הפעם, הם מחכים פחות זמן.</p>
+<p>סבב הגיוס החדש, בהיקף של 40 מיליון דולר, נעשה על פי שווי של 1.1 מיליארד דולר, והובילו אותו המשקיעים הקיימים בחברה: ION Crossover Partners, Union Tech Ventures, Vintage Investment Partners, Cerca Partners ו-Emerge. אליהם הצטרף גם אחד האנג'לים הפעילים ביותר בהייטק הישראלי, אסף רפפורט. מאז הקמתה, גייסה החברה 167 מיליון דולר.</p>
+<p>הגיוס הזה מגיע על פי נתוני החברה לאחר שחצתה את רף מיליון הלקוחות המשלמים עם ARR של 150 מיליון דולר &#8211; בשנה ה-4 ברציפות שבה היא צומחת במעל ל-100% בהכנסות. &quot;לא ניסינו לגייס&quot;, אומר בשיחה עם גיקטיים מיכאל ויינשטיין, מייסד-שותף ו-CTO בגארדיו. &quot;הסבב הזה היה יוזמה של השותפים שלנו: המשקיעים הקיימים, שרואים את המספרים שלנו כל רבעון וביקשו להגדיל את ההשקעה, אסף רפפורט הצטרף אליהם. כשחברה צומחת פי שניים בשנה והיא עם תזרים מזומנים חיובי, אין צורך בגיוסי ענק בשביל לממן צמיחה &#8211; ולכן גודל הסבב משקף את מה שבאמת נעשה בו שימוש, מבחינתנו רצינו לתת עוד מקום לשותפים עם מינימום דילול שלא לצורך&quot;. עוד מוסיף ויינשטיין כי בסבב הגיוס אין רכיב סקנדרי.</p>
+<p>לדבריו, אסף רפפורט נפגש עם עמוס פלד, מנכ&quot;ל גארדיו, ובמהלך השיחה פלד אמר לו: &quot;אתה מזוהה עם חברת האנטרפרייז-סקיוריטי הכי אייקונית בעולם. אנחנו בונים את חברת הקונסיומר-סקיוריטי שאנחנו מאמינים שתהיה הכי אייקונית בעולם&quot;. משם, לדבריו, השניים דיברו על הצורך והטכנולוגיה, ורפפורט החליט להצטרף לסבב הגיוס. &quot;בסוף התזה שהתחברנו סביבה פשוטה: לארגונים קמה בעשור האחרון תעשיית הגנה שלמה. לצרכנים נשאר אנטי-וירוס מלפני עשרים שנה וכלי הגנה מאוד בסיסיים. AI העביר את קו החזית מהארגון אל האדם הפרטי, וחברת הסייבר סקיוריטי הגדולה הבאה תיבנה בדיוק שם. אסף נכנס כמשקיע וכשותף לחשיבה&quot;.</p>
+<p>Guardio הוקמה ב-2018 על ידי עמוס פלד, דניאל סירוטה ומיכאל ויינשטיין, ששירתו ביחד ביחידת הסייבר של משרד ראש הממשלה.</p>
+<p>The post <a href="https://www.geektime.co.il/guardio-raises-40m-unicorn/">גם אסף רפפורט בפנים: גיוס חדש הופך את Guardio לחד-קרן</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/guardio-raises-40m-unicorn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>פרסום ראשון: ServiceNow רוכשת את הסטארטאפ הישראלי Sweep ב-400 מיליון דולר</title>
+		<link>https://www.geektime.co.il/servicenow-acquires-sweep/</link>
+					<comments>https://www.geektime.co.il/servicenow-acquires-sweep/#comments</comments>
+		
+		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 08:17:28 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[כללי]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[סוויפ]]></category>
+		<category><![CDATA[Sweep.io]]></category>
+		<category><![CDATA[Sweep]]></category>
+		<category><![CDATA[ServiceNow]]></category>
+		<category><![CDATA[סרוויס נאו]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<category><![CDATA[רכישה]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591214</guid>
+
+					<description><![CDATA[<p>עוד רכישה בישראל לענקית התוכנה האמריקאית ServiceNow. לגיקטיים נודע שהחברה השלימה לאחרונה את הרכישה של הסטארטאפ הישראלי Sweep. בתגובה לפניית גיקטיים, אישרו ב-ServiceNow את הפרטים. החברות לא פרסמו את סכום הרכישה אולם על פי המידע שהגיע אלינו הסטארטאפ הישראלי נמכר ב-400 מיליון דולר. מכינה את הארגון למהפכת סוכני ה-AI Sweep מפתחת מוצר שנועד לפתור את [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/servicenow-acquires-sweep/">פרסום ראשון: ServiceNow רוכשת את הסטארטאפ הישראלי Sweep ב-400 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591218" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591218" class="size-large wp-image-591218" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWEEP-1024x507.jpg" alt="" width="1024" height="507" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWEEP-1024x507.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWEEP-300x149.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWEEP-768x380.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWEEP-793x393.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/SWEEP.jpg 1402w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591218" class="wp-caption-text">צילום מסך</p></div>
+<p>עוד רכישה בישראל לענקית התוכנה האמריקאית ServiceNow. לגיקטיים נודע שהחברה השלימה לאחרונה את הרכישה של הסטארטאפ הישראלי Sweep. בתגובה לפניית גיקטיים, אישרו ב-ServiceNow את הפרטים. החברות לא פרסמו את סכום הרכישה אולם על פי המידע שהגיע אלינו הסטארטאפ הישראלי נמכר ב-400 מיליון דולר.</p>
+<h2>מכינה את הארגון למהפכת סוכני ה-AI</h2>
+<p><a href="https://gkt.me/sweep">Sweep</a> מפתחת מוצר שנועד לפתור את פערי ההקשרים השונים שנוצרים במערכות אנטרפרייז כבדות כמו Salesforce, ServiceNow ו-Snowflake. המערכות האלו צוברות עם השנים הרבה אבק של קונפיגורציות, אוטומציות, שדות שונים והרשאות שעלולות ליצור פערים וחורים טכנולוגיים &#8211; בעיה שרק מחריפה כשמשלבים סוכני AI, שבעצמם מייצרים שינויים מהירים בתהליכים השונים.</p>
+<p>הפלטפורמה של Sweep מתחברת למערכות השונות של הארגון, שואבת מהן באופן רציף את המטא-דאטה וממפה את הלוגיקה של הארגון מבלי שהוא יצטרך להחליף את התשתית הקיימת. הטכנולוגיה מתבססת על יצירת גרף מטא-דאטה מאוחד, שממפה אוטומטית את כל ה-Dependencies (התלויות) למודל ודשבורד אחד. המודל הזה מאפשר לצוותי הפיתוח למשל ולסוכני ה-AI שמגיעים עכשיו לארגונים, להבין בזמן אמת כיצד המערכות מתנהגות, לבצע סימולציות שבוחנות את ההשפעה הרוחבית של כל שינוי מראש, וליישם אותו בצורה בטוחה. במקביל, המערכת מפעילה סוכני מטא-דאטה ייעודיים שמטפלים אוטומטית בפעולות תחזוקה כמו יצירת תיעוד של קוד (אחת המשימות שגם ככה שנואות על מפתחים), ניטור, ניתוח תהליכים וניהול הרשאות, מה שבחברה אומרים שהופך בפועל את תשתית האנטרפרייז בארגון ל-AI-Ready.</p>
+<p>Sweep הוקמה בשנת 2021 על ידי עידו גבר וערן קירשנבוים (<a href="https://www.geektime.co.il/wix-acquires-flok/">שהקימו את חברת Flok ומכרו אותה ל-Wix</a>). החברה מעסיקה כיום כ-90 עובדים, שפועלים ממשרדי החברה בתל אביב וממשרדים נוספים בניו יורק, ליסבון ומדריד. על פי PitchBook, גייסה החברה מאז הקמתה, כ-57.6 מיליון דולר, כשסבב הגיוס האחרון שלה (B) עמד על 22.5 מיליון דולר והובל על ידי קרן Insight Partners בהשתתפות Bessemer Venture Partners. בין הלקוחות של החברה ניתן למצוא חברות בולטות כגון LG Electronics, Wix, Brex, NBC Sports ו-Mass General Brigham.</p>
+<p>בתגובה לפניית גיקטיים נמסר לנו מ-ServiceNow:<strong> &quot;הטכנולוגיה והמומחיות של Sweep מחזקות את יכולות הפיתוח המותאמות-AI שלנו ומקדמות את הפריסה של סוכני AI עבור מערכות CRM. ההשפעה על הלקוחות היא ישירה: הגעה מהירה יותר לערך ככל שהם מגדילים את היקף השימוש במערכות סוכנים&quot;.</strong> מ-Sweep טרם נמסרה לנו תגובה.</p>
+<h2>היסטוריה של רכישות</h2>
+<p>ל-ServiceNow יש היסטוריה ארוכה של רכישות בישראל ובין היתר היא רכשה בעשור האחרון את הסטארטאפים Neebula, SkyGiraffe, Appsee  ו-Loom. בשנים האחרונות הקצב הואץ משמעותית עם רכישת Atrinet, עסקת הענק של רכישת Armis תמורת 7.75 מיליארד דולר, Pyramid Analytics בפברואר 2026, Traceloop במרץ 2026 והסטארטאפ ai.work ביולי 2026 בסכום המוערך בעשרות מיליוני דולרים.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.geektime.co.il/servicenow-acquires-sweep/">פרסום ראשון: ServiceNow רוכשת את הסטארטאפ הישראלי Sweep ב-400 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/servicenow-acquires-sweep/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>שווה כבר 3.8 מיליארד דולר: Upwind גייסה 300 מיליון דולר</title>
+		<link>https://www.geektime.co.il/upwind-raises-300m-series-c/</link>
+					<comments>https://www.geektime.co.il/upwind-raises-300m-series-c/#comments</comments>
+		
+		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 14:44:55 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[אפווינט]]></category>
+		<category><![CDATA[Upwind]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591179</guid>
+
+					<description><![CDATA[<p>בתחילת 2026 הפך הסטארטאפ Upwind לחד-קרן עם גיוס מרשים של רבע מיליארד דולר לפי שווי של 1.5 מיליארד דולר. היום (ד') הוא משלים סבב גיוס מפלצתי נוסף, תוך פחות משנה, ומצליח להגדיל את השווי שלו משמעותית. מורידים את כמות התרעות הסרק Upwind מפתח מערכת לאבטחת תשתיות ענן המשתמשת במידע, שבדרך כלל יושב אצל צוותי ה-operations [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/upwind-raises-300m-series-c/">שווה כבר 3.8 מיליארד דולר: Upwind גייסה 300 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_534573" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-534573" class="size-large wp-image-534573" src="https://cdn.geektime.co.il/wp-content/uploads/2024/12/UPWIND-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2024/12/UPWIND-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2024/12/UPWIND-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2024/12/UPWIND-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2024/12/UPWIND-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2024/12/UPWIND-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2024/12/UPWIND-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2024/12/UPWIND.jpg 1620w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-534573" class="wp-caption-text">צוות אפווינד. תמונה: Upwind</p></div>
+<p>בתחילת 2026 הפך הסטארטאפ Upwind לחד-קרן עם גיוס מרשים של רבע מיליארד דולר לפי שווי של 1.5 מיליארד דולר. היום (ד') הוא משלים סבב גיוס מפלצתי נוסף, תוך פחות משנה, ומצליח להגדיל את השווי שלו משמעותית.</p>
+<h2>מורידים את כמות התרעות הסרק</h2>
+<p><a href="https://www.geektime.co.il/tag/upwind/">Upwind</a> מפתח מערכת לאבטחת תשתיות ענן המשתמשת במידע, שבדרך כלל יושב אצל צוותי ה-operations בארגונים, ומנגישה אותו בצורה קלה וקונטקסטואלית לצוותי אבטחת המידע. על פי עמירם שחר, שותף-מייסד ומנכ&quot;ל הסטארטאפ, אחת הבעיות המרכזיות ש-Upwind פותרת היא עומס ההתראות (ה-Alert Fatigue המפורסם) שחווים צוותי אבטחה. פלטפורמת ה-CNAPP של החברה יודעת להפחית רעשים ולתעדף סיכונים על בסיס נתונים חיים מהשטח. לפי נתונים של החברה, לקוחותיה מדווחים על ירידה של 98% בכמות התרעות הסרק ועל צמצום של 60% בזיהוי חולשות אבטחה (CVE) שאינן רלוונטיות בפועל לסביבת הייצור.</p>
+<p>המוצר שפיתחו בחברה מסוגל לחסום תקשורת בזמן אמת, למנוע תהליכים מלרוץ, לזהות פריצות ואיומים ולחסום אותם לפני שהם מייצרים נזק, בזמן שצוותי אבטחת המידע נמצאים בשליטה מלאה על הסיטואציה. בחודש מאי האחרון הרחיבה Upwind את הפלטפורמה שלה כך שתדע לזהות ולהפחית סיכונים הנובעים גם מיישומי AI &#8211; תוספת חשובה בהתחשב בתחמנות ובמסוכנות של מודלים כמו אלו של OpenAI ו-Anthropic, שכבר &quot;נתפסו&quot; כשהם פורצים למערכות חיצוניות.</p>
+<h2>שווי השוק זינק</h2>
+<p>היום (ד') מודיעה Upwind על השלמת סבב גיוס C בהיקף של 300 מיליון דולר, לפי שווי של 3.8 מיליארד דולר. זה אומר שבפרק זמן של פחות משנה, החברה יותר מהכפילה את השווי שלה.</p>
+<p>את הסבב הובילה קרן Bessemer Venture Partners, והשתתפו גם המשקיעים הקיימים של החברה. מאז הקמתה ב-2022 גייסה אפווינד יותר מ-400 מיליון דולר.</p>
+<p>את Upwind הקימו ב-2022 עמירם שחר, שמכר את הסטארטאפ הקודם שלו Spot.io ל-NetApp ב-450 מיליון דולר; לביא פרידמן (CPO), טל צור (CTO) ולירן פולק (Chief Architect), והיא היום מעסיקה מעל ל-300 עובדים במשרדים בישראל, ארה&quot;ב ובריטניה. בין לקוחותיה נמנות חברות ענק כמו Wix, Fiverr וסימנס.</p>
+<p>The post <a href="https://www.geektime.co.il/upwind-raises-300m-series-c/">שווה כבר 3.8 מיליארד דולר: Upwind גייסה 300 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/upwind-raises-300m-series-c/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>הסטארטאפ הישראלי Wonderful גייס עכשיו יותר מחצי מיליארד דולר</title>
+		<link>https://www.geektime.co.il/wonderful-ai-raises-550-million-at-5-billion-valuation/</link>
+					<comments>https://www.geektime.co.il/wonderful-ai-raises-550-million-at-5-billion-valuation/#comments</comments>
+		
+		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 12:08:20 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[Wonderful]]></category>
+		<category><![CDATA[וונדרפול]]></category>
+		<category><![CDATA[סטארטאפ]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591158</guid>
+
+					<description><![CDATA[<p>אחת מחברות הסטארטאפ המעניינות ביותר שצמחו באקוסיסטם הישראלי בתקופה האחרונה ממשיכה לשבור שיאים של צמיחה: חברת וונדרפול הודיעה היום (ד') על השלמת סבב גיוס C בסך 550 מיליון דולר, שנעשה על פי שווי של 5 מיליארד דולר. את סבב הגיוס הנוכחי הובילה קרן Insight Partners עם השקעה של 150 מיליון דולר ביחד עם חברת Salesforce [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/wonderful-ai-raises-550-million-at-5-billion-valuation/">הסטארטאפ הישראלי Wonderful גייס עכשיו יותר מחצי מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_549113" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-549113" class="size-large wp-image-549113" src="https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-2048x1365.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2025/07/Wonderful-Group-6970-793x529.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-549113" class="wp-caption-text">הצוות של Wonderful עם צוות הכלבים המשרדיים שדורשים לדבר עם המנהל</p></div>
+<p>אחת מחברות הסטארטאפ המעניינות ביותר שצמחו באקוסיסטם הישראלי בתקופה האחרונה ממשיכה לשבור שיאים של צמיחה: חברת וונדרפול הודיעה היום (ד') על השלמת סבב גיוס C בסך 550 מיליון דולר, שנעשה על פי שווי של 5 מיליארד דולר.</p>
+<p>את סבב הגיוס הנוכחי הובילה קרן Insight Partners עם השקעה של 150 מיליון דולר ביחד עם חברת Salesforce &#8211; המשקיעה החדשה היחידה בסבב. בנוסף, השתתפו בו משקיעים קיימים כמו Index Ventures, IVP, Vine Ventures, 9Yards ו-Bessemer Venture Partners. הגיוס הנוכחי מביא את סך ההשקעות בחברה, שהוקמה רק בשנת 2025, ליותר מ-800 מיליון דולר, וכן, קצב הצמיחה פה הוא חריג בהחלט. לפני חצי שנה בלבד, בחודש מרץ 2026, <a href="https://www.geektime.co.il/wonderful-raises-mega-round-at-2b-valuation/">החברה גייסה 150 מיליון דולר לפי שווי של 2 מיליארד דולר</a>.</p>
+<h2>מערכת הפעלה ל-AI ארגוני</h2>
+<p><a href="https://www.geektime.co.il/tag/wonderful/">Wonderful</a> החלה את פעילותה עם מוצר לפיתוח סוכני AI בארגונים והפעלת סוכני שירות לקוחות מבוססי AI, אולם כיום, וונדרפול הפכה למה שהיא מגדירה מערכת הפעלה מלאה ל-AI ארגוני, שכוללת את כל הכלים, היכולות והבקרות הנדרשות להטמעת והפעלת AI בארגונים.</p>
+<p><span style="font-weight: 400;">מערכת ההפעלה הזו מאפשרת שכבת ניהול אחידה עבור כל יישומי ה-AI של הארגון, בפלטפורמה פתוחה, שאינה תלויה במודל יחיד, כך שלא אכפת לה אם אתם משתמשים בקלוד או במודל סיני עם משקולות פתוחות, והיא </span><span style="font-weight: 400;">מתאימה את עצמה לתשתית הטכנולוגית הקיימת בארגון. בחברה מציינים שאחת הסיבות לצמיחה המהירה שלה נובעת גם ממודל ההצבה הקדמית, במסגרתו מציעה בנוסף למערכת ההפעלה, הטמעה לוקאלית בעזרת <a href="https://www.geektime.co.il/tag/fde/">FDEs</a>, אותם מהנדסים מטעם החברה שאחראים על ההטמעה של הטכנולוגיה והמוצר אצל הלקוחות. כך, וונדרפול מטמיעה שימושים ראשונים ב-AI במהירות ומדריכה את הלקוחות כיצד להרחיב את השימוש בפלטפורמה לכל חלקי החברה. </span></p>
+<p>Wonderful הוקם ב-2025 על ידי המנכ&quot;ל, בר וינקלר, שהקים ומכר את הסטארטאפ Approve.com; ורועי ללזר, ה-CTO, שהקים את הסטארטאפ Kaps.</p>
+<p>The post <a href="https://www.geektime.co.il/wonderful-ai-raises-550-million-at-5-billion-valuation/">הסטארטאפ הישראלי Wonderful גייס עכשיו יותר מחצי מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/wonderful-ai-raises-550-million-at-5-billion-valuation/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ליאור סושרד ואסי כהן השקיעו בסטארטאפ הישראלי Huskeys</title>
+		<link>https://www.geektime.co.il/huskeys-raises-27m-series-a/</link>
+					<comments>https://www.geektime.co.il/huskeys-raises-27m-series-a/#respond</comments>
+		
+		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 11:00:13 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[הסקיס]]></category>
+		<category><![CDATA[האסקיס]]></category>
+		<category><![CDATA[Huskeys]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591127</guid>
+
+					<description><![CDATA[<p>רק לפני חצי שנה הוא נחשף עם לקוחות ענק כמו טיקטוק, והבטחה לפתור את כאבי הראש של עולמות ה-WAF. עכשיו, אחרי שזכה לתמיכה של כמה קרנות הון מוכרות, מתחדש הסטארטאפ הישראלי Huskeys בסבב גיוס עם משקיעים בהם ליאור סושרד ואסי כהן. התקדמה מעולמות ה-WAF Huskeys נחשפה רק בחודש מרץ האחרון עם גיוס של 8 מיליון [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/huskeys-raises-27m-series-a/">ליאור סושרד ואסי כהן השקיעו בסטארטאפ הישראלי Huskeys</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591134" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591134" class="size-large wp-image-591134" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-team-1024x687.jpg" alt="" width="1024" height="687" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-team-1024x687.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-team-300x201.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-team-768x515.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-team-1536x1030.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-team-793x532.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-team.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591134" class="wp-caption-text">עובדי האסקיז וההאסקי. תמונה: נתנאל טוביאס</p></div>
+<p>רק לפני חצי שנה הוא נחשף עם לקוחות ענק כמו טיקטוק, והבטחה לפתור את כאבי הראש של עולמות ה-WAF. עכשיו, אחרי שזכה לתמיכה של כמה קרנות הון מוכרות, מתחדש הסטארטאפ הישראלי Huskeys בסבב גיוס עם משקיעים בהם ליאור סושרד ואסי כהן.</p>
+<h2>התקדמה מעולמות ה-WAF</h2>
+<p><a href="https://www.geektime.co.il/huskeys-seed-funding-edge-security-management-waf/">Huskeys נחשפה רק בחודש מרץ האחרון עם גיוס של 8 מיליון דולר</a> ולקוחות בולטים מאוד כמו טיקטוק ו-Hugging Face. הסטארטאפ מבטיח לשנות את עולם ה-WAF שפוגע בביצועים העסקיים של עסקים רבים, כשהפתרון שלו לא דורש מהארגון להחליף את התשתיות הקיימות או לשנות שורת קוד אחת באפליקציה. במקום זאת, החברה &quot;מתלבשת&quot; על ה-WAF הקיים ומוסיפה מעליו שכבת Agentic AI חכמה. המערכת לומדת לעומק את הלוגיקה של הארגון ובונה עבורו סט חוקים אופטימלי ודינמי.</p>
+<p>המערכת של החברה מסוגלת למדוד באופן רציף את רמת האפקטיביות של חוקי האבטחה ולקנפג אותם בזמן אמת, והיא כבר מנתחת מדי יום למעלה מטריליון פניות, שזורמות מעשרות אלפי דומיינים ברחבי העולם. &quot;מאז ההשקה הרחבנו משמעותית את המוצר, כך שהיום אנחנו תומכים בכל רכיבי ה-Network Edge שהם חלק מהתמונה, ולא רק ב-WAF. זה מאפשר לנו למפות את הרשת מקצה לקצה ולספק פתרון הרבה יותר שלם&quot;, מספר לגיקטיים איתי גפני, מייסד-שותף ומנכ&quot;ל Huskeys. &quot;גם בצד העסקי גדלנו משמעותית. הרחבנו את קהל הלקוחות ונכנסנו לשווקים ולסקטורים חדשים. מבחינתנו, זה הוכיח שהפתרון של האסקיז לא מתאים רק לסוג מסוים של חברות &#8211; הוא רלוונטי לכל חברה שהעסק וההכנסות שלה תלויים בתעבורה שמגיעה מהאינטרנט, בלי קשר לגודל החברה או למיקום הגאוגרפי שלה&quot;.</p>
+<h2>&quot;לא רצנו לגייס כסף. הכסף הגיע אלינו&quot;</h2>
+<p>היום (ד) מכריז כאמור הסטארטאפ על השלמת סבב גיוס A בהיקף של 27 מיליון דולר בהובלת Blackstone, שלראשונה בתולדותיה משתתפת בהשקעה בשלב מוקדם בחברת סייבר. בנוסף, השתתפו בסבב Okta, Zscaler ו-Skinos Ventures. אליהם הצטרפו גם בכירים מ-AWS, Intel, Check Point, Palo Alto, Cloudflare וגוגל, וגם אנשי הבידור הישראלים, אסי כהן וליאור סושרד. כן, שאולי והמנטליסט המצליח שכיכב בסרטון הבטיחות של אל על הם גם משקיעי הון סיכון בסטארטאפ צומח.</p>
+<div id="attachment_591130" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591130" class="size-large wp-image-591130" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-1024x682.jpg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-1024x682.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Huskeys.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591130" class="wp-caption-text">צילום: יאיר גלזר</p></div>
+<p><strong>למה בעצם רצתם לגייס שוב?</strong></p>
+<p>גפני: &quot;לא רצנו לגייס כסף. הכסף הגיע אלינו. מכיוון שאנחנו היום היחידים בשוק שמציעים פתרון לבעיה הגדולה הזאת, הגענו למצב שכמות הלקוחות שמחכים לפתרון רק הולכת וגדלה. כדי לעמוד בביקוש, היינו צריכים להגדיל משמעותית את החברה ואת האופרציה הגלובלית שלנו, ולבנות את היכולת לתמוך ביותר לקוחות, ביותר שווקים, ולתת מענה מהיר לצרכים שלהם. רק בחודשיים האחרונים הכפלנו את כמות העובדים בחברה, ואנחנו מתכננים להמשיך לצמוח אפילו יותר. כשראינו שהכסף שהציעו לנו מתחבר לתוכניות הגדילה שלנו ויכול לאפשר לנו לצמוח אפילו מהר יותר ממה שתכננו, החלטנו שזה הדבר הנכון ביותר עבור החברה&quot;.</p>
+<p><strong>ואיך הצלחתם להביא את בלקסטון להשקעה בשלב מוקדם כל כך?</strong></p>
+<p>גפני: &quot;בלקסטון חרגו מהמדיניות הרגילה שלהם, כי מבחינתם מדובר בהרבה מעבר לפתרון שיכול לעזור להם פנימית או לחברות הפורטפוליו הרבות שלהם. הקשר הראשוני נוצר דרך חיבור לצוות האבטחה של בלקסטון, שרצו לבדוק את הפתרון שלנו פנימית &#8211; כלומר כלקוח פוטנציאלי. אחרי שבלקסטון בחנו את הפתרון שלנו בתוך הארגון, הם הבינו איך הוא יכול לעזור לצוות האבטחה שלהם להתמודד עם הבעיה פנימית ולתמוך בחזון שלהם קדימה. משם, השיחה התפתחה גם לכיוון של השקעה&quot;.</p>
+<p>The post <a href="https://www.geektime.co.il/huskeys-raises-27m-series-a/">ליאור סושרד ואסי כהן השקיעו בסטארטאפ הישראלי Huskeys</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/huskeys-raises-27m-series-a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>מה גרם למייסדי Wiz, דקארט וקרן סקויה להשקיע 50 מיליון דולר בסטארטאפ שנחשף היום?</title>
+		<link>https://www.geektime.co.il/air-comes-out-of-stealth-with-50m-seed/</link>
+					<comments>https://www.geektime.co.il/air-comes-out-of-stealth-with-50m-seed/#comments</comments>
+		
+		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2026 15:00:32 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[AI Agents]]></category>
+		<category><![CDATA[סוכני AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[air]]></category>
+		<category><![CDATA[אייר]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591027</guid>
+
+					<description><![CDATA[<p>מה מביא את מייסדי Decart, Wiz, Eon ואת נשיא Cognition להצטרף לאחת מסבבי ה-Seed הגדולים ביותר שנראו השנה, של סטארטאפ שיצא רק היום (ג') מ-Stealth? תשאלו את מייסדי חברת AIR, שחושפים היום לראשונה את הסטארטאפ שלהם, ומודיעים גם על השלמת סבב גיוס Seed בהיקף של 50 מיליון דולר. ה-Firewall של הסוכנים עם העלייה המטאורית בשימוש [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/air-comes-out-of-stealth-with-50m-seed/">מה גרם למייסדי Wiz, דקארט וקרן סקויה להשקיע 50 מיליון דולר בסטארטאפ שנחשף היום?</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_591028" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591028" class="wp-image-591028 size-large" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Air-Team-1024x576.jpg" alt="" width="1024" height="576" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Air-Team-1024x576.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Air-Team-300x169.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Air-Team-768x432.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Air-Team-1536x864.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Air-Team-793x446.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Air-Team.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591028" class="wp-caption-text">הצוות של Air עם באד, ג'ורדן ובינאנבי. תמונה: אורון קפלן</p></div>
+<p>מה מביא את מייסדי Decart, Wiz, Eon ואת נשיא Cognition להצטרף לאחת מסבבי ה-Seed הגדולים ביותר שנראו השנה, של סטארטאפ שיצא רק היום (ג') מ-Stealth? תשאלו את מייסדי חברת AIR, שחושפים היום לראשונה את הסטארטאפ שלהם, ומודיעים גם על השלמת סבב גיוס Seed בהיקף של 50 מיליון דולר.</p>
+<h2>ה-Firewall של הסוכנים</h2>
+<p>עם העלייה המטאורית בשימוש בכלי AI, ובדגש על סוכני AI, כך האירגון שלכם חשוף להרבה יותר סכנות. בכל זאת, AI Agents יכולים לקבל בעצמם החלטות, וכבר ראינו לא מעט דוגמאות לאופן שבו האקרים מנצלים את זה כדי לזרוע הרס או לגנוב מידע. כל זה בזמן שלצוותי האבטחה שלכם יש נראות ושליטה מאוד מוגבלות על הסיטואציה. &quot;כדי להתמודד עם האתגר, <a href="https://www.air.security/">AIR</a> פיתחה Firewall שפועל בזמן אמת עבור סוכני AI תוך הגנה על המידע שנכנס לקונטקסט שלהם, במטרה לעצור הוראות זדוניות, מידע לא מהימן וכלים שנפרצו לפני שיוכלו להשפיע על החלטותיו או פעולותיו של סוכן ה-AI&quot;, כך מסביר ניב הופמן. מייסד-שותף ו-CTO ב-AIR, שנחשפה היום. &quot;הפלטפורמה מאפשרת לצוותי אבטחת מידע לגלות, לבחון ולנהל באופן רציף את כלל תוספי הAI, ה-Skills, שרתי ה-MCP וסוכני המשנה שבהם משתמשים סוכני ה-AI בארגון, לפני הטמעתם וגם לאחריה. כאשר תוסף מסוים מתגלה כזדוני, פגיע או כזה שלא אושר לשימוש, המערכת מאפשרת לזהות באופן מיידי את כלל הסוכנים והתהליכים שתלויים בו ולבטל את השימוש בו ברחבי הארגון&quot;.</p>
+<p>על פניו, גם לנו זה היה נשמע כמו לא מעט פתרונות ששמענו עליהם בשנה האחרונה, אפילו מסטארטאפים ישראליים באופן ספציפי, אך כששאלתי את הופמן על כך, הוא השיב כי &quot;ה-Firewall של Air מסתמך על מודלי AI ייעודיים שפותחו בחברה לטובת הגנה בזמן אמת מפני איומים שמיועדים לתקיפת אייג'נטים. ה-Firewall מזהה איומים מתקדמים בכל סוג תוכן לפני שמגיע לתוך ה-Context של האייג'נט, בהתבסס על תשתיות סריקה וניתוח חדשניות&quot;. לדבריו, אחד הלקוחות שהשתמש במוצר של AIR גילה סקיל פנימי שנוצר על ידי אחד המפתחים בארגון, רק שהסקיל הזה היה חשוף בטעות למתקפת שרשרת אספקה קריטית. המוצר של AIR זיהה בזמן אמת את הבעיה, ולדבריו &quot;נמנעה גניבת מידע פיננסי רגיש של אותו הלקוח&quot;.</p>
+<h2>השמות הגדולים כבר בפנים</h2>
+<p>נראה שהפתרון של AIR מספיק מעניין כדי למשוך אליו רשימת משקיעים משמעותית שמובילה לסבב גיוס Seed חריג בהיקף של 50 מיליון דולר בהובלת Sequoia ו-Greenoaks, בהשתתפות <a href="https://www.geektime.co.il/tag/swish/">Swish</a> של עמרי כספי ו-Netz, ולצד מספר אנג'לים מעניינים, בהם נשיא Cognition, ינון קוסטיקה, אופיר ארליך, דין לייטרסדורף מ-<a href="https://www.geektime.co.il/tag/decart/">Decart</a>, משה שלו ועוד. AIR נוסדה רק בשנת 2026 על ידי הופמן ויאיר סבאן. השניים הכירו לפני כעשור בצבא, ולפי השניים, היעד של החברה הוא &quot;בניית מעבדת מחקר חזקה למחקר AI&quot;. לפי הופמן, &quot;למדינת ישראל יש חלון הזדמנויות קצר להתבסס בתור מעצמה עולמית בתחום אבטחת תשתיות AI, ואנחנו מקימים מעבדה שתהיה חלוצה בתחום&quot;.  לצורך העניין הם גם גייסו את ה-CISO לשעבר של דיסני ו-Costco לתפקיד Chief Strategy Officer. אם אפשר להשתמש בחלק מכספי הגיוס כדי להביא את קוסטקו לישראל &#8211; לא נתלונן.</p>
+<p>The post <a href="https://www.geektime.co.il/air-comes-out-of-stealth-with-50m-seed/">מה גרם למייסדי Wiz, דקארט וקרן סקויה להשקיע 50 מיליון דולר בסטארטאפ שנחשף היום?</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/air-comes-out-of-stealth-with-50m-seed/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>סיילספורס מובילה גיוס של 160 מיליון דולר בסטארטאפ הישראלי HiBob</title>
+		<link>https://www.geektime.co.il/hibob-raises-166m-salesforce/</link>
+					<comments>https://www.geektime.co.il/hibob-raises-166m-salesforce/#comments</comments>
+		
+		<dc:creator><![CDATA[מערכת Geektime]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2026 10:58:08 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[סטארטאפ]]></category>
+		<category><![CDATA[hibob]]></category>
+		<category><![CDATA[salesforce]]></category>
+		<category><![CDATA[סיילספורס]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<category><![CDATA[הייבוב]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=591043</guid>
+
+					<description><![CDATA[<p>חברת הייבוב הישראלית, שעומדת מאחורי פלטפורמת ניהול העובדים Bob, השלימה סבב גיוס של 166 מיליון דולר בהובלת Salesforce ובהשתתפות המשקיעה הקיימת Farallon Capital Management. הגיוס הנוכחי הוא הגדול ביותר בתולדות החברה, ועל פי בלומברג שדיווח על הסבב, הוא נעשה על פי שווי של 3.2 מיליארד דולר, עלייה בשווי בהשוואה לשווי מוערך של 2.7 מיליארד דולר [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/hibob-raises-166m-salesforce/">סיילספורס מובילה גיוס של 160 מיליון דולר בסטארטאפ הישראלי HiBob</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_326323" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-326323" class="size-large wp-image-326323" src="https://cdn.geektime.co.il/wp-content/uploads/2017/04/hibob-1024x768.jpg" alt="" width="1024" height="768" srcset="https://cdn.geektime.co.il/wp-content/uploads/2017/04/hibob.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2017/04/hibob-768x576.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-326323" class="wp-caption-text">מקור: hibob</p></div>
+<p>חברת הייבוב הישראלית, שעומדת מאחורי פלטפורמת ניהול העובדים Bob, השלימה סבב גיוס של 166 מיליון דולר בהובלת Salesforce ובהשתתפות המשקיעה הקיימת Farallon Capital Management.</p>
+<p>הגיוס הנוכחי הוא הגדול ביותר בתולדות החברה, ועל פי בלומברג שדיווח על הסבב, הוא נעשה על פי שווי של 3.2 מיליארד דולר, עלייה בשווי בהשוואה <a href="https://www.geektime.co.il/hibob-nabs-150m-with-a-2-7b-valuation/">לשווי מוערך של 2.7 מיליארד דולר</a> בסבב הגיוס הקודם בספטמבר שעבר. סך ההון שגייסה הייבוב מאז הקמתה עומד על 700 מיליון הדולרים.</p>
+<p>hibob הוקמה בשנת 2015 על ידי רוני זהבי וישראל דויד, ה-CTO של החברה, והיא מעסיקה 400 עובדים במשרדיה בישראל, ארה&quot;ב  ואירופה.</p>
+<p>The post <a href="https://www.geektime.co.il/hibob-raises-166m-salesforce/">סיילספורס מובילה גיוס של 160 מיליון דולר בסטארטאפ הישראלי HiBob</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/hibob-raises-166m-salesforce/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>הסטארטאפ הישראלי DataAgent נחשף עכשיו עם גיוס של 10 מיליון דולר</title>
+		<link>https://www.geektime.co.il/dataagent-stealth-10m-seed/</link>
+					<comments>https://www.geektime.co.il/dataagent-stealth-10m-seed/#comments</comments>
+		
+		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2026 09:55:25 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[כללי]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[ישי יערי]]></category>
+		<category><![CDATA[דאטה-אייג'נט]]></category>
+		<category><![CDATA[DataAgent]]></category>
+		<category><![CDATA[נתי שלום]]></category>
+		<category><![CDATA[סטארטאפ]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=590955</guid>
+
+					<description><![CDATA[<p>צוותי פיתוח ו-DevOps מכירים היטב את התסריט הבא: זה מתחיל במערכת שקורסת, מערכת ניטור שמקפיצה עשרות התראות, והעובדים שנאלצים לעזוב הכל, כולל ארוחת החלבון שפינטזו עליה מהבוקר, כדי לחקור ולתקן את הבעיה. במקביל, הארגון שולח את כל הלוגים לספקיות ענן חיצוניות רק כדי להבין בדיוק מה השתבש שם (ומשלם על זה לא מעט). ובכן, הסטארטאפ [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/dataagent-stealth-10m-seed/">הסטארטאפ הישראלי DataAgent נחשף עכשיו עם גיוס של 10 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_590958" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-590958" class="wp-image-590958 size-large" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Team-1024x813.jpg" alt="" width="1024" height="813" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Team-1024x813.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Team-300x238.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Team-768x610.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Team-793x630.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Team.jpg 1360w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-590958" class="wp-caption-text">תמונה: DataAgent</p></div>
+<p>צוותי פיתוח ו-DevOps מכירים היטב את התסריט הבא: זה מתחיל במערכת שקורסת, מערכת ניטור שמקפיצה עשרות התראות, והעובדים שנאלצים לעזוב הכל, כולל ארוחת החלבון שפינטזו עליה מהבוקר, כדי לחקור ולתקן את הבעיה. במקביל, הארגון שולח את כל הלוגים לספקיות ענן חיצוניות רק כדי להבין בדיוק מה השתבש שם (ומשלם על זה לא מעט). ובכן, הסטארטאפ הישראלי DataAgent רוצה שבמקום שהמערכת רק תתריע על הבעיה, היא גם תתקן אותה בעצמה.</p>
+<p>היום (ג') מודיע דאטה-אייג'נט על יציאה ממצב Stealth וגיוס פרי-סיד של 10 מיליון דולר בהובלת הקרנות MizMaa Ventures ו-Alicorn. מאחורי החברה עומדים המנכ&quot;ל ישי יערי וסמנכ&quot;ל הטכנולוגיות נתי שלום, שעבדו יחד <a href="https://www.geektime.co.il/dell-pays-100m-for-israeli-startup-cloudify/">ב-Cloudify עד שנרכשה על ידי Dell</a>.</p>
+<div id="attachment_590957" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-590957" class="size-large wp-image-590957" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Founders-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Founders-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Founders-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Founders-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Founders-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Founders-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Founders-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/DataAgent-Founders.jpg 1620w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-590957" class="wp-caption-text">היזמים של DataAgent. תמונה: DataAgent</p></div>
+<p>הפלטפורמה שפיתחו בסטארטאפ מתפקדת בפועל כמו SRE (או site reliability engineer) אוטונומי בסביבות Kubernetes, והיא פועלת ממש בתוך ה-Control Plane של הענן. בחברה אומרים שהגישה שלהם שונה מפתרונות מסורתיים; במקום לאסוף טלמטריה ולהציג אותה בדשבורד כדי שמהנדס יפענח אותה, המערכת מותקנת ישירות בסביבת הלקוח, וברגע שהיא מזהה תקלה, היא פועלת מיידית להחזרת השירות לאוויר. פעולות קריטיות כמו אתחול שרתים, הקצאת משאבים או רולבק, כלומר החזרת גרסה לאחור, מתבצעות באופן אוטומטי, כמובן תוך עמידה בגבולות גזרה מחמירים שהגדירו מראש המפתחים. איתור הבעיה מתבצע רק אחרי שהשירות חזר לתפקד, מה שמקצר משמעותית את זמן ההשבתה. כלומר, קודם כל מחזירים את השירות לאוויר, ואחר-כך חוקרים מה גרם לזה. בחברה מסבירים שבעזרת למידת מכונה ולמידת חיזוק המערכת יכולה ללמוד סוגי תקלות לאורך זמן, והיא מקבלת אוטונומיה מלאה לטפל בסוגי תקלות שונים, כמובן אחרי שהוכיחה שהיא אפקטיבית בזה.</p>
+<h2>עד 90 אחוז חיסכון</h2>
+<p>המשמעות הכלכלית היא גדולה, ובחברה אומרים שהוצאות הניטור שואבות כ-17 אחוזים מתקציבי תשתיות המחשוב בארגונים. מכיוון שהסוכן של DataAgent פועל בצורה מקומית, הוא חוסך את הצורך לשלוח כמויות אדירות של נתונים יקרים לניתוח חיצוני. ישי יערי, שותף-מייסד ומנכ&quot;ל החברה, הסביר כי ספקיות הניטור מתבססות על מודל עסקי של שאיבת נתונים, ולכן אין להן תמריץ אמיתי להוזיל את העלויות. לדבריו, הפלטפורמה שלהם רצה במקביל לכלים הקיימים ללא צורך בהחלפה מלאה שלהם, ומסוגלת לחתוך את ההוצאות בעד 90 אחוזים. נתי שלום, ה-CTO של החברה, הוסיף שהתעשייה בזבזה שנים על פיתוח כלי ניטור פסיביים ויקרים, והניסיונות האחרונים להלביש עליהם מודלי שפה גדולים לא ממש שינו את המצב בשטח.</p>
+<p>The post <a href="https://www.geektime.co.il/dataagent-stealth-10m-seed/">הסטארטאפ הישראלי DataAgent נחשף עכשיו עם גיוס של 10 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/dataagent-stealth-10m-seed/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>הבריכה תחכה: לפחות על פי הנתונים, ההייטק הישראלי לא נח באוגוסט</title>
+		<link>https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-august-2026/</link>
+					<comments>https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-august-2026/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 08:02:59 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[סיכום גיוסים אוגוסט 2026]]></category>
+		<category><![CDATA[סיכום גיוסים]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<category><![CDATA[גיוסי הון]]></category>
+		<category><![CDATA[רכישה]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=590673</guid>
+
+					<description><![CDATA[<p>בזמן שהתרעננתם בבריכה או חיכיתם בתורים הבלתי נגמרים בנתב&#34;ג, ההייטק הישראלי העביר את אוגוסט על טורבו. עם גיוסים של חצי מיליארד דולר, אקזיט ענק אחד ועוד כמה הפתעות מתחת לרדאר &#8211; מתברר שחודש הקיץ המנומנם הפך לפעיל ביותר שראינו בשנים האחרונות. הנה כל המספרים והעסקאות של החודש. הסטארטאפים הישראליים התחילו את אוגוסט &#8211; חודש מנומנם [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-august-2026/">הבריכה תחכה: לפחות על פי הנתונים, ההייטק הישראלי לא נח באוגוסט</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_589167" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-589167" class="size-large wp-image-589167" src="https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-1536x1024.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24-793x529.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-15.45.24.jpeg 1600w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-589167" class="wp-caption-text">הנהלת BioCatch | מקור: BioCatch</p></div>
+<p>בזמן שהתרעננתם בבריכה או חיכיתם בתורים הבלתי נגמרים בנתב&quot;ג, ההייטק הישראלי העביר את אוגוסט על טורבו. עם גיוסים של חצי מיליארד דולר, אקזיט ענק אחד ועוד כמה הפתעות מתחת לרדאר &#8211; מתברר שחודש הקיץ המנומנם הפך לפעיל ביותר שראינו בשנים האחרונות. הנה כל המספרים והעסקאות של החודש.</p>
+<p>הסטארטאפים הישראליים התחילו את אוגוסט &#8211; חודש מנומנם בדרך כלל &#8211; בקצב די משוגע מבחינת גיוסים ואקזיטים שדווחו. לפחות עד אמצע החודש. בסך הכל דיווחו 12 סטארטאפים ישראלים על גיוסי הון, בסך כולל של כ-580 מיליון דולר. מדובר בחודש הכי &quot;פורה&quot; מבחינת ההון שגייסו הסטארטאפים הישראליים מאז אוגוסט 2022 &#8211; אז גייסו כמיליארד דולר &#8211; אבל השנים 2021 ו-2022 היו כזכור בגדר אנומליה עם אלמנטים בועתיים. מאז הספקנו לחוות פה כמה חודשי אוגוסט קשים, כולל <a href="https://www.geektime.co.il/israeli-ecosystem-monthly-funding-roundup-august-2024/">אוגוסט 2024 שהיה הגרוע ביותר שראינו פה ב-12 השנים האחרונות</a>.</p>
+<h2>מאזן כוחות חדש בין צעירים לבוגרים</h2>
+<p>אחד הסיפורים המעניינים מבחינת גיוסי ההון הישראלים החודש הוא החלוקה בין הסטארטאפים הצעירים (שגייסו סבבי פרי-סיד עד A) לסטארטאפים הבוגרים (סבב B ואילך). למרות שבאופן עקבי אנחנו רואים שהחלוקה הולכת לרוב ביחסים של 2:1 לטובת הצעירים (משמע על כל שני סטארטאפים צעירים שגייסו, סטארטאפ בוגר אחד גייס) &#8211; החודש החלוקה הייתה שווה.</p>
+<p>החלוקה הזאת היא גם זו שאחראית לחודש הפורה יחסית מבחינת ההון שגויס, עם שני סטארטאפים (Zenity ו-Alice) שגייסו יותר מ-100 מיליון דולר, לצד סבב Pre-Seed חריג במיוחד של June.ai &#8211; הסטארטאפ שהוקם בין היתר על ידי אפרת רפפורט, שמכרה לסיילספורס סטארטאפ וניהלה את מרכז הפיתוח שלה בישראל. לאלו גם הצטרף גיוס Seed חריג של הסטארטאפ Corma, שמפתח לפי היזם שלו את &quot;הגביע הקדוש&quot; של הסייבר ההגנתי &#8211; מודל בסיס חדש שאמור לסייע למגינים ולא רק לתוקפים.</p>
+<p>נזכיר שאנחנו מסכמים גיוסי הון מדווחים, ולקרנות ולסטארטאפים יש נטייה לדווח פחות על גיוסי הון בחודשי יולי ואוגוסט, בגלל חופשות מרובות ותשומת לב תקשורתית, אבל זה לא אומר שלא נחתמו עוד עסקאות, שידווחו בספטמבר הקרוב.</p>
+<h2>חודש האקזיטים: ויזה שברה את הכלים</h2>
+<p>לצד הגיוסים המרשימים, החודש אמנם היו לנו ארבע רכישות של סטארטאפים, לצד לא מעט עסקאות רכישה קטנות יחסית, אך אחת מהן עלתה על כל השאר. הרכישה של BioCatch ע&quot;י ויזה ב-2.4 מיליארד דולר הייתה חריגה והפכה את החודש להרבה יותר מעניין. לצידה גם רכישת At Bay, גם אם בסכום נמוך מהשווי ששוקף לחברה בעבר &#8211; אלו הביאו את האקזיטים של הסטארטאפים הישראלים ליותר מ-3 מיליארד דולר החודש. לצד שתי עסקאות הענק הללו ראינו עוד שתי עסקאות צנועות יותר, כולל רכישת הסטארטאפ Clarity ע&quot;י ענקית ה-HRTech הישראלית-אמריקאית Deel ב-50 מיליון דולר והרכישה של Received.ai ע&quot;י Stigg.</p>
+<h2>הגיוסים של אוגוסט 2026</h2>
+<p><a href="https://www.geektime.co.il/arrakis-security-raies-seed/">בכירים ב-Palantir ו-ElevenLabs משקיעים בסטארטאפ ישראלי שנחשף היום</a></p>
+<p><a href="https://www.geektime.co.il/june-ai-pre-seed/">היזמת שמכרה חברה לסיילספורס גייסה 20 מיליון דולר ממארק בניוף ומייקל דל</a></p>
+<p><a href="https://www.geektime.co.il/zenity-mega-round/">הסטארטאפ שמצא חולשות חמורות ב-ChatGPT מגייס 125 מיליון דולר</a></p>
+<p><a href="https://www.geektime.co.il/oligo-raises-60m/">אחרי שמצאו חולשות אצל אפל ומטא, הם מגייסים עוד 60 מיליון דולר</a></p>
+<p><a href="https://www.geektime.co.il/faye-series-c-funding/">הסטארטאפ שמכניס AI לטיסה הבאה שלכם גייס עכשיו 50 מיליון דולר</a></p>
+<p><a href="https://www.geektime.co.il/iaig-raises-6m-ai-venture-studio/">מנכ&quot;ל שהוא גם העובד היחיד: הסטארטאפ שרוצה להפיל חברות SaaS ותיקות גייס 6 מיליון דולר</a></p>
+<p><a href="https://www.geektime.co.il/corma-comes-out-of-stealth-with-a-fancy-seed-round/">&quot;הגביע הקדוש של התחום&quot;: יוצאי גוגל ו-8200 נחשפים עם גיוס Seed חריג</a></p>
+<p><a href="https://www.geektime.co.il/remepy-raises-a-round/">36 מיליון דולר לסטארטאפ הישראלי שמחבר בין תרופות לקוד</a></p>
+<p><a href="https://www.geektime.co.il/xpander-raises-seed-round/">מה גורם לסמסונג להשקיע בסטארטאפ ישראלי חדש של יוצאי אמזון?</a></p>
+<p><a href="https://www.geektime.co.il/israeli-startup-nvidia-anthropic-raises-140m-alice/">הסטארטאפ הישראלי שמגן על אנת'רופיק ו-NVIDIA גייס 140 מיליון דולר</a></p>
+<p><a href="https://www.geektime.co.il/flash/quanthealth-raises-45m-series-b/">הסטארטאפ QuantHealth גייס 45 מיליון דולר בסבב B</a></p>
+<p>Attestable גייסה 20 מיליון דולר לאבטחת מערכות AI סיד</p>
+<h2>האקזיטים של אוגוסט 2026</h2>
+<p><a href="https://www.geektime.co.il/deel-acquires-clarity/">דיל רוכשת ב-50 מיליון דולר סטארטאפ ישראלי שנלחם בדיפ-פייק</a></p>
+<p><a href="https://www.geektime.co.il/visa-biocatch-exit/">עסקת ענק בהייטק: ויזה רוכשת סטארטאפ ישראלי ב-2.4 מיליארד דולר במזומן</a></p>
+<p><a href="https://www.geektime.co.il/at-bay-sold-for-575m-exit/">רשמית: הסטארטאפ At Bay נמכר ב-575 מיליון דולר</a></p>
+<p>אקזיט כחול-לבן: Stigg רוכשת את Recieved.ai</p>
+<p>The post <a href="https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-august-2026/">הבריכה תחכה: לפחות על פי הנתונים, ההייטק הישראלי לא נח באוגוסט</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-august-2026/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
