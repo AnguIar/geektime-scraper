@@ -12,7 +12,7 @@
 	<atom:link href="https://www.geektime.co.il/category/funding/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.geektime.co.il/category/funding/</link>
 	<description>גיקטיים - אתר הטכנולוגיה וההייטק של ישראל</description>
-	<lastBuildDate>Mon, 19 Oct 2026 15:46:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Oct 2026 13:37:49 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>סטארטאפ ישראלי שנחשף היום עם גיוס גדול טוען: &#034;ה-SOC מת&#034;</title>
+		<link>https://www.geektime.co.il/mave-comes-out-of-stealth/</link>
+					<comments>https://www.geektime.co.il/mave-comes-out-of-stealth/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 13:00:44 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Mave]]></category>
+		<category><![CDATA[מייב]]></category>
+		<category><![CDATA[סטארטאפ ישראלי]]></category>
+		<category><![CDATA[סייבר]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=594075</guid>
+
+					<description><![CDATA[<p>&#34;אנחנו מביאים לשולחן קונספט חדש &#8211; Triage is dead. SOC is dead&#34; כך אומר בשיחה עם גיקטיים רזיאל אורן, מנכ&#34;ל ומייסד שותף בסטארטאפ הצעיר Mave Security, שנחשף היום (ה'). &#34;העולם חווה מהפכה תעשייתית חדשה שמניחה בפנינו הזדמנות היסטורית לשנות את חדר ה-SOC ואת הטכנולוגיות שעליהן הוא מבוסס&#34; הוא מוסיף ורומז על המטרה של הסטארטאפ: להחליף [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/mave-comes-out-of-stealth/">סטארטאפ ישראלי שנחשף היום עם גיוס גדול טוען: &quot;ה-SOC מת&quot;</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_594076" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-594076" class="size-large wp-image-594076" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-1536x1024.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-2048x1366.jpeg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-793x529.jpeg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-594076" class="wp-caption-text">הצוות של Mave והכלבים: טרייאז', אוסינט וסוק | צילום: אורון קפלן</p></div>
+<p>&quot;אנחנו מביאים לשולחן קונספט חדש &#8211; Triage is dead. SOC is dead&quot; כך אומר בשיחה עם גיקטיים רזיאל אורן, מנכ&quot;ל ומייסד שותף בסטארטאפ הצעיר Mave Security, שנחשף היום (ה'). &quot;העולם חווה מהפכה תעשייתית חדשה שמניחה בפנינו הזדמנות היסטורית לשנות את חדר ה-SOC ואת הטכנולוגיות שעליהן הוא מבוסס&quot; הוא מוסיף ורומז על המטרה של הסטארטאפ: להחליף את הצוות או המערך בארגון שאחראי על ניטור, זיהוי, חקירה ותגובה לאיומי סייבר.</p>
+<h2>מביאים את הגישה של אייפון ושל אנדרואיד לפלטפורמה אחת</h2>
+<p>אורן מסביר כי בזמן שעולם ה-SecOps מתמודד עם אותה בעיה כבר 20 שנה, הפתרון של החברה מבוסס על סוכני AI. המערכת של Mave משתמשת בכלי האבטחה של הארגון ומפעילה תהליכי עבודה ייעודיים לכל משימה &#8211; החל מחקירת התראות ועד לציד איומים ומודיעין &#8211; שמבוססים על סוכן אחד או יותר. לדבריו: &quot;אנחנו משלבים מודלי קצה (Frontier), מודלים בקוד פתוח המותאמים למשימות מסוימות ומודלי שפה קטנים משלנו&quot;. השילוב הזה מאזן בין דיוק, מהירות ועלות. הוא משווה זאת לרכב שטח ענק שמתאים לכביש מהיר, אבל פחות רלוונטי לסמטאות צרות שבהן חייבים ללכת ברגל.</p>
+<p>הסוכנים מתחברים דרך שרתי MCP או ממשקי API לכלי הסקיוריטי השונים. משם המערכת ממדלת את ההקשר העסקי, ההרשאות ומדיניות הלקוח, ואוספת ראיות ממקורות שונים כדי להחזיר מסקנות מגובות. כל הפעולות מתועדות, והמערכת יכולה להפעיל תגובה אוטומטית או לבקש אישור אנושי. ב-Mave שילבו בין &quot;גישת האייפון&quot; שבה החברה בונה מראש את מה שנכון לצוותי הסקיוריטי, לבין &quot;גישת האנדרואיד&quot; שמאפשרת לצוותים ליצור סוכנים משלהם מאפס.</p>
+<p>אורן מספר לגיקטיים כי הם עובדים עם מעל ל-200 לקוחות. אצל אחד מהם, ארגון אמריקאי מ-Fortune 200, המערכת בלמה מתקפה של ShinyHunters &#8211; הקבוצה שפרצה ל-FBI בחודש שעבר. הלקוח חשש ממעבר של התוקפים מהרשת הארגונית לרשת התפעולית (OT). בתוך דקות, Mave חיברה מידע מהענן ומהרשתות הפנימיות, איתרה נקודות כניסה והסירה את עיקר הסיכון בתוך פחות מחמש דקות מרגע ניסיון התקיפה. בהמשך הצוות השתמש במערכת כדי לברר כיצד התוקפים נכנסו (RCA) ולבדוק את היקף הפגיעה האפשרי (Blast radius).</p>
+<h2>חוסמים כבר את ההאקרים המוכרים בעולם</h2>
+<p>את Mave הקימו ב-2025 רזיאל אורן וגיא אשל (CTO), שניהם קצינים יוצאי 8200. אורן מגיע מ-Wing Security ואשל היה העובד הראשון ב-Alterya וסמנכ&quot;ל הפיתוח שלה. הסטארטאפ מעסיק מעל ל-30 עובדים, רובם בישראל, ונחשף היום עם גיוסים בסך 34 מיליון דולר: סבב סיד של 6 מיליון דולר בהובלת Dell Technologies Capital ו-Emerge Ventures, וסבב A של 28 מיליון דולר בהובלת Red Dot Capital Partners והשתתפות Lumir Growth Partners.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.geektime.co.il/mave-comes-out-of-stealth/">סטארטאפ ישראלי שנחשף היום עם גיוס גדול טוען: &quot;ה-SOC מת&quot;</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/mave-comes-out-of-stealth/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>עם השקעה מאיחוד האמירויות: 16 מיליון דולר לטכנולוגיית הרחפנים הישראלית</title>
 		<link>https://www.geektime.co.il/high-lander-a-round-2026/</link>
 					<comments>https://www.geektime.co.il/high-lander-a-round-2026/#comments</comments>
@@ -45,7 +81,7 @@
 					<description><![CDATA[<p>מאז פרוץ מלחמת רוסיה-אוקראינה, הפכו הרחפנים מאיום טקטי ונקודתי לכאב ראש אסטרטגי שמעסיק צבאות שלמים. היום (ב') חושף הסטארטאפ הישראלי High Lander טכנולוגיה שעושה סדר בשמיים עבור כוחות הביטחון ועל גיוס הון חדש. פועלים כבר עם גופי ביטחון וביישובים בישראל הסטארטאפ הישראלי High Lander מפתח שלוש מערכות שונות. הראשונה, Vega Hub, מיועדת לניהול המרחב האווירי. [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/high-lander-a-round-2026/">עם השקעה מאיחוד האמירויות: 16 מיליון דולר לטכנולוגיית הרחפנים הישראלית</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_593969" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-593969" class="size-large wp-image-593969" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1024x576.jpg" alt="" width="1024" height="576" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1024x576.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-300x169.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-768x432.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1536x864.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-2048x1152.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-793x446.jpg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-593969" class="wp-caption-text">מקור: High Lander</p></div>
+										<content:encoded><![CDATA[<div id="attachment_593969" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-593969" class="size-large wp-image-593969" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1024x576.jpg" alt="" width="1024" height="576" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1024x576.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-300x169.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-768x432.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1536x864.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-2048x1152.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-793x446.jpg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-593969" class="wp-caption-text">מקור: High Lander</p></div>
 <p>מאז פרוץ מלחמת רוסיה-אוקראינה, הפכו הרחפנים מאיום טקטי ונקודתי לכאב ראש אסטרטגי שמעסיק צבאות שלמים. היום (ב') חושף הסטארטאפ הישראלי High Lander טכנולוגיה שעושה סדר בשמיים עבור כוחות הביטחון ועל גיוס הון חדש.</p>
 <h2>פועלים כבר עם גופי ביטחון וביישובים בישראל</h2>
 <p>הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/high-lander/">High Lander</a> מפתח שלוש מערכות שונות. הראשונה, Vega Hub, מיועדת לניהול המרחב האווירי. היא מאפשרת לתכנן ולתאם טיסות בין מפעילים למניעת התנגשויות באוויר, לצד אפליקציה למטיסים ואוטומציה מלאה של אישורי הטסה ורגולציה. המערכת השנייה, Orion, מנהלת ציי רחפנים אוטונומיים ומשלבת גישה מאפליקציה, זיהוי בזמן אמת וניתוח נתונים מבוסס מודלי AI. בשיחה עם גיקטיים מסביר אלון אבלסון, מנכ&quot;ל ומייסד High Lander, כי המערכת כוללת גם עוזר חכם: &quot;העוזר מאפשר למשתמשים לשאול שאלות על המערכת, לקבל הנחיות ולצפות בהדגמות של תהליכים שאינם מכירים, באמצעות ממשק שיחה פשוט&quot;.</p>
@@ -87,7 +123,7 @@
 <p>השילוב של AI בתהליכי פיתוח תוכנה וכתיבת קוד הוא אחד השימושים הוותיקים ביותר בתחום, אבל עד עכשיו, כלי ה-AI שימשו בעיקר כדי לסייע למפתחים לכתוב קוד שהוא מגיע לפרודקשן. עכשיו, הסטארטאפ הישראלי doubleAI חושף קטגוריה חדשה של מודלים שפועלים בשלב שונה לחלוטין. מדובר במודלים להרצת קוד, או CEMs, שממוקמים בין הקוד לבין רכיבי הסיליקון של השרתים, ופועלים באופן עצמאי לחלוטין. היום (ב') חושפת החברה את המודל הראשון שלה שנקרא Maxwell, שמבצע אופטימיזציה לתוכנות &#8211; תוך כדי הריצה שלהן.</p>
 <h2>ניתוח בזמן אמת של נתונים</h2>
 <p>הטכנולוגיה מאחורי הפיתוח מתבססת על ניתוח בזמן אמת של זרימת הנתונים והחומרה הספציפית שעליה רצה התוכנה. המודל של <a href="https://www.geektime.co.il/tag/doubleai/">doubleAI</a> מזהה צווארי בקבוק בביצועים ומייצר גרסה חדשה ומהירה יותר של הקוד. במקרה של פייתון למשל, המודל מסוגל להחליף את הקוד המקורי בקוד ברמה נמוכה יותר (כלומר קרובה יותר לשפת מכונה ולמעבד), שמאופטם ישירות למעבד. בצורה דומה, פקודות של PyTorch יוחלפו בקרנלים שעברו התאמה לכרטיס הגרפי הספציפי שמותקן בשרת.</p>
-<div id="attachment_594001" style="width: 763px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-594001" class="size-full wp-image-594001" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DOUBLEAI-MAXWELL.jpg" alt="" width="753" height="352" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DOUBLEAI-MAXWELL.jpg 753w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DOUBLEAI-MAXWELL-300x140.jpg 300w" sizes="(max-width: 753px) 100vw, 753px" /><p id="caption-attachment-594001" class="wp-caption-text">צילום מסך</p></div>
+<div id="attachment_594001" style="width: 763px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-594001" class="size-full wp-image-594001" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DOUBLEAI-MAXWELL.jpg" alt="" width="753" height="352" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DOUBLEAI-MAXWELL.jpg 753w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DOUBLEAI-MAXWELL-300x140.jpg 300w" sizes="auto, (max-width: 753px) 100vw, 753px" /><p id="caption-attachment-594001" class="wp-caption-text">צילום מסך</p></div>
 <p>האתגר המרכזי בשכתוב קוד בזמן ריצה הוא כמובן מניעת קריסות ותקלות. כדי לפתור את זה, הפיתוח נשען על תחום מתמטי בשם אימות פורמלי. המערכת מחשבת הוכחה מתמטית ודאית לכך שהקוד החדש זהה לחלוטין מבחינה סמנטית לקוד הישן. כלומר, מובטח שבהינתן אותו קלט, הקוד המהיר ייצר בדיוק את אותה תוצאה ופעולות לוואי, ללא שגיאות.</p>
 <p>בחברה מתגאים בכך שפריצת הדרך מתבטאת ביכולת להחיל אימות פורמלי על שפות דינמיות. שפת פייתון נחשבת למורכבת במיוחד להוכחות מתמטיות, מכיוון שמשתנים יכולים לשנות את סוגם תוך כדי הריצה. צוות הפיתוח הצליח למפות את ההתנהגות המלאה של השפה, כולל פעולות חיצוניות כמו תקשורת רשת או קריאת קבצים, ולוודא שהאופטימיזציה שומרת על התנהגות המערכת במלואה. ברגע שהוכח שהגרסה החדשה שהיא ג'ינרטה יעילה וזהה, היא משמשת כנקודת מוצא לאופטימיזציה הבאה, מה שמוביל בפועל למעין תוכנה שמשפרת את עצמה כל הזמן. כל תהליך השכתוב והחלפת הקבצים הבינאריים מתבצע מתחת לפני השטח, כך שקוד המקור שהותירו המפתחים נשאר שלם וללא כל שינוי.</p>
 <h2>תשלום על פי חיסכון</h2>
@@ -1071,46 +1107,6 @@
 					
 					<wfw:commentRss>https://www.geektime.co.il/euno-raises-a-round/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>הסטארטאפ Covenant נחשף היום עם גיוסים של רבע מיליארד דולר</title>
-		<link>https://www.geektime.co.il/covenant-exits-stealth-with-250m-funding/</link>
-					<comments>https://www.geektime.co.il/covenant-exits-stealth-with-250m-funding/#comments</comments>
-		
-		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 09:15:07 +0000</pubDate>
-				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
-		<category><![CDATA[סטארטאפ והון סיכון]]></category>
-		<category><![CDATA[Covenant]]></category>
-		<category><![CDATA[דיפנס טק]]></category>
-		<category><![CDATA[סטארטאפ]]></category>
-		<category><![CDATA[anthem]]></category>
-		<category><![CDATA[קובננט]]></category>
-		<category><![CDATA[גיוס]]></category>
-		<category><![CDATA[גיוס הון]]></category>
-		<guid isPermaLink="false">https://www.geektime.co.il/?p=591488</guid>
-
-					<description><![CDATA[<p>אחרי תקופה ארוכה בה פעל מתחת לרדאר (ליטרלי מתחת לרדאר) סטארטאפ הדיפנסטק Covenant נחשף היום (ד') רשמית עם המוצר החשאי שלו, שהיה בפיתוח בשנים האחרונות, עם גיוסים בסך 250 מיליון דולר. תחליף זול ונגיש לטומהוק הוותיק המוצר המרכזי שחושפת החברה נקרא Anthem, מערכת נשק לטווח ארוך שמסוגלת לשאת חימוש כבד. הרעיון של Covenant הוא לייצר [&#8230;]</p>
-<p>The post <a href="https://www.geektime.co.il/covenant-exits-stealth-with-250m-funding/">הסטארטאפ Covenant נחשף היום עם גיוסים של רבע מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="attachment_591565" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591565" class="size-large wp-image-591565" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-2048x1366.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Anthem-_-In-Flight-793x529.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591565" class="wp-caption-text">תמונה: Covenant</p></div>
-<p>אחרי תקופה ארוכה בה פעל מתחת לרדאר (ליטרלי מתחת לרדאר) סטארטאפ הדיפנסטק Covenant נחשף היום (ד') רשמית עם המוצר החשאי שלו, שהיה בפיתוח בשנים האחרונות, עם גיוסים בסך 250 מיליון דולר.</p>
-<h2>תחליף זול ונגיש לטומהוק הוותיק</h2>
-<p>המוצר המרכזי שחושפת החברה נקרא Anthem, מערכת נשק לטווח ארוך שמסוגלת לשאת חימוש כבד. הרעיון של <a href="https://www.geektime.co.il/tag/covenant/">Covenant</a> הוא לייצר את המערכת באלפי יחידות ובעלות נמוכה בהרבה מהחלופות בשוק, כדי לפתור את השחיקה המהירה במלאי הטילים המדויקים של צבאות המערב. על פי דיווחים שונים, עלות כל טיל צפויה לעמוד על כמה מאות אלפי דולרים, מחיר נמוך משמעותית ממחירו של כל טיל טומהוק, שעומד על כ-2 מיליון דולר לטיל אחד.</p>
-<p>אחד החידושים שמביאה איתה המערכת הוא שהיא מבוססת ברובה על רכיבי מדף מסחריים, שמאפשרים ייצור רציף גם בחירום. לאחרונה אף דווח כי <a href="https://www.geektime.co.il/covenant-might-work-with-germany-on-cruise-missiles/">משרד ההגנה בגרמניה בוחן את המערכת</a> כתחליף אפשרי לטילי הטומהוק הוותיקים, שמעבר לעלותם, גם נתונים לשליטה ופיקוח הדוקים של הממשל האמריקאי.</p>
-<p>מאחורי הסטארטאפ עומד המייסד והמנכ&quot;ל מייקל קאופמן, אמריקאי-ישראלי, שעלה לישראל לפני מספר שנים, ועבד בעבר בקרן של המשקיע פיטר ת'יל. לצידו אביגיל דנברג כנשיאה, שמביאה ניסיון מבואינג ואופיר דיין, מייסד-משותף וסמנכ&quot;ל טכנולוגיות (CTO). לקובננט יש מטה בוושינגטון ומרכז פיתוח וייצור בתל אביב שמשתרע על שטח של 3,000 מ&quot;ר, יחד עם מפעלים בדאלאס ובגרמניה. עד כה בוצעו מעל 200 טיסות ניסוי של Anthem, והחברה צברה חוזים בסך 150 מיליון דולר, כולל פיתוח גרסה ימית עבור הצי האמריקאי. על פי החברה, הייצור הסדרתי יחל ב-2027 בקצב של כ-5,000 טילים בשנה.</p>
-<p>קאופמן הסביר: &quot;יש כיום אלפי יעדים מבצעיים שנמצאים מחוץ לטווח של מערכות הנשק הקיימות. Anthem נועד לאפשר פגיעה ביעדים האלה גם כשהלחימה נמשכת לאורך זמן. כדי לשמור על ההרתעה, צריך להחזיק מלאי גדול מספיק של חימוש ולהיות מסוגלים לחדש אותו בקצב הנדרש&quot;.</p>
-<h2>מאנדריסן הורביץ ועד פיטר ת'יל</h2>
-<p>היום כאמור נחשף הסטארטאפ עם סך השקעות של יותר מ-250 מיליון דולר בשלושה סבבי השקעה. את הגיוסים הובילו קרנות בולטות כמו Andreessen Horowitz ו-Founders Fund של פיטר ת'יל, לצד 8VC, Lux, Lightspeed וקרן Aleph. ההשקעות, שמשקפות שווי חברה של יותר ממיליארד דולר, מסמנות את המשך המומנטום של ענף הדיפנס-טק, שמושך כיום משקיעים שבעבר חששו מהתחום והעדיפו חברות תוכנה. התערערות המצב הגיאופוליטי בעולם עם הקונפליקטים במזרח התיכון, במפרץ הפרסי, באוקראינה והמתיחות בין טיוואן לסין &#8211; ביחד עם הצניחה באטרקטיביות של חברות תוכנה בעקבות מהפכת ה-AI &#8211; כל אלו הפכו את התחום ללוהט בשנים האחרונות.</p>
-<p>דייוויד אולביץ', שותף כללי ב-Andreessen Horowitz אמר: &quot;הקמנו את תוכנית ההשקעות American Dynamism כדי לתמוך בחברות שפועלות בתחומים חיוניים לביטחון ולאינטרס הלאומי של ארה&quot;ב. בנייתו מחדש של ארסנל התקיפה ארוך הטווח של המערב הוא אחת המשימות המרכזיות כיום. לקובננט יש את העומק הטכנולוגי ואת היכולת להתקדם במהירות&quot;.</p>
-<p>קתלין היקס, לשעבר סגנית שר ההגנה של ארה&quot;ב וכיום יועצת לחברה, הוסיפה: &quot;במסגרת יוזמת Replicator התמקדנו בהאצת היכולת של הפנטגון להצטייד בכמויות גדולות של מערכות אוטונומיות קטנות וזולות. אותה גישה נדרשת גם במערכות ארוכות טווח שנושאות חימוש כבד. Anthem נבנה כך שאפשר יהיה לייצר ולספק אותו בקצב שהצרכים המבצעיים דורשים&quot;.</p>
-<p>The post <a href="https://www.geektime.co.il/covenant-exits-stealth-with-250m-funding/">הסטארטאפ Covenant נחשף היום עם גיוסים של רבע מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.geektime.co.il/covenant-exits-stealth-with-250m-funding/feed/</wfw:commentRss>
-			<slash:comments>5</slash:comments>
 		
 		
 			</item>
