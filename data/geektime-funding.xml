@@ -12,7 +12,7 @@
 	<atom:link href="https://www.geektime.co.il/category/funding/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.geektime.co.il/category/funding/</link>
 	<description>גיקטיים - אתר הטכנולוגיה וההייטק של ישראל</description>
-	<lastBuildDate>Thu, 22 Oct 2026 13:37:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Oct 2026 20:05:57 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,74 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>אינטל רוכשת את Classiq הישראלית בכ-2.3 מיליארד דולר</title>
+		<link>https://www.geektime.co.il/intel-acquires-classiq-in-biggest-deal-in-quantum-tech-history/</link>
+					<comments>https://www.geektime.co.il/intel-acquires-classiq-in-biggest-deal-in-quantum-tech-history/#respond</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 20:06:48 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[מחשוב קוונטי]]></category>
+		<category><![CDATA[classiq]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[אינטל]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<category><![CDATA[קלאסיק]]></category>
+		<category><![CDATA[רכישה]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=594364</guid>
+
+					<description><![CDATA[<p>האקזיט הגדול בתולדות תחום המחשוב הקוונטי, בפער ניכר: הסטארטאפ הישראלי Classiq, המפתח פלטפורמה לפיתוח אלגוריתמים קוונטיים, נרכש בעסקה שטרם נראה כמוה בתחום. לא בישראל &#8211; בעולם כולו. הרוכשת היא לא אחרת מאשר Intel, כנראה לא החברה הראשונה שהייתם מצפים שתיכנס בסערה כזאת לתחום. סכום העסקה אמנם לא פורסם, אך מוערך בכ-2.3 מיליארד דולר. להיות &#34;המיקרוסופט [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/intel-acquires-classiq-in-biggest-deal-in-quantum-tech-history/">אינטל רוכשת את Classiq הישראלית בכ-2.3 מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_545732" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-545732" class="size-large wp-image-545732" src="https://cdn.geektime.co.il/wp-content/uploads/2025/05/classiq-1024x682.jpeg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2025/05/classiq-1024x682.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/classiq-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/classiq-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/classiq-1536x1023.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/classiq-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/classiq-793x528.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2025/05/classiq.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-545732" class="wp-caption-text">צילום: אייל טואג</p></div>
+<p style="direction: rtl;"><strong>האקזיט הגדול בתולדות תחום המחשוב הקוונטי, בפער ניכר</strong>: הסטארטאפ הישראלי Classiq, המפתח פלטפורמה לפיתוח אלגוריתמים קוונטיים, נרכש בעסקה שטרם נראה כמוה בתחום. לא בישראל &#8211; בעולם כולו. הרוכשת היא לא אחרת מאשר Intel, כנראה לא החברה הראשונה שהייתם מצפים שתיכנס בסערה כזאת לתחום. סכום העסקה אמנם לא פורסם, אך מוערך בכ-2.3 מיליארד דולר.</p>
+<h2>להיות &quot;המיקרוסופט של המחשוב הקוונטי&quot;</h2>
+<p>ב-<a href="https://www.geektime.co.il/tag/classiq/">Classiq</a> (קלאסיק) מפתחים פלטפורמה שתאפשר פיתוח אלגוריתמים קוונטיים בדרך חדשה. החברה היא למעשה הראשונה לפתח את הכלים החיוניים לתרגום אוטומטי של רעיונות אנושיים למעגלים קוונטיים, ולספק את האלמנטים הבסיסיים הנדרשים ליצירת אלגוריתמים קוונטיים. &quot;כיום, פיתוח תוכנה קוונטית מוגבל לרמת השערים הלוגיים. מפתחת התוכנה צריכה לדעת בדיוק אילו שערים להחיל על איזה קיוביט, וזו משימה סבירה עבור קיוביטים בודדים, מאוד קשה עבור עשרות קיוביטים, ובלתי אפשרית עבור מאות, אלפי ומליוני קיוביטים. זו פשוט בעיית design קשה מדי&quot;, הסביר לנו בעבר ניר מינרבי, מנכ&quot;ל קלאסיק.</p>
+<p>קלאסיק בונה שפת מידול למעגלים קוונטיים (כלומר, תוכנה קוונטית) ואת כלי הסינתזה שמייצר את המעגל המורכב, שניתן להריץ על כל חומרה קוונטית. בפועל, שפות מידול חומרה כמו VHDL וכלי סינתזה כמו אלו של Cadence ו-Synopsys מאפשרים למעשה את אותן המרות מודל פונקציונלי, לכדי מעגל מורכב ברמת השערים. &quot;במחשוב קוונטי, השערים הם התוכנה, לא החומרה. לכן החברה שבאמת תהיה ה-Cadence של המחשוב הקוונטי, תהיה גם המיקרוסופט של המחשוב הקוונטי. לשם אנחנו הולכים&quot;, הוסיף. הפלטפורמה שיצר הסטארטאפ מאפשרת לפתח תוכנה למחשבים קוונטיים מסוגים שונים, והמשתמשים יכולים להריץ אותה בלחיצת כפתור על הענן הקוונטי של חברות שונות כמו מיקרוסופט, אמזון ו-IBM. בנוסף, בקלאסיק עובדים כדי לאפשר למפתחים לבצע אנליזה לתוכנות שפיתח, לדבג אותה, ולוודא שהיא סקיילבילית.</p>
+<p>הסטארטאפ הוקם ב-2020 על ידי ניר מינרבי, ד”ר יהודה נווה (CTO) ואמיר נווה (VP R&amp;D). עד היום גייס קלאסיק כ-200 מיליון דולר משורה ארוכה של קרנות גדולות וחברות ענק, בהן Team8, קוואלקום, AMD, סמסונג נקסט, Entree Capital, חברת IonQ, לאומיטק 77 של בנק לאומי, הפניקס, HSBC, NightDragon ,Norwest המילטון ליין, כלל, Neva SGR, ווינג קפיטל, IN Ventures ו-Qbeat. בין משקיעי האנג'ל אפשר למצוא גם שם מעניין ורלוונטי מאוד &#8211; מנכ&quot;ל אינטל ליפ בו טאן.</p>
+<p style="direction: rtl;">סכום הרכישה אמנם לא פורסם, אך על פי הערכות בענף הוא יגיע עד ל-2.3 מיליארד דולר, לצד תוספת של 175 מיליון דולר שישולמו כמענקי שימור לעובדים החדשים. הרכישה מגיעה אחרי שביולי האחרון כבר דלף כי בקלאסיק שקלו להיכנס לבורסה ואף החלו את התהליך לגייס הון ממשקיעים לטובת המהלך, כשאינטל החליטה לעשות צעד חריג והגישה הצעה שלא נראתה כמותה בענף כדי להוסיף אליה את השחקנית הישראלית. נכון לעכשיו מדובר באקזיט הכי גדול בענף, ובעסקה הגדולה פי 2 מהעסקה הכי גדולה שהייתה עד כה בתחום הקוונטים &#8211; כש-IonQ &#8211; כנראה השם החזק ביותר בתחום &#8211; רכשה את Oxford Ionics בכמיליארד דולר.</p>
+<h2>אחד התחומים הרותחים של האקוסיסטם בשנה שעברה</h2>
+<p>תחום הקוונטים היה אחד החמים באקוסיסטם הישראלי ב-2025, וכלל כמה גיוסי ענק &#8211; כמו 170 מיליון דולר שגייסה Quantum Machines, לצד <a href="https://www.geektime.co.il/amd-qualcomm-invest-in-classiq/">140 מיליון דולר שגייסה קלאסיק</a> <a href="https://www.geektime.co.il/classiq-breaks-record-for-quantum-software-funding-round/">בשני סבבים</a> ועוד גיוס ענק &#8211; של 100 מיליון דולר &#8211; של הסטארטאפ Quantum Art. האקזיט של קלאסיק כעת מוכיח שלמרות שישראל היא שוק קטן, היא מצליחה לייצר חברות משמעותיות בתחום שענקיות הטכנולוגיה שמו עליו דגש משמעותי, לצד ה-AI כמובן שמקבל כרגע את רוב התקציבים. מהצד השני של העסקה, נראה כי אחרי שאינטל פספסה את תחום המובייל, ובמידה מסוימת גם את תחום המעבדים ל-PC ול-Mac, ואף את תחום ה-AI ל-NVIDIA, היא מוצאת לעצמה את מה שהיא מקווה שיהיה התחום הרותח הבא.</p>
+<p>The post <a href="https://www.geektime.co.il/intel-acquires-classiq-in-biggest-deal-in-quantum-tech-history/">אינטל רוכשת את Classiq הישראלית בכ-2.3 מיליארד דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/intel-acquires-classiq-in-biggest-deal-in-quantum-tech-history/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>הסטארטאפ של יוצאי מלאנוקס ואינטל נרכש ע&#034;י חברה אמריקאית בת שנה</title>
+		<link>https://www.geektime.co.il/neureality-acquired-by-unconventional/</link>
+					<comments>https://www.geektime.co.il/neureality-acquired-by-unconventional/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 15:00:33 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[UNCONVENTIONAL]]></category>
+		<category><![CDATA[Neureality]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<category><![CDATA[רכישה]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=594390</guid>
+
+					<description><![CDATA[<p>Unconventional, סטארטאפ חומרה בן שנה בלבד, הודיע היום (ב') על רכישת הסטארטאפ הישראלי Neureality. סכום העסקה לא פורסם. Neureality (ניוריאליטי) הישראלית מפתחת שבב שנועד להאצה ולעיבוד של מודלי Deep Learning בדאטה סנטרים ובמרכזי עיבוד קצה (מה שמוכר גם בתור Edge). מבחינת הארכיטקטורה, המוצר נמצא בצד השרת ואמור לענות על כל הצרכים, כולל התממשקות לחלקי מערכת [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/neureality-acquired-by-unconventional/">הסטארטאפ של יוצאי מלאנוקס ואינטל נרכש ע&quot;י חברה אמריקאית בת שנה</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_514300" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-514300" class="size-large wp-image-514300" src="https://cdn.geektime.co.il/wp-content/uploads/2024/03/NeuReality-company-team.-Credit-Aviv-Kurt-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2024/03/NeuReality-company-team.-Credit-Aviv-Kurt-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2024/03/NeuReality-company-team.-Credit-Aviv-Kurt-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2024/03/NeuReality-company-team.-Credit-Aviv-Kurt-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2024/03/NeuReality-company-team.-Credit-Aviv-Kurt-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2024/03/NeuReality-company-team.-Credit-Aviv-Kurt-2048x1365.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2024/03/NeuReality-company-team.-Credit-Aviv-Kurt-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2024/03/NeuReality-company-team.-Credit-Aviv-Kurt-793x529.jpg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-514300" class="wp-caption-text">צילום: אביב קורט</p></div>
+<p>Unconventional, סטארטאפ חומרה בן שנה בלבד, הודיע היום (ב') על רכישת הסטארטאפ הישראלי Neureality. סכום העסקה לא פורסם.</p>
+<p><a href="https://www.geektime.co.il/tag/neureality/">Neureality</a> (ניוריאליטי) הישראלית מפתחת שבב שנועד להאצה ולעיבוד של מודלי Deep Learning בדאטה סנטרים ובמרכזי עיבוד קצה (מה שמוכר גם בתור Edge). מבחינת הארכיטקטורה, המוצר נמצא בצד השרת ואמור לענות על כל הצרכים, כולל התממשקות לחלקי מערכת התשתית האחרים כמו אחסון ונטוורקינג. השבב שפיתחה החברה כולל מאפיינים של ניהול התעבורה, תיעדוף המשימות וניהול המעבדים עצמם, והוא מיועד לצרכני AI כבדים במיוחד. בחברה גם מסבירים שהוא מייעל שירותי API של בינה מלאכותית ומאפשר התרחבות לפי הצורך ובאופן ליניארי. החברה פיתחה רכיבי עיבוד מוצמדי רשת (NAPU – Network Addressable Processing Units) שמטרתם לסייע בשלב ההסקה (Inference) של המודלים וברשתות נוירונים עבור use-cases של ראייה ממוחשבת, עיבוד שפה טבעית ומנועי המלצות. מנכ&quot;ל החברה ואחד המייסדים משה תנך הסביר לנו בעבר כי המתחרים הרבים בשוק האצת ה-AI מתעסקים בעיקר בהאצת העיבוד, ולא בהאצה של הפתרון כולו מהקצה של הלקוח ועד לשרת. המוצרים של ניוריאליטי מסוגלים להתחרות, לטענתו, גם במוצרים של שחקניות גדולות כמו NVIDIA ואינטל. תנך אמר לנו בעבר גם כי החברה עובדת כבר עם כמה ענקיות טכנולוגיה בהן סמסונג, לנובו, IBM ו-AMD, ואף בנתה אבטיפוס של המוצר שלה יחד עם AMD.</p>
+<p>את ניוריאליטי הקימו ב-2019 משה תנך, מנכ&quot;ל; צביקה שמואלי, סגן נשיא לתפעול; ויוסי קסוס המשמש כסגן נשיא לפיתוח שבבים. תנך כיהן בעבר כמנהל הנדסה במארוול ובאינטל, וכסגן נשיא מו&quot;פ ב-DesignArt שנמכרה לקוואלקום ב-2012; שמואלי כיהן כסגן נשיא Backend במלאנוקס וסגן נשיא הנדסה ב-<a href="https://www.geektime.co.il/intel-acquires-habana-labs-2-bn/">Habana Labs שנמכרה לאינטל ב-2 מיליארד דולר ב-2019</a>; וקסוס שימש כדירקטור בכיר להנדסה במלאנוקס וכראש תחום פיתוח שבבים ב-EZchip. על פי נתוני Pitchbook, הסטארטאפ הישראלי גייס 115 מיליון דולר עד לרכישה כעת על ידי Unconventional.</p>
+<p>משה תנך, מנכ&quot;ל ואחד ממייסדי ניוריאליטי, אומר בשיחה איתנו כי יצאו כעת לרכישה כי &quot;היכולת למזג בין הטכנולוגיה שלנו לבסיס החישוביות של Unconventional נראתה כמו ההזדמנות הטובה ביותר&quot;. לדבריו, הרוב הגדול של עובדי ניוריאליטי יהפכו לחלק מהחברה הרוכשת, כאשר הרכישה תהפוך את הסטארטאפ למרכז הפיתוח הישראלי של Unconventional. &quot;נמשיך לעבוד על פיתוחים שלנו תוך המיזוג שלהם עם הטכנולוגיה של Unconventional ויחד נעבוד על מוצרים משותפים&quot;, מספר תנך &#8211; שיעמוד בראש מרכז הפיתוח הישראלי וידווח ישירות למנכ&quot;ל הרוכשת, נאבין ראו. לדברי תנך, ראו הוא גם זה שהציע לפני כחודשיים את הרכישה והוסיף כי זו הגיעה &quot;מכיוון שניוריאליטי פועלת בתחום הנכון עם הטכנולוגיה המתאימה, והצוות המוביל הוכיח יכולות ביצועיות יוצאות מן הכלל ביחס לתעשייה&quot;.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.geektime.co.il/neureality-acquired-by-unconventional/">הסטארטאפ של יוצאי מלאנוקס ואינטל נרכש ע&quot;י חברה אמריקאית בת שנה</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/neureality-acquired-by-unconventional/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>סטארטאפ ישראלי שנחשף היום עם גיוס גדול טוען: &#034;ה-SOC מת&#034;</title>
 		<link>https://www.geektime.co.il/mave-comes-out-of-stealth/</link>
 					<comments>https://www.geektime.co.il/mave-comes-out-of-stealth/#comments</comments>
@@ -46,7 +114,7 @@
 					<description><![CDATA[<p>&#34;אנחנו מביאים לשולחן קונספט חדש &#8211; Triage is dead. SOC is dead&#34; כך אומר בשיחה עם גיקטיים רזיאל אורן, מנכ&#34;ל ומייסד שותף בסטארטאפ הצעיר Mave Security, שנחשף היום (ה'). &#34;העולם חווה מהפכה תעשייתית חדשה שמניחה בפנינו הזדמנות היסטורית לשנות את חדר ה-SOC ואת הטכנולוגיות שעליהן הוא מבוסס&#34; הוא מוסיף ורומז על המטרה של הסטארטאפ: להחליף [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/mave-comes-out-of-stealth/">סטארטאפ ישראלי שנחשף היום עם גיוס גדול טוען: &quot;ה-SOC מת&quot;</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_594076" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-594076" class="size-large wp-image-594076" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-1536x1024.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-2048x1366.jpeg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-793x529.jpeg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-594076" class="wp-caption-text">הצוות של Mave והכלבים: טרייאז', אוסינט וסוק | צילום: אורון קפלן</p></div>
+										<content:encoded><![CDATA[<div id="attachment_594076" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-594076" class="size-large wp-image-594076" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-1536x1024.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-2048x1366.jpeg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/MAVE-793x529.jpeg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-594076" class="wp-caption-text">הצוות של Mave והכלבים: טרייאז', אוסינט וסוק | צילום: אורון קפלן</p></div>
 <p>&quot;אנחנו מביאים לשולחן קונספט חדש &#8211; Triage is dead. SOC is dead&quot; כך אומר בשיחה עם גיקטיים רזיאל אורן, מנכ&quot;ל ומייסד שותף בסטארטאפ הצעיר Mave Security, שנחשף היום (ה'). &quot;העולם חווה מהפכה תעשייתית חדשה שמניחה בפנינו הזדמנות היסטורית לשנות את חדר ה-SOC ואת הטכנולוגיות שעליהן הוא מבוסס&quot; הוא מוסיף ורומז על המטרה של הסטארטאפ: להחליף את הצוות או המערך בארגון שאחראי על ניטור, זיהוי, חקירה ותגובה לאיומי סייבר.</p>
 <h2>מביאים את הגישה של אייפון ושל אנדרואיד לפלטפורמה אחת</h2>
 <p>אורן מסביר כי בזמן שעולם ה-SecOps מתמודד עם אותה בעיה כבר 20 שנה, הפתרון של החברה מבוסס על סוכני AI. המערכת של Mave משתמשת בכלי האבטחה של הארגון ומפעילה תהליכי עבודה ייעודיים לכל משימה &#8211; החל מחקירת התראות ועד לציד איומים ומודיעין &#8211; שמבוססים על סוכן אחד או יותר. לדבריו: &quot;אנחנו משלבים מודלי קצה (Frontier), מודלים בקוד פתוח המותאמים למשימות מסוימות ומודלי שפה קטנים משלנו&quot;. השילוב הזה מאזן בין דיוק, מהירות ועלות. הוא משווה זאת לרכב שטח ענק שמתאים לכביש מהיר, אבל פחות רלוונטי לסמטאות צרות שבהן חייבים ללכת ברגל.</p>
@@ -81,7 +149,7 @@
 					<description><![CDATA[<p>מאז פרוץ מלחמת רוסיה-אוקראינה, הפכו הרחפנים מאיום טקטי ונקודתי לכאב ראש אסטרטגי שמעסיק צבאות שלמים. היום (ב') חושף הסטארטאפ הישראלי High Lander טכנולוגיה שעושה סדר בשמיים עבור כוחות הביטחון ועל גיוס הון חדש. פועלים כבר עם גופי ביטחון וביישובים בישראל הסטארטאפ הישראלי High Lander מפתח שלוש מערכות שונות. הראשונה, Vega Hub, מיועדת לניהול המרחב האווירי. [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/high-lander-a-round-2026/">עם השקעה מאיחוד האמירויות: 16 מיליון דולר לטכנולוגיית הרחפנים הישראלית</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_593969" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-593969" class="size-large wp-image-593969" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1024x576.jpg" alt="" width="1024" height="576" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1024x576.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-300x169.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-768x432.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1536x864.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-2048x1152.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-793x446.jpg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-593969" class="wp-caption-text">מקור: High Lander</p></div>
+										<content:encoded><![CDATA[<div id="attachment_593969" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-593969" class="size-large wp-image-593969" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1024x576.jpg" alt="" width="1024" height="576" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1024x576.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-300x169.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-768x432.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-1536x864.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-2048x1152.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/DSC03875-2-793x446.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-593969" class="wp-caption-text">מקור: High Lander</p></div>
 <p>מאז פרוץ מלחמת רוסיה-אוקראינה, הפכו הרחפנים מאיום טקטי ונקודתי לכאב ראש אסטרטגי שמעסיק צבאות שלמים. היום (ב') חושף הסטארטאפ הישראלי High Lander טכנולוגיה שעושה סדר בשמיים עבור כוחות הביטחון ועל גיוס הון חדש.</p>
 <h2>פועלים כבר עם גופי ביטחון וביישובים בישראל</h2>
 <p>הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/high-lander/">High Lander</a> מפתח שלוש מערכות שונות. הראשונה, Vega Hub, מיועדת לניהול המרחב האווירי. היא מאפשרת לתכנן ולתאם טיסות בין מפעילים למניעת התנגשויות באוויר, לצד אפליקציה למטיסים ואוטומציה מלאה של אישורי הטסה ורגולציה. המערכת השנייה, Orion, מנהלת ציי רחפנים אוטונומיים ומשלבת גישה מאפליקציה, זיהוי בזמן אמת וניתוח נתונים מבוסס מודלי AI. בשיחה עם גיקטיים מסביר אלון אבלסון, מנכ&quot;ל ומייסד High Lander, כי המערכת כוללת גם עוזר חכם: &quot;העוזר מאפשר למשתמשים לשאול שאלות על המערכת, לקבל הנחיות ולצפות בהדגמות של תהליכים שאינם מכירים, באמצעות ממשק שיחה פשוט&quot;.</p>
@@ -119,7 +187,7 @@
 					<description><![CDATA[<p>השילוב של AI בתהליכי פיתוח תוכנה וכתיבת קוד הוא אחד השימושים הוותיקים ביותר בתחום, אבל עד עכשיו, כלי ה-AI שימשו בעיקר כדי לסייע למפתחים לכתוב קוד שהוא מגיע לפרודקשן. עכשיו, הסטארטאפ הישראלי doubleAI חושף קטגוריה חדשה של מודלים שפועלים בשלב שונה לחלוטין. מדובר במודלים להרצת קוד, או CEMs, שממוקמים בין הקוד לבין רכיבי הסיליקון של [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/doubleai-amnon-shashua-cem-formal-verification-funding/">&quot;תוכנה שמשפרת את עצמה&quot;: הסטארטאפ doubleAI של אמנון שעשוע חושף קטגוריה חדשה של מודלים</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_594029" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-594029" class="size-large wp-image-594029" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2-1024x392.jpg" alt="" width="1024" height="392" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2-1024x392.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2-300x115.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2-768x294.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2-793x303.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2.jpg 1448w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-594029" class="wp-caption-text">תמונה: אתר doubleAI</p></div>
+										<content:encoded><![CDATA[<div id="attachment_594029" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-594029" class="size-large wp-image-594029" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2-1024x392.jpg" alt="" width="1024" height="392" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2-1024x392.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2-300x115.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2-768x294.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2-793x303.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/doubleAI-2.jpg 1448w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-594029" class="wp-caption-text">תמונה: אתר doubleAI</p></div>
 <p>השילוב של AI בתהליכי פיתוח תוכנה וכתיבת קוד הוא אחד השימושים הוותיקים ביותר בתחום, אבל עד עכשיו, כלי ה-AI שימשו בעיקר כדי לסייע למפתחים לכתוב קוד שהוא מגיע לפרודקשן. עכשיו, הסטארטאפ הישראלי doubleAI חושף קטגוריה חדשה של מודלים שפועלים בשלב שונה לחלוטין. מדובר במודלים להרצת קוד, או CEMs, שממוקמים בין הקוד לבין רכיבי הסיליקון של השרתים, ופועלים באופן עצמאי לחלוטין. היום (ב') חושפת החברה את המודל הראשון שלה שנקרא Maxwell, שמבצע אופטימיזציה לתוכנות &#8211; תוך כדי הריצה שלהן.</p>
 <h2>ניתוח בזמן אמת של נתונים</h2>
 <p>הטכנולוגיה מאחורי הפיתוח מתבססת על ניתוח בזמן אמת של זרימת הנתונים והחומרה הספציפית שעליה רצה התוכנה. המודל של <a href="https://www.geektime.co.il/tag/doubleai/">doubleAI</a> מזהה צווארי בקבוק בביצועים ומייצר גרסה חדשה ומהירה יותר של הקוד. במקרה של פייתון למשל, המודל מסוגל להחליף את הקוד המקורי בקוד ברמה נמוכה יותר (כלומר קרובה יותר לשפת מכונה ולמעבד), שמאופטם ישירות למעבד. בצורה דומה, פקודות של PyTorch יוחלפו בקרנלים שעברו התאמה לכרטיס הגרפי הספציפי שמותקן בשרת.</p>
@@ -1027,86 +1095,6 @@
 					
 					<wfw:commentRss>https://www.geektime.co.il/buildots-raises-130m/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>&#034;כל אדם הוכפל פי 1000&#034;: Cymphony נחשפת עם 30 מיליון דולר</title>
-		<link>https://www.geektime.co.il/cymphony-raised-30m-in-seed-and-a-rounds/</link>
-					<comments>https://www.geektime.co.il/cymphony-raised-30m-in-seed-and-a-rounds/#comments</comments>
-		
-		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 13:00:55 +0000</pubDate>
-				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
-		<category><![CDATA[Cymphony]]></category>
-		<category><![CDATA[סימפוני]]></category>
-		<category><![CDATA[גיוס]]></category>
-		<guid isPermaLink="false">https://www.geektime.co.il/?p=591472</guid>
-
-					<description><![CDATA[<p>לפעמים אנחנו חושבים שאם אנשים היו מקדישים באבטחה של סוכני AI את הזמן שהם משקיעים בחישוב הטוקנים או בחירת השמות שלהם, המצב היה הרבה יותר טוב; אז הסטארטאפ Cymphony רוצה שתמשיכו לעבוד עם הסוכנים שלכם בדיוק כמו שאתם רגילים ורוצים, ואפילו להתייחס אליהם כעובדים בחברה &#8211; רק בלי החלק של  לסכן אותה. &#34;כל אדם הוכפל [&#8230;]</p>
-<p>The post <a href="https://www.geektime.co.il/cymphony-raised-30m-in-seed-and-a-rounds/">&quot;כל אדם הוכפל פי 1000&quot;: Cymphony נחשפת עם 30 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="attachment_591473" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591473" class="size-large wp-image-591473" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-1536x1025.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/cymphony-team.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591473" class="wp-caption-text">צילום: שי הנסב</p></div>
-<p>לפעמים אנחנו חושבים שאם אנשים היו מקדישים באבטחה של סוכני AI את הזמן שהם משקיעים בחישוב הטוקנים או בחירת השמות שלהם, המצב היה הרבה יותר טוב; אז הסטארטאפ Cymphony רוצה שתמשיכו לעבוד עם הסוכנים שלכם בדיוק כמו שאתם רגילים ורוצים, ואפילו להתייחס אליהם כעובדים בחברה &#8211; רק בלי החלק של  לסכן אותה.</p>
-<h2>&quot;כל אדם הוכפל פי 1000&quot;</h2>
-<p><a href="https://gkt.me/cymphony">Cymphony</a> מפתחת פלטפורמת אבטחה וניהול ששולטת באופן שבו עובדים וסוכני AI ניגשים למידע ולמערכות בארגון. התהליך מתחיל בפגישת אפיון לתיעדוף קונבנציות, ולאחריה הלקוח מחבר את המערכת לסביבה שלו. תוך רגעים ספורים, המערכת מציגה מידע ראשוני כמו חשיפה למידע רגיש ודרכים לתיקון.</p>
-<p>בשיחה עם גיקטיים מסביר שי דקל, מייסד שותף ומנכ&quot;ל בסימפוני: &quot;אנחנו פונים בדיוק רב, כאחוז אחד מהעובדים בהתחלה, ומסוגלים לסגור לצוות האבטחה את מעגל הערך &#8211; לעבור מהר מנראות להורדת סיכון. משם אנחנו מתרחבים לכיסוי מוצרי קולבורציה, זהות, CASB ודפדפני אנטרפרייז&quot;. בסופו של תהליך, המערכת ממפה את כל העובדים והסוכנים, ומאפשרת לצוותים להבין לאיזה מידע יש להם גישה ואיך זה עלול להשפיע על הביזנס.</p>
-<p>סימפוני הוקמה לפני כשנתיים, קצת לפני טירוף האייג'נטים הנוכחי. אחרי שדקל ועידן ברקוביץ (CPO) הוקפצו למילואים ב-7 באוקטובר, הם חזרו והבינו שהמיקוד חייב להיות במיפוי גישות לארגונים. &quot;כשסקויה השקיעו והפגישו אותנו עם עשרות סיסואים לשיחות אישיות, הבנו שהבעיה הרבה יותר בסיסית: צוותי אבטחה לא יודעים למפות את כוח האדם והגישה שהם מקבלים&quot;, משתף דקל.</p>
-<p>לדבריו, עם כניסתם של סוכני ה-AI, כל אדם &quot;הוכפל פי 1000&quot;. סוכנים מנצלים הרשאות גישה עודפות למסמכי משכורות, שרטוטים הנדסיים או מידע רגיש על מטופלים. אייג'נטים, הוא מדגיש, הם ישות חזקה וקריטית שאי אפשר להשאיר ללא ניהול. דקל חולק דוגמה מטרידה משלב ה-POC אצל אחד הלקוחות: המערכת זיהתה פעילות של Claude שקרא אלפי מסמכים ביום &#8211; מבלי שהותקן רשמית בחברה. מתברר שעובד הריץ את קלוד מחשבון פרטי, ושיתף איתו אזורים בדרייב לעבודה זמנית שמעולם לא נסגרו.</p>
-<h2>30 מיליון דולר</h2>
-<p>היום (ד') מודיעה Cymphony על השלמת שני סבבי גיוס: סבב Seed של 5 מיליון דולר בהובלת Sequoia Capital, וסבב A של 25 מיליון דולר בהובלת Sequoia Capital ו-Fin Capital. החברה, שהוקמה על ידי דקל, ברקוביץ ואדי גוטליב (CTO) &#8211; כולם בוגרי תוכנית תלפיות &#8211; מעסיקה כ-23 עובדים בישראל ובארה&quot;ב, וכבר עובדת עם לקוחות ענק כמו Syngenta, KKR ו-Cass Information Systems.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h2></h2>
-<p>&nbsp;</p>
-<p>The post <a href="https://www.geektime.co.il/cymphony-raised-30m-in-seed-and-a-rounds/">&quot;כל אדם הוכפל פי 1000&quot;: Cymphony נחשפת עם 30 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.geektime.co.il/cymphony-raised-30m-in-seed-and-a-rounds/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>מייסדי Cyera, Wiz ו-Eon משקיעים בסטארטאפ הישראלי Euno</title>
-		<link>https://www.geektime.co.il/euno-raises-a-round/</link>
-					<comments>https://www.geektime.co.il/euno-raises-a-round/#comments</comments>
-		
-		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 11:00:31 +0000</pubDate>
-				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
-		<category><![CDATA[Euno]]></category>
-		<category><![CDATA[יונו]]></category>
-		<category><![CDATA[סטארטאפ ישראלי]]></category>
-		<category><![CDATA[גיוס]]></category>
-		<category><![CDATA[גיוס הון]]></category>
-		<guid isPermaLink="false">https://www.geektime.co.il/?p=591529</guid>
-
-					<description><![CDATA[<p>אם ניסיתם לתת לאייג'נט AI משימה שדורשת חפירות וחיטוטים בדאטה הארגוני שלכם, כנראה שגיליתם מהר מאוד שהוא הולך לאיבוד. בזמן שהמידע קבור בדאטה-בייסים שונים או לפעמים בראש של המפתחים, הסטארטאפ הישראלי Euno פיתח מערכת שמתממשקת לכל הכלים בארגון ומנגישה אותו לסוכנים. עכשיו הוא נחשף עם גיוס של 23 מיליון דולר. החברה שהשתנתה &#34;כמעט בכל ממד&#34; [&#8230;]</p>
-<p>The post <a href="https://www.geektime.co.il/euno-raises-a-round/">מייסדי Cyera, Wiz ו-Eon משקיעים בסטארטאפ הישראלי Euno</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="attachment_591530" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-591530" class="size-large wp-image-591530" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-1024x693.jpeg" alt="" width="1024" height="693" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-1024x693.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-300x203.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-768x520.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-197x134.jpeg 197w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43-793x537.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/photo_2026-09-09-12.41.43.jpeg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-591530" class="wp-caption-text">היזמים של Euno | מקור: Euno</p></div>
-<p>אם ניסיתם לתת לאייג'נט AI משימה שדורשת חפירות וחיטוטים בדאטה הארגוני שלכם, כנראה שגיליתם מהר מאוד שהוא הולך לאיבוד. בזמן שהמידע קבור בדאטה-בייסים שונים או לפעמים בראש של המפתחים, הסטארטאפ הישראלי Euno פיתח מערכת שמתממשקת לכל הכלים בארגון ומנגישה אותו לסוכנים. עכשיו הוא נחשף עם גיוס של 23 מיליון דולר.</p>
-<h2>החברה שהשתנתה &quot;כמעט בכל ממד&quot; תוך שנתיים</h2>
-<p>הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/euno/">Euno</a> פיתח כלי שמתחבר ישירות למערכות השונות בארגון &#8211; דאטה-בייסים, כלי טרנספורמציה, כלי BI, מערכות אבטחה, ניהול הרשאות ובקרת איכות &#8211; ואוסף מהן מטא-דאטה באופן רציף. מתוך המידע הזה, המערכת בונה אוטומטית גרף חי שמתעדכן בהתאם לשינויים בסביבה, וממפה את הקשרים מקצה לקצה בין נכסי הדאטה והמשתמשים. הגרף הזה מוכן לשליפה על ידי אייג'נטים דרך MCP כבר מהיום הראשון להתקנת המערכת.</p>
-<p>בשיחה עם גיקטיים מסבירה שרה לוי, מנכ&quot;לית ואחת ממייסדות Euno, כי על גבי הגרף מקודד גם הידע הארגוני שלא קיים באופן מפורש במערכות, כמו מה נחשב אמין ומוכן ל-AI, חלוקה ל-Domains, כללי Governance, הנחיות לאייג'נטים וטרמינולוגיה עסקית. לדבריה, &quot;חלק מרכזי מהמחקר שלנו עוסק ביכולת להסיק את הידע הזה אוטומטית מתוך הדפוסים והקשרים בגרף, במקום לדרוש מאנשים להגדיר ולתחזק אותו ידנית&quot;. המערכת מקיימת תהליכי פידבק מתמשכים הבוחנים את איכות המענה של האייג'נטים בשטח, מזהים פערים ומעשירים את הקונטקסט. התוצאה היא מערכת שלא רק נשארת מסונכרנת, אלא לומדת ומשתפרת עם השימוש.</p>
-<p>מ-POC לפרודקשן בחברות Fortune 500 את Euno הקימו ב-2023 שרה לוי, לשעבר ה-CTO של Sight Diagnostics, ואייל פירסטנברג, המשמש כ-CTO של החברה וייסד בעבר את <a href="https://www.geektime.co.il/palo-alto-networks-acquire-lightcyber-for-105-million-dollars/">LightCyber שנרכשה על ידי פאלו אלטו נטוורקס</a>. שני היזמים הם בוגרי תלפיות ויוצאי 8200, יחידה 81 ומחלקת הסייבר של צה&quot;ל.</p>
-<p>כשהוקמה החברה, מודלי שפה גדולים (LLMs) רק התחילו להיכנס לארגונים. &quot;כבר היה לנו ברור שכשמדברים על Self-service לדאטה, העתיד הוא AI&quot;, אומרת לוי. היא מסבירה כי הפערים בהבנת הדאטה תמיד היו שם, אך עם כניסתם של סוכנים אוטונומיים נוצר ואקום ללא ה&quot;אדם בלולאה&quot;. זה הוביל את Euno להתמקד לחלוטין בסוכנים, ולבנות מוצר שתומך ב-Scale, ביצועים ואינטגרציות מורכבות. המיקוד השתלם: <a href="https://www.geektime.co.il/founders-spoke-to-250-data-teams-and-founded-euno-with-a-seed-funding/">מאז הגיוס הקודם ב-2024</a>, החברה עברה לעבוד ישירות מול חברות Fortune 500. &quot;היום יש לנו לקוחות ופייפליין משמעותי של ארגונים מהסוג הזה, שכבר התנסו ב-AI ומבינים שהאתגר האמיתי הוא לעבור מ-POC לפרודקשן ולהצליח לשמור על איכות לאורך זמן&quot;, היא מדגישה. היכולת ללמוד מאינטראקציות אמיתיות של אייג'נטים עם דאטה אפשרה ליונו לבנות אוטומציות שמקצרות משמעותית את הדרך מהתקנה לדיפלוימנט מלא.</p>
-<p>גיוס מהחברים ליחידה היום (ד') נחשפת Euno רשמית ומודיעה על גיוס סבב A בהיקף של 23 מיליון דולר. הסבב הובל על ידי N47 בהשתתפות קרן 10D (שהייתה המשקיעה המרכזית בסבב הסיד). אל הקרנות הצטרפה שורת אנג'לים בולטת מהאקוסיסטם הישראלי, ביניהם ינון קוסטיקה (מייסד-שותף ב-Wiz), יותם שגב (מייסד-שותף ומנכ&quot;ל Cyera), אופיר ארליך (מייסד-שותף ומנכ&quot;ל Eon), רותם וייס (מייסד Tavily שנרכשה על ידי נביוס) ומארק נלסון, לשעבר מנכ&quot;ל ונשיא Tableau.</p>
-<p>החיבור ליזמים הללו מגיע גם מהשירות המשותף בצה&quot;ל, וגם מסינרגיה בין המוצרים השונים. &quot;מה שמעניין הוא שכל אחד מהיזמים האלה פוגש את מהפכת ה-AI מזווית אחרת&quot;, מסכמת לוי, &quot;מ-Eon בעולם תשתיות הדאטה, דרך Wiz ו-Cyera בעולמות אבטחת ה-AI, ועד Tavily (<a href="https://www.geektime.co.il/nebius-announces-agreement-to-acquire-israeli-startup/">שנרכשה על ידי נביוס</a>), שמתמקדת באופן שבו אייג'נטים ניגשים למידע מהעולם החיצוני&quot;.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>The post <a href="https://www.geektime.co.il/euno-raises-a-round/">מייסדי Cyera, Wiz ו-Eon משקיעים בסטארטאפ הישראלי Euno</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.geektime.co.il/euno-raises-a-round/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
 		
 		
 			</item>
