@@ -12,7 +12,7 @@
 	<atom:link href="https://www.geektime.co.il/category/funding/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.geektime.co.il/category/funding/</link>
 	<description>גיקטיים - אתר הטכנולוגיה וההייטק של ישראל</description>
-	<lastBuildDate>Mon, 16 Nov 2026 12:36:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Nov 2026 15:10:40 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,110 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>חברת MongoDB רוכשת את הסטארטאפ הישראלי Firebolt</title>
+		<link>https://www.geektime.co.il/mongodb-acquires-firebolt/</link>
+					<comments>https://www.geektime.co.il/mongodb-acquires-firebolt/#respond</comments>
+		
+		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 15:10:40 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[Firebolt]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<category><![CDATA[אקזיט]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=596051</guid>
+
+					<description><![CDATA[<p>ענקית הדאטה האמריקאית MongoDB הודיעה היום (ג') כי תרכוש את הסטארטאפ הישראלי Firebolt, שמפתח מנוע לעיבוד דאטה עצום בזמן אמת. החברה האמריקאית נסחרת היום סביב שווי של כ-25 מיליארד דולר וזו הרכישה הראשונה שלה בישראל. בתגובה לרכישה אמר פרד רומא, סמנכ&#34;ל ההנדסה ב-MongoDB ש&#34;מנוע האנליטיקה של Firebolt הוכח בשטח&#34;. מושה פסומנסקי, סמנכ&#34;ל הטכנולוגיות של Firebolt, [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/mongodb-acquires-firebolt/">חברת MongoDB רוכשת את הסטארטאפ הישראלי Firebolt</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_596055" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-596055" class="size-large wp-image-596055" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-1536x1025.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-596055" class="wp-caption-text">תמונה: Jerzy Fischer</p></div>
+<p>ענקית הדאטה האמריקאית <a href="https://www.geektime.co.il/tag/mongodb/">MongoDB</a> הודיעה היום (ג') כי תרכוש את הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/firebolt/">Firebolt</a>, שמפתח מנוע לעיבוד דאטה עצום בזמן אמת. החברה האמריקאית נסחרת היום סביב שווי של כ-25 מיליארד דולר וזו הרכישה הראשונה שלה בישראל.</p>
+<p>בתגובה לרכישה אמר פרד רומא, סמנכ&quot;ל ההנדסה ב-MongoDB ש&quot;מנוע האנליטיקה של Firebolt הוכח בשטח&quot;. מושה פסומנסקי, סמנכ&quot;ל הטכנולוגיות של Firebolt, הוסיף כי המנוע נבנה עבור ענן כדי לספק &quot;אנליטיקה בשיהוי נמוך עם נתונים שמשתנים במהירות&quot;. בנג'מין וגנר, מנכ&quot;ל החברה הנרכשת, ציין שהחיבור הגיוני כי שתי החברות בונות תשתיות נתונים קריטיות עבור מהנדסים. לדוגמה, חברת Similarweb כבר משתמשת בטכנולוגיה הישראלית כדי לנתח טריליוני שורות בנפח של פטה-בייט. החברה הישראלית פעילה בתחום רווי מתחרות גדולות וחזקות כמו Snowflake ו-Databricks וכמובן ספקיות הענן מיקרוסופט, אמזון וגוגל.</p>
+<p>Firebolt הוקמה ב-2019 על ידי אלדד פרקש, סער ביטנר ואריאל ירושביץ. בעברה היא נחשבה לחד-קרן מבטיח והגיעה לשווי של 1.4 מיליארד דולר. אבל בשנים האחרונות היא עברה לא מעט טלטלות, כולל גלי פיטורים ועזיבת המייסדים את ההנהלה. סכום הרכישה לא פורסם רשמית, אבל על פי ההערכות הוא נמוך משמעותית משווי השיא של החברה, שגייסה עד היום כ-270 מיליון דולר.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.geektime.co.il/mongodb-acquires-firebolt/">חברת MongoDB רוכשת את הסטארטאפ הישראלי Firebolt</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/mongodb-acquires-firebolt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>סטארטאפ ישראלי שנחשף היום טוען: &#034;משרדי היח&#034;צ ברובם ימותו&#034;</title>
+		<link>https://www.geektime.co.il/newsbound-comes-out-of-stealth/</link>
+					<comments>https://www.geektime.co.il/newsbound-comes-out-of-stealth/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 14:00:01 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[Newsbound]]></category>
+		<category><![CDATA[ניוזבאונד]]></category>
+		<category><![CDATA[יח״צ]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[יחסי ציבור]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=595993</guid>
+
+					<description><![CDATA[<p>יזמים רבים שמצליחים לגייס הון או להשיק מוצר או פיצ'ר חדש, חושבים שזו היתה העבודה הקשה. אבל אז, כשהם רוצים גם שכולם ידעו על זה, הם מגלים שגם זו משימה לא פשוטה, ואז הם נדרשים לעבוד עם משרדי יח&#34;צ עם דרישות, פגישות וכמובן ריטיינר כבד. אבל מה אם אפשר היה להחליף את כל האופרציה הזו [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/newsbound-comes-out-of-stealth/">סטארטאפ ישראלי שנחשף היום טוען: &quot;משרדי היח&quot;צ ברובם ימותו&quot;</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_596003" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-596003" class="size-large wp-image-596003" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/image-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/image-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/image-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/image-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/image-1536x1024.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/image-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/image-793x529.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/image.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-596003" class="wp-caption-text">הצוות של Newsbound | צילום: גל סזון</p></div>
+<p>יזמים רבים שמצליחים לגייס הון או להשיק מוצר או פיצ'ר חדש, חושבים שזו היתה העבודה הקשה. אבל אז, כשהם רוצים גם שכולם ידעו על זה, הם מגלים שגם זו משימה לא פשוטה, ואז הם נדרשים לעבוד עם משרדי יח&quot;צ עם דרישות, פגישות וכמובן ריטיינר כבד. אבל מה אם אפשר היה להחליף את כל האופרציה הזו בסוכני AI שלא ישנים לעולם, קוראים כל פיסת מידע ברשת וכותבים קוד בעצמם? סטארטאפ ישראלי חדש מבטיח לעשות בדיוק את זה.</p>
+<h2>משרדי היח&quot;צ ימותו?</h2>
+<p>הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/newsbound/">Newsbound</a> פיתח את מה שהוא מכנה &quot;סוכנות היח&quot;צ האייג'נטית הראשונה&quot; (כן, זה אומר שהיא מבוססת סוכנים, אנחנו מודעים לאירוניה). &quot;בנינו מודל שקורא את כל החדשות בעולם בזמן אמת, ומזהה את הסיפורים והרגעים שחשובים ללקוחות שלנו. כתוצאה מזה יש לנו את מאגר העיתונאים הכי מדויק בעולם והוא מתחדש כל יום, כדי לעזור ללקוחות להריץ קמפייני יח&quot;צ מכל מיני סוגים מקצה לקצה &#8211; מזיהוי הרגע, כתיבת פיץ' אישי, שליחה, מדידה, מעקב ופולו-אפ&quot;, מסביר בשיחה עם גיקטיים מייסד ומנכ&quot;ל הסטארטאפ &#8211; רן פלד. הפיתוח של ניוזבאונד כולל אפליקציית מובייל, לצד שרת MCP שיכול להתחבר לצ'אטבוטים שאיתם עובדים הלקוחות של הסטארטאפ &#8211; כמו קלוד ו-ChatGPT.</p>
+<p>הוא מסביר כי המערכת של Newsbound בנויה מכמה מודלים, ולכל משימה נבחר המודל שמשיג את התוצאה הטובה ביותר בבנצ'מרקים שהם קבעו. מודלי קלוד, מספר לנו פלד, אחראים על הכתיבה: ניסוח הפניות לעיתונאים, טיוטות ההודעות לעיתונות וההתאמה בין סיפור לעיתונאי. משימות סינון, סיווג ודירוג בהיקפים גדולים רצות על מודלים נוספים. כדי לוודא שהם לא עוצרים לרגע, בניוזבאונד נעזרים בכלים כמו OpenRouter, כדי להריץ את אותו המודל אצל כמה ספקי תשתית ולעקוף ספק שנופל. &quot;כך המערכת לא תלויה בספק יחיד, ויש ניסיונות חוזרים, ניתוב אוטומטי בין ספקים, ולמשימות הרקע המרכזיות גם מודל גיבוי. המוצר לא נשען על אף מודל LLM אחד אלא משלב עשרות כלים שונים ושיתופי פעולה כדי ליצור מפה מיידית ומקיפה של עולם המדיה&quot;, הוסיף.</p>
+<p>הוא מוסיף כי לכל המודלים שבהם הם נעזרים יש מקרי מבחן אמיתיים שתויגו בידי אדם, וכל שינוי במודל או בהנחיות נמדד על המקרים הללו מול הגרסה הקיימת לפני שהוא עולה לאוויר. פלד אומר כי &quot;כל החלטה של המערכת נרשמת יחד עם הנימוק שלה, כך שאפשר לחזור ולראות למה ידיעה הוצגה או נדחתה. אנחנו עוקבים אחרי המדדים באופן שוטף, מקבלים התראה כשרכיב חורג מההתנהגות הרגילה שלו, ומשפרים את ההנחיות והמודלים בהתאם&quot;.</p>
+<p>גם הפיתוח עצמו של המוצר נעשה על ידי סוכנים, שאחראים על כל ה-SDLC (מחזור החיים של התוכנה, לחובבי העברית) מקצה לקצה: סוכן אחד מתכנן את המשימה, סוכן שני כותב את הקוד, סוכן שלישי עושה code review, וסוכן רביעי בודק את התוצאה על המסך כמו בודק אנושי. לדברי פלד, בנקודות הקריטיות של התהליך יש מקרים המצריכים אישור אנושי, כמו במירג'וג' של הקוד החדש עם קוד קיים, לצד העלייה לפרודקשן של הקוד.</p>
+<p><strong>מה היתרון שלכם בעצם מול סוכנות אנושית?</strong></p>
+<p>פלד: &quot;סוכנות אנושית איטית מדי ולא מסוגלת לזהות את כל החדשות והרגעים החשובים בזמן אמת &#8211; המודל שלנו כן. סוכנות אנושית מוגבלת בשעות &#8211; ולא יכולה להתאים כל אימייל לכתב ולסגנון הכתיבה שלו &#8211; המוצר שלנו כן. סוכנות אנושית לא מצליחה לקדם לקוחות על פני כל המדיות (המסורתית והדיגיטלית כמו פודקאסטים, אינפלואנסרים, ניוזלטרים, הגשות לפרסים, הרצאות בכנסים ועוד) &#8211; אנחנו בנינו את כל הערוצים האלה לתוך המוצר. סוכנות אנושית יקרה מדי &#8211; ועולה עשרות אלפי דולרים בחודש &#8211; פי 5-6 מהעלות של המוצר שלנו&quot;.</p>
+<p>לדבריו, כיום לקוחות משלמים המון על מה שהוא מכנה &quot;עבודה בינונית במודל מקצועי ששייך לניינטיז&quot;. הוא מוסיף כי &quot;אנשי תקשורת טובים פשוט ילכו לתוך החברות עצמן, in-house, וסוכנויות היח&quot;צ ברובן ימותו. זה תהליך שכבר החל. התחום פשוט התנפח יותר מדי&quot;.</p>
+<p>את ניוזבאונד הקים פלד בשנה שעברה, והיום (ג') הוא נחשף עם גיוס סבב Pre-seed של 3 מיליון דולר בהובלת Joule Ventures ו-State of Mind Ventures ובהשתתפות קרן ‎91 Ventures. לדבריו, יש לסטארטאפ כבר כמה עשרות לקוחות משלמים, כולל הסטארטאפ הישראלי Red Access שהשתמש בסוכנות היח&quot;צ מבוססת ה-AI שלהם לפרסם דוח בכלי תקשורת משמעותיים, לצד מאות הורדות של הדו&quot;ח על ידי גורמים בתעשייה.</p>
+<p>The post <a href="https://www.geektime.co.il/newsbound-comes-out-of-stealth/">סטארטאפ ישראלי שנחשף היום טוען: &quot;משרדי היח&quot;צ ברובם ימותו&quot;</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/newsbound-comes-out-of-stealth/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנטרים בחלל</title>
+		<link>https://www.geektime.co.il/ramon-space-raises-124m-series-b/</link>
+					<comments>https://www.geektime.co.il/ramon-space-raises-124m-series-b/#respond</comments>
+		
+		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 13:00:43 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[כללי]]></category>
+		<category><![CDATA[סטארטאפ והון סיכון]]></category>
+		<category><![CDATA[חלל]]></category>
+		<category><![CDATA[Ramon.Space]]></category>
+		<category><![CDATA[רמון ספייס]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=595979</guid>
+
+					<description><![CDATA[<p>בשנים האחרונות, עם הקשיים בהן נתקלות חברות ה-AI הגדולות, החל להתפתח הרעיון של הצבת דאטה סנטרים ולוויינים מיוחדים בחלל. אחד הסטארטאפים הישראלים הוותיקים בתחום הזה הוא Ramon.Space, שמפתח שבבים שיכולים לספק ביצועים של מערכות מחשוב על הקרקע &#8211; אבל בתנאים הבלתי אפשריים של החלל. היום (ג') הוא מכריז על מגה-גיוס מרשים. האם SpaceX כבר לקוחה? [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/ramon-space-raises-124m-series-b/">124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנטרים בחלל</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_596001" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-596001" class="size-large wp-image-596001" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-1024x682.jpg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-1024x682.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-596001" class="wp-caption-text">תמונה: Ramon.Space</p></div>
+<p>בשנים האחרונות, עם הקשיים בהן נתקלות חברות ה-AI הגדולות, החל להתפתח הרעיון של הצבת דאטה סנטרים ולוויינים מיוחדים בחלל. אחד הסטארטאפים הישראלים הוותיקים בתחום הזה הוא Ramon.Space, שמפתח שבבים שיכולים לספק ביצועים של מערכות מחשוב על הקרקע &#8211; אבל בתנאים הבלתי אפשריים של החלל. היום (ג') הוא מכריז על מגה-גיוס מרשים.</p>
+<h2>האם SpaceX כבר לקוחה?</h2>
+<p><a href="https://www.geektime.co.il/tag/ramon.space/">Ramon.Space</a> מפתחת תשתיות מחשוב לחלל למשימות מסחריות וממשלתיות, המאפשרות עיבוד, אחסון והעברת נתונים על גבי לוויינים. המערכת משלבת תוכנה, מערכת מעבדים ייעודית, אחסון ומחשוב קצה המאפשר להעביר את עיבוד הנתונים אל הלוויין עצמו. על פי החברה, כל המערכת הזאת אמורה לספק ביצועים של מערכות מחשוב קרקעיות, אבל תוך כדי שהיא עומדת בתנאי קרינה, טמפרטורה ומגבלות הספק קיצוניות. אבי שבתאי, מנכ&quot;ל רמון ספייס (והאדם שעוד יופיע בפינת השמות של &quot;ארץ נהדרת&quot;), מסר לגיקטיים כי &quot;כחלק מהמירוץ הקיים היום, הענקיות צריכות רכיבים ומוצרים טכנולוגיים כדי לקדם תוכניות ענק, שמושקעים בהן מאות מיליארדי דולרים&#8230; במקום לפתח הכול בבית, חברות שמקימות דאטה סנטרים בחלל מחפשות את הפתרונות הקיימים הטובים ביותר בשוק, וזה מייצר לנו סינרגיות חזקות איתן&quot;.</p>
+<p>לדבריו, בין לקוחות החברה נמצאת &quot;מפעילת אחת מקונסטלציות לווייני התקשורת הגדולות בעולם במסלול נמוך&quot;, והחברה מספקת גם מערכות אחסון לאחת מקונסטלציות לווייני הצילום הגדולות בעולם, שמשמשת משתמשים רבים בכדור הארץ כיום בפעילויות יומיומיות שלהם. החברה לא חשפה את שמות הלקוחות, ולא אישרה אם SpaceX נמנית עמם, אבל אנחנו יכולים להמשיך לנחש. לפי שבתאי, &quot;המערכות שלנו משדרגות קונסטלציות של לווייני תקשורת מעיבוד אותות אנלוגי לעיבוד דיגיטלי. המעבד שלנו על הלוויין מסנן ומנתב תקשורת בזמן אמת, ומאפשר לתכנת מחדש את הלוויין ולהוסיף לו יכולות חדשות בתוכנה גם אחרי שכבר שוגר. התוצאה היא רשת תקשורת מהירה וגמישה יותר&quot;.</p>
+<div id="attachment_596005" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-596005" class="size-large wp-image-596005" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon-Space-1-1024x682.jpg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon-Space-1-1024x682.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon-Space-1-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon-Space-1-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon-Space-1-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon-Space-1-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon-Space-1-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon-Space-1.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-596005" class="wp-caption-text">מהנדסי Ramon.Space</p></div>
+<p>כך, המערכות יכולות לעבד נתונים על הלוויין עצמו ולהפחית את הצורך בהעברתם לקרקע. בכך הן מציעות יתרון כפול: עיבוד בזמן אמת וזיהוי מהיר של מצבים בשטח. &quot;זה קריטי באפליקציות כמו זיהוי שריפות, שיטפונות ואסונות טבע, מעקב אחרי כלי שיט ומטוסים, משימות ממשלתיות וניתוב תקשורת דינמי ברשתות לוויינים&quot;, אומר שבתאי. &quot;במקרים אלה, הורדת כל הנתונים לכדור הארץ איטית ויקרה, ועיבוד על הלוויין מאפשר לשלוח לקרקע רק את התובנה עצמה&quot;.</p>
+<h2>עוד 124 מיליון דולר לקופה</h2>
+<p>היום (ג') מודיעה Ramon.Space על השלמת סבב גיוס B בהיקף ענק של 124 מיליון דולר. את הסבב הובילה קרן PSG, ואליה הצטרפו Micron Technology, Senvest והפניקס פיננסים, לצד המשקיעים הקיימים, Deep Insight, StageOne ו-Grove Ventures. החברה מעסיקה כיום כ-130 עובדים בישראל, ארצות הברית, בריטניה וגרמניה. לדברי החברה, הגיוס יאפשר לה להגדיל את הייצור ולהאיץ את אספקת המערכות על רקע ביקוש גובר. בנוסף, החברה טוענת כי תשתמש בכספים לאספקת דור המוצרים הבא ולהתרחבות לשווקים נוספים. &quot;כבר היום יש לנו שותפויות ייצור עם החברות הגדולות בעולם, כמו פוקסקון, ואנחנו עומדים להגדיל בצורה משמעותית מאוד את היקף הייצור ולהרחיב אותו למקומות נוספים בעולם. במקביל נרחיב את המוצרים שלנו לתחומים שבהם אנחנו מזהים צמיחה מהירה וצורך חזק, ושבהם נוכל להביא ערך משמעותי ללקוחות, ונעמיק את השותפויות האסטרטגיות שלנו, שמחייבות השקעת משאבים גדולה כדי להתרחב בתעשיית החלל&quot;, אומר שבתאי.</p>
+<p>&quot;היכולת לעבד ולנהל דאטה על גבי לווינים הופכת לחיונית לצמיחת כלכלת החלל&quot;, אמר רונן ניר, שותף בקרן PSG. &quot;רמון ספייס נתנה מענה לאחד האתגרים הקשים ביותר בתחום, עם טכנולוגיה שכבר הוכחה בחלל וביקוש גובר מצד הלקוחות. אנחנו גאים לחבור לאבי ולצוות החברה כדי להביא את הטכנולוגיה לשוק רחב יותר ולעזור לעצב את עתיד המחשוב בחלל&quot;.</p>
+<p>The post <a href="https://www.geektime.co.il/ramon-space-raises-124m-series-b/">124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנטרים בחלל</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/ramon-space-raises-124m-series-b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>3 חודשים אחרי הגיוס הראשון, הסטארטאפ הזה כבר הפך לחד קרן</title>
 		<link>https://www.geektime.co.il/3-months-after-first-funding-round-this-startup-is-already-a-unicorn/</link>
 					<comments>https://www.geektime.co.il/3-months-after-first-funding-round-this-startup-is-already-a-unicorn/#comments</comments>
@@ -47,7 +151,7 @@
 					<description><![CDATA[<p>רק לפני שלושה חודשים סיפרנו לכם כאן על סטארטאפ חדש ומעניין בשם Corma שמפתח מודל בסיס לתעשיית הסייבר, המיועד למגינים ולאו דווקא לתוקפים. היום (ב'), אחרי סבב סיד חריג, הוא חושף סבב גיוס ענק נוסף, שמביא אותו היישר למועדון חדי הקרן. כל עדכוני ההייטק, בלי שטויות: ערוץ העדכונים השקט של גיקטיים יוצאי גוגל, DeepMind ו-8200 [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/3-months-after-first-funding-round-this-startup-is-already-a-unicorn/">3 חודשים אחרי הגיוס הראשון, הסטארטאפ הזה כבר הפך לחד קרן</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_595885" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-595885" class="size-large wp-image-595885" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-2048x1366.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-793x529.jpg 793w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-595885" class="wp-caption-text">הצוות של קורמה | צילום: אבישג שאר ישוב</p></div>
+										<content:encoded><![CDATA[<div id="attachment_595885" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-595885" class="size-large wp-image-595885" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-2048x1366.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/corma-team-793x529.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-595885" class="wp-caption-text">הצוות של קורמה | צילום: אבישג שאר ישוב</p></div>
 <p>רק לפני שלושה חודשים <a href="https://www.geektime.co.il/corma-comes-out-of-stealth-with-a-fancy-seed-round/">סיפרנו לכם כאן על סטארטאפ חדש ומעניין בשם Corma</a> שמפתח מודל בסיס לתעשיית הסייבר, המיועד למגינים ולאו דווקא לתוקפים. היום (ב'), אחרי סבב סיד חריג, הוא חושף סבב גיוס ענק נוסף, שמביא אותו היישר למועדון חדי הקרן.</p>
 <p style="text-align: center;">כל עדכוני ההייטק, בלי שטויות: <strong><a href="https://gkt.me/geektime-il">ערוץ העדכונים השקט של גיקטיים</a></strong></p>
 <h2>יוצאי גוגל, DeepMind ו-8200 בדרך ל&quot;גביע הקדוש&quot;</h2>
@@ -88,12 +192,12 @@
 					<description><![CDATA[<p>כשארבעה מהנדסים, שעומדים מאחורי אחת מתשתיות הדאטה המרכזיות של מיקרוסופט, עוזבים את החברה כדי להקים סטארטאפ, אתם יכולים לדעת די בבטחון שזה לא בשביל לבנות עוד אפליקציית To-Do&#8230; הסטארטאפ הישראלי Edelbyte, שנחשף היום (ד') לראשונה, מודיע על גיוסים בגובה 70 מיליון דולר בתוך שנה בלבד מאז הקמתו. המטרה? לפתור את כאב הראש שתשתיות ה-AI עושות [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/edelbyte-raises-70m-ex-microsoft-data-startup-edelbyte/">הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 מיליון דולר כדי להתחרות בה</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_595377" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-595377" class="size-large wp-image-595377" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-1024x664.jpg" alt="" width="1024" height="664" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-1024x664.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-300x195.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-768x498.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-1536x996.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-793x514.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM.jpg 1665w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-595377" class="wp-caption-text">תמונה: נתנאל טוביאס</p></div>
+										<content:encoded><![CDATA[<div id="attachment_595377" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-595377" class="size-large wp-image-595377" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-1024x664.jpg" alt="" width="1024" height="664" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-1024x664.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-300x195.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-768x498.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-1536x996.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM-793x514.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-TEAM.jpg 1665w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-595377" class="wp-caption-text">תמונה: נתנאל טוביאס</p></div>
 <p>כשארבעה מהנדסים, שעומדים מאחורי אחת מתשתיות הדאטה המרכזיות של מיקרוסופט, עוזבים את החברה כדי להקים סטארטאפ, אתם יכולים לדעת די בבטחון שזה לא בשביל לבנות עוד אפליקציית To-Do&#8230; הסטארטאפ הישראלי Edelbyte, שנחשף היום (ד') לראשונה, מודיע על גיוסים בגובה 70 מיליון דולר בתוך שנה בלבד מאז הקמתו. המטרה? לפתור את כאב הראש שתשתיות ה-AI עושות למנועי הדאטה המסורתיים.</p>
 <h2>עבדו במשך יותר מעשור במיקרוסופט</h2>
 <p><a href="https://gkt.me/edelbyte">Edelbyte</a> הוקמה בנובמבר 2025 על ידי אבנר אהרוני (מנכ&quot;ל), יבגני רייזיק (CTO), אלכסנדר סלוצקי (סמנכ&quot;ל הנדסה) ויוני ליבוביץ (סמנכ&quot;ל הנדסת פלטפורמה). המייסדים עבדו יחד יותר מעשור במיקרוסופט, כשאהרוני &#8211; תחזיקו חזק &#8211; עזב את החברה אחרי 26 שנים. בין היתר הם עסקו שם בבנייה של Kusto &#8211; המנוע שמאחורי מוצרים כמו Azure Data Explorer ומוצרי האבטחה של החברה.</p>
 <p>עכשיו הם מתמודדים עם בעיה חדשה שהתפוצצה בשנה האחרונה: סוכני AI. בניגוד למשתמשים אנושיים שמתעייפים מתישהו, סוכני AI מריצים עשרות כיווני חקירה במקביל, בודקים השערות, ומייצרים עוד ועוד שאילתות בלי הפסקה. התוצאה היא עומס שחונק את המערכות הקיימות ומנפח את חשבון הענן. <strong>בשיחה עם גיקטיים</strong> אומר אבנר אהרוני, מנכ&quot;ל החברה: &quot;במשך שנים, תשתיות הדאטה הן אלה שהכתיבו למפתחים את כללי המשחק. כדי לעמוד בדרישות הביצועים והעלויות, הם נאלצו להתפשר: לשמור פחות היסטוריה, להגביל את סוגי השאלות שאפשר לשאול, לבחור סביבת ענן בהתאם למגבלות, או לשלב כמה מערכות. אנחנו מאמינים שהגיע הזמן להפוך את המשוואה: הטכנולוגיה צריכה להתאים את עצמה למה שהמפתחים רוצים לבנות, ולא להפך&quot;. הוא מציין כי החזון מאחורי הפלטפורמה הוא לבטל את הפשרות הללו, ואומר: &quot;Performance. Scale. Cost. Functionality. Pick all four&quot;.</p>
-<div id="attachment_595376" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-595376" class="size-large wp-image-595376" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-1024x681.jpg" alt="" width="1024" height="681" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-1024x681.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-768x511.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-1536x1022.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-793x528.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS.jpg 1623w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-595376" class="wp-caption-text">תמונה: נתנאל טוביאס</p></div>
+<div id="attachment_595376" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-595376" class="size-large wp-image-595376" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-1024x681.jpg" alt="" width="1024" height="681" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-1024x681.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-768x511.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-1536x1022.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS-793x528.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/EDELBYTE-FOUNDERS.jpg 1623w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-595376" class="wp-caption-text">תמונה: נתנאל טוביאס</p></div>
 <p>כדי לאפשר את כל הטוב הזה, החברה הייתה צריכה לבנות את הטכנולוגיה מאפס, מאחסון המידע ועד למנוע השאילתות. לדברי רייזיק, ה-CTO, המנוע של Edelbyte משלב חיפוש טקסט חופשי עם אנליטיקה מתקדמת על תשתית אחת, מה שמאפשר עבודה חלקה עם סוגי דאטה כמו JSON, סדרות זמן, וקטורים וגרפים. מאחורי הקלעים, כל המידע שעובר במערכת מאונדקס אוטומטית לעומק, ללא צורך בהגדרות משתמש מראש. בנוסף, רייזיק מסביר כי הפלטפורמה כוללת שכבת Cache ייעודית שמנצלת את הדיסקים המקומיים של מכונות החישוב במטרה להאיץ את הגישה לנתונים ולחתוך בעלויות האחסון. המערכת יודעת להתפרס על פני מאות ואפילו אלפי מכונות ולרוץ בכל ענן ציבורי, או מקומית על שרתי הארגון בתצורת On-Premise.</p>
 <h2>70 מיליון דולר בשנה</h2>
 <p>כספי הגיוס שדווחו היום מורכבים מסבב סיד של 25 מיליון דולר בהובלת Sequoia, ומסבב A בגובה 45 מיליון דולר אותו הובילה Quiet Capital, יחד עם משקיעים נוספים בהם קרן <a href="https://www.geektime.co.il/tag/swish-ventures/">Swish Ventures</a> של <a href="https://www.geektime.co.il/tag/עמרי-כספי/">עמרי כספי</a> וקרן Startpoint Capital. אדלבייט מעסיקה היום כ-40 עובדים, ולדברי אהרוני יש לה לקוחות משלמים, שמעבדים בעזרתה דאטה בהיקפים של פטה-בייט בסביבות פרודקשן.</p>
@@ -1054,114 +1158,6 @@
 					
 					<wfw:commentRss>https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>גייסו עכשיו 50 מיליון דולר כדי לחסל את האייג&#039;נט המופרע שלכם</title>
-		<link>https://www.geektime.co.il/reco-ai-security-funding-50m/</link>
-					<comments>https://www.geektime.co.il/reco-ai-security-funding-50m/#respond</comments>
-		
-		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 13:00:28 +0000</pubDate>
-				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
-		<category><![CDATA[סטארטאפ והון סיכון]]></category>
-		<category><![CDATA[רקו]]></category>
-		<category><![CDATA[reco]]></category>
-		<category><![CDATA[סוכני AI]]></category>
-		<category><![CDATA[ריקו]]></category>
-		<category><![CDATA[אבטחה]]></category>
-		<category><![CDATA[סייבר]]></category>
-		<category><![CDATA[גיוס הון]]></category>
-		<guid isPermaLink="false">https://www.geektime.co.il/?p=592486</guid>
-
-					<description><![CDATA[<p>במשך שנים, תפיסות אבטחת המידע בחברות ובארגונים התבססו על עיקרון פשוט של גישה מוגבלת, כשכל עובד נחשף אך ורק למידע ההכרחי עבורו. אבל כניסתם של סוכני AI לתוך הארגון טרפה את הקלפים. פלטפורמות מוכרות כמו Salesforce או ServiceNow כוללות היום סוכנים חכמים שמחוברים לכלל המערכות כבר מהרגע הראשון, והמשמעות היא שכל עובד עם גישה לסוכן [&#8230;]</p>
-<p>The post <a href="https://www.geektime.co.il/reco-ai-security-funding-50m/">גייסו עכשיו 50 מיליון דולר כדי לחסל את האייג&#039;נט המופרע שלכם</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="attachment_592488" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592488" class="size-large wp-image-592488" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-1024x810.jpg" alt="" width="1024" height="810" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-1024x810.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-300x237.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-768x607.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-1536x1215.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO-793x627.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/RECO.jpg 1866w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592488" class="wp-caption-text">תמונה: Reco</p></div>
-<p>במשך שנים, תפיסות אבטחת המידע בחברות ובארגונים התבססו על עיקרון פשוט של גישה מוגבלת, כשכל עובד נחשף אך ורק למידע ההכרחי עבורו. אבל כניסתם של סוכני AI לתוך הארגון טרפה את הקלפים. פלטפורמות מוכרות כמו Salesforce או ServiceNow כוללות היום סוכנים חכמים שמחוברים לכלל המערכות כבר מהרגע הראשון, והמשמעות היא שכל עובד עם גישה לסוכן מסוים, מקבל בפועל גם גישה לכל המידע שהסוכן נוגע בו.</p>
-<p>כדי לפתור את כאב הראש הזה, הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/reco/">Reco</a> מפתח פלטפורמה שממפה ומנהלת את סוכני ה-AI ואת האפליקציות בארגון. החברה התחילה את דרכה עם יכולות גילוי ומיפוי בלבד, אבל לאחרונה עשתה קפיצת מדרגה טכנולוגית. בשיחה עם גיקטיים מסביר גל נקש, מייסד שותף וסמנכ&quot;ל מוצר ב-Reco, שמאז פברואר האחרון החברה הוסיפה שלוש שכבות חדשות למוצר.</p>
-<p>הראשונה היא גילוי אוטומטי של סוכנים על פני פלטפורמות כמו Copilot Studio או Agentforce, שכוללת הערכת סיכונים עמוקה לכל סוכן. השכבה השנייה היא הרחבת דפדפן שיודעת למסך או לחסום פרומפטים שמכילים מידע רגיש, לפני שהם נשלחים למודלים חיצוניים.</p>
-<p>השכבה השלישית ואולי המסקרנת יותר נקראת AI Runtime ופועלת, כמו שאתם יכולים לנחש מהשם, בזמן אמת. המנוע הזה יושב על הפעולות של הסוכן ומזהה ניסיונות של הזרקת פרומפטים זדוניים. כאן נכנס לתמונה Kill Switch, כלומר, מתג השבתה האוטומטי. תארו לכם סוכן פיננסי אוטומטי שפתאום מתחיל לשאוב נתונים שחורגים מהמטרה המקורית שלו, או שמשתמש מנסה לתחמן אותו כדי לעקוף הרשאות. במקום להסתפק בהתראה שתגיע לצוות האבטחה בדיעבד, המערכת מזהה את החריגה ומפעילה Kill Switch שמנתק את הסוכן באותו הרגע. נקש מציין כי אצל אחד הלקוחות הם מצאו 42 אלף סוכנים, כולל כאלו שהיו חשופים לאינטרנט או השתמשו במודלים שלא אושרו בארגון.</p>
-<p>למרות שאיפה שלא תזרקו אבן תפגעו ככל הנראה בסטארטאפ ישראלי שעוסק באבטחת סוכני AI, נקש אומר לנו שבעוד שפלטפורמות אחרות מאבטחות את הקוד שהמפתחים בונים, הפתרון שלהם מתמקד בשכבה שהעסק מפעיל בפועל. בכל מקרה, הדרישה לפתרונות אלו רק גוברת, ולפי דוח של גרטנר, חברת אנטרפרייז ממוצעת תפעיל מעל ל-150 אלף סוכנים עד שנת 2028. בהתאמה, החברה מדווחת על קצב צמיחה של 400 אחוזים, שממשיך את המגמה של השנים הקודמות.</p>
-<p>היום (ג') מודיעה גם Reco על הרחבת סבב הגיוס השני שלה ב-50 מיליון דולר נוספים בהובלת ענקית התקשורת האמריקאית AT&amp;T, שהפכה מלקוחה למשקיעה אסטרטגית, ובהשתתפות הקרנות Forestay ו-Quadrille Capital. סך ההון שגייסה החברה, אותה הקימו עופר קליין, ד&quot;ר טל שפירא וגל נקש, עומד כעת על 135 מיליון דולר.</p>
-<p>The post <a href="https://www.geektime.co.il/reco-ai-security-funding-50m/">גייסו עכשיו 50 מיליון דולר כדי לחסל את האייג&#039;נט המופרע שלכם</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.geektime.co.il/reco-ai-security-funding-50m/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>מייסד Wiz משקיע בסטארטאפ של העובד שלו לשעבר</title>
-		<link>https://www.geektime.co.il/rig-comes-out-of-stealth/</link>
-					<comments>https://www.geektime.co.il/rig-comes-out-of-stealth/#comments</comments>
-		
-		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 12:00:31 +0000</pubDate>
-				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
-		<category><![CDATA[Rig Security]]></category>
-		<category><![CDATA[סייבר]]></category>
-		<category><![CDATA[עמי לוטבק]]></category>
-		<category><![CDATA[גיוס]]></category>
-		<category><![CDATA[גיוס הון]]></category>
-		<category><![CDATA[ריג]]></category>
-		<guid isPermaLink="false">https://www.geektime.co.il/?p=592340</guid>
-
-					<description><![CDATA[<p>&#34;חשבונות והרשאות מחברים בין הענן, המערכות המקומיות והיישומים שבהם עובדים. מי שמשתלט על חשבון יכול לנצל את החיבורים האלה כדי להגיע לקוד, למידע ולתשתיות&#34;, אומר בשיחה עם גיקטיים גיא קוזלינר, המייסד והמנכ&#34;ל של הסטארטאפ Rig, שנחשף היום (ג') עם גיוס הון ראשון. ריג רוצה לפתור את בעיית הזהויות בארגונים, ובמיוחד את זהויות הסוכנים שארגונים מטמיעים [&#8230;]</p>
-<p>The post <a href="https://www.geektime.co.il/rig-comes-out-of-stealth/">מייסד Wiz משקיע בסטארטאפ של העובד שלו לשעבר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="attachment_592378" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592378" class="size-large wp-image-592378" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-1024x630.jpg" alt="" width="1024" height="630" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-1024x630.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-300x185.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-768x472.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-1536x945.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-2048x1260.jpg 2048w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Rig-Team-Photo-793x488.jpg 793w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592378" class="wp-caption-text">הצוות של ריג</p></div>
-<p>&quot;חשבונות והרשאות מחברים בין הענן, המערכות המקומיות והיישומים שבהם עובדים. מי שמשתלט על חשבון יכול לנצל את החיבורים האלה כדי להגיע לקוד, למידע ולתשתיות&quot;, אומר בשיחה עם גיקטיים גיא קוזלינר, המייסד והמנכ&quot;ל של הסטארטאפ <a href="https://www.rig.security">Rig</a>, שנחשף היום (ג') עם גיוס הון ראשון. ריג רוצה לפתור את בעיית הזהויות בארגונים, ובמיוחד את זהויות הסוכנים שארגונים מטמיעים כיום בכל מקום. קוזלינר הקים את הסטארטאפ אחרי שעזב בשנה שעברה את Wiz, רגע לפני המכירה (תיכף נגיע לתזמון), ואחרי שעבד בה תחת ה-CTO <a href="https://www.geektime.co.il/wiz-co-founder-ami-luttwak-scan-for-good-interview/">עמי לוטבק</a> (ממייסדי החברה ויוצא 8200).</p>
-<h2 data-path-to-node="3">מנוע חכם שמזהה מי עומד מאחורי כל חשבון</h2>
-<p data-path-to-node="2">לדברי קוזלינר, בעוד שצוותי האבטחה מתמודדים עם מספר עצום של חשבונות ואמצעי גישה, התוקפים מנצלים הרשאות קיימות כדי לנוע בתוך הארגון. המידע כיום מפוזר בין מערכות שונות, וכשמחברים אותו, מגלים לעיתים שעובד מסוים יכול לגשת להרבה יותר מערכות מכפי שהתכוונו. הבעיה מחמירה עם כניסתם של סוכנים, שיכולים להשתמש בהרשאות של עובד או שירות ולבצע פעולות במהירות שקשה לבקר ידנית. &quot;ארגונים רוצים להעביר אליהם יותר משימות, אבל צריכים לוודא שהם לא מאבדים בדרך את השליטה בגישה למערכות ולמידע&quot;, אומר קוזלינר.</p>
-<p>כדי להתמודד עם האתגר, פיתחו ב-Rig מודלי AI שמחברים מידע ממערכות שונות כדי לזהות מי עומד מאחורי כל חשבון ואת רמת הסיכון הנגזרת מההרשאות שלו. החברה יצרה חיישן ייעודי המזהה פעילות של סוכן ואוכף עליה את כללי האבטחה, כך שבמקרה של השתלטות עוינת, הארגון יודע בדיוק איך לעצור את התוקף.</p>
-<p>בשיחה עם גיקטיים מסביר קוזלינר כיצד זה עובד בפועל: &quot;לעובד אחד יכולים להיות חשבון רגיל, חשבון מנהל בענן וטוקן שיצר לתהליך אוטומטי. בכל מערכת הם עשויים להופיע בשם אחר. כדי להבין למה אותו עובד יכול לגשת, צריך לזהות שכל החשבונות האלה קשורים אליו. לשם כך פיתחנו את RICE, מנוע שמשלב מודלים של למידת מכונה ושיטות מתמטיות&quot;. המודלים של Rig משקללים יותר מ-20 מאפיינים, כגון שיוך ארגוני, קבוצות הרשאה, דפוסי פעילות ונתונים מתחנות הקצה. כך המערכת מזהה קשר בין חשבונות גם ללא כתובת מייל משותפת, מציגה מדד ביטחון לכל התאמה, ויודעת לזהות אם חשבון שירות סווג בטעות כחשבון של אדם.</p>
-<div id="attachment_592500" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592500" class="wp-image-592500 size-large" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi-1024x851.jpg" alt="" width="1024" height="851" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi-1024x851.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi-300x249.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi-768x639.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi-793x659.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/Guy-Kozliner.-Credit-Noi-Arkobi.jpg 1299w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592500" class="wp-caption-text">גיא קוזלינר. תמונה: Noi Arkobi</p></div>
-<p>בנוסף, מודלי שפה גדולים משמשים במערכת כדי לנתח מקרים מורכבים של זהויות לא אנושיות, כשהתשובות עוברות בדיקה ולא קובעות לבדן את ההחלטה. מהמידע הזה בונה המערכת גרף שמחבר בין הזהויות, ההרשאות והמערכות, המאפשר לזהות מסלולי תקיפה. הכלים גם מייצרים מדרג סיכונים שעוזר לצוותי האבטחה להבין במה לטפל קודם, מתוך הבנה שהחשש להשבית תהליך חשוב הוא לרוב הסיבה לכך שהרשאות מיותרות נשארות פעילות.</p>
-<h2>עזב את Wiz ומקבל השקעה מהבוס לשעבר</h2>
-<p>היום (ג') מדווח הסטארטאפ על גיוס סבב Seed בהיקף של 12 מיליון דולר בהובלת הקרנות TENELEVEN ו-Brightmind Partners. בסבב השתתפה גם זרוע ההשקעות של ענקית הסייבר Crowdstrike (תחת השם Crowdstrike Falcon), יחד עם אנג'לים בולטים, ובראשם הבוס הקודם של קוזלינר &#8211; עמי לוטבק.</p>
-<p><strong>יש תחושת פספוס כלשהי בעזיבה בתזמון כזה?</strong></p>
-<p>קוזלינר: &quot;אני שמח מאוד בשביל האנשים ב-Wiz וגאה שהייתה לי הזדמנות לעבוד איתם. לקחתי מהתקופה הזאת הרבה, וזה מלווה אותי גם בבנייה של Rig. כשעזבתי, רציתי להקים חברה. רציתי לקחת בעיה שאני מאמין בה ולנסות לפתור אותה, עם כל האחריות שמגיעה עם זה. בזמן שמקבלים החלטה כזאת לא יודעים איך הדברים יתפתחו, באף אחד מהמסלולים. במבחן המציאות, כל החלטה שקיבלתי בכל הצמתים בחיי הובילה להצלחה גדולה &#8211; יש פה רף גדול אבל העבר מנבא את הבאות. יש משהו מאוד מספק בלבנות צוות, לעבוד על מוצר ולראות לקוח משתמש במשהו שהתחיל כרעיון. זה מה שרציתי לעשות, והיום זה מה שמעסיק אותי. יש לנו עוד הרבה לבנות ב-Rig&quot;.</p>
-<p>The post <a href="https://www.geektime.co.il/rig-comes-out-of-stealth/">מייסד Wiz משקיע בסטארטאפ של העובד שלו לשעבר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.geektime.co.il/rig-comes-out-of-stealth/feed/</wfw:commentRss>
-			<slash:comments>4</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>הסטארטאפ הישראלי Bluevine נמכר ב-340 מיליון דולר</title>
-		<link>https://www.geektime.co.il/bluevine-340m-exit/</link>
-					<comments>https://www.geektime.co.il/bluevine-340m-exit/#comments</comments>
-		
-		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 11:59:08 +0000</pubDate>
-				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
-		<category><![CDATA[סטארטאפ והון סיכון]]></category>
-		<category><![CDATA[סטארטאפ]]></category>
-		<category><![CDATA[BlueVine]]></category>
-		<category><![CDATA[אקזיט]]></category>
-		<guid isPermaLink="false">https://www.geektime.co.il/?p=592433</guid>
-
-					<description><![CDATA[<p>הבנק האמריקאי Valley National Bank הודיע היום (ב') על חתימת הסכם מחייב לרכישת חברת הפינטק הישראלית הוותיקה Bluevine, שמפתחת פלטפורמת בנקאות דיגיטלית חכמה המיועדת לעסקים קטנים. סכום הרכישה עומד על כ-340 מיליון דולר, כשהתמורה תשולם ברובה במזומן, כ-75 אחוזים, והשאר יועבר במניות של הבנק הרוכש. העסקה צפויה להיסגר סופית בתחילת שנת 2027, לאחר קבלת כל [&#8230;]</p>
-<p>The post <a href="https://www.geektime.co.il/bluevine-340m-exit/">הסטארטאפ הישראלי Bluevine נמכר ב-340 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="attachment_592438" style="width: 840px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592438" class="size-full wp-image-592438" src="https://cdn.geektime.co.il/wp-content/uploads/2026/09/BLUEVINE.jpg" alt="" width="830" height="592" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/09/BLUEVINE.jpg 830w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/BLUEVINE-300x214.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/BLUEVINE-768x548.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/09/BLUEVINE-793x566.jpg 793w" sizes="auto, (max-width: 830px) 100vw, 830px" /><p id="caption-attachment-592438" class="wp-caption-text">תמונה: Bluevine</p></div>
-<p>הבנק האמריקאי Valley National Bank הודיע היום (ב') על חתימת הסכם מחייב לרכישת חברת הפינטק הישראלית הוותיקה <a href="https://www.geektime.co.il/tag/bluevine/">Bluevine</a>, שמפתחת פלטפורמת בנקאות דיגיטלית חכמה המיועדת לעסקים קטנים. סכום הרכישה עומד על כ-340 מיליון דולר, כשהתמורה תשולם ברובה במזומן, כ-75 אחוזים, והשאר יועבר במניות של הבנק הרוכש. העסקה צפויה להיסגר סופית בתחילת שנת 2027, לאחר קבלת כל האישורים הרגולטוריים הנדרשים.</p>
-<h2>&quot;בנק&quot; לעסקים קטנים</h2>
-<p>במקום להתבסס על סניפים פיזיים מיושנים ובירוקרטיה אינסופית, הפלטפורמה של Bluevine מציעה לבעלי עסקים מוצר שמנוהל כולו ברשת. המערכת שלה משלבת תחת קורת גג אחת ניהול חשבון עובר ושב, סליקת תשלומים, הפקת חשבוניות וכלים מתקדמים לניהול תזרים מזומנים. מאחורי הקלעים, החברה עושה שימוש נרחב במודלים של למידת מכונה וניתוח נתונים חכם כדי לייעל תהליכים ולהעניק פתרונות אשראי מהירים ומדויקים יותר לעסקים. כיום המערכת משרתת כ-175 אלף לקוחות פעילים, והצליחה לייצר עבור החברה פיקדונות בהיקף של יותר משני מיליארד דולר.</p>
-<p>הבנק הרוכש בונה במידה רבה על צוותי המחקר והפיתוח של Bluevine, המונים כ-180 מהנדסים, מפתחים ואנשי דאטה, שיושבים בין היתר במרכז הפיתוח של החברה בתל אביב. המטרה המוצהרת של המהלך היא להטמיע את יכולות הבינה המלאכותית והארכיטקטורה המודרנית של הסטארטאפ בתוך מערכות הבנק הוותיקות, ולהפחית משמעותית את התלות של Valley בספקים חיצוניים.</p>
-<p>אייל ליפשיץ, מייסד שותף ומנכ&quot;ל Bluevine, התייחס לעסקה ואמר כי החברה הוקמה במטרה להעניק לבעלי עסקים קטנים את הכלים הפיננסיים והחוויה הדיגיטלית הדרושים להם כדי לנהל את עסקיהם ולצמוח: &quot;Valley שותפה למחויבות הזו ומביאה עמה את יכולות המאזן והמומחיות בבנקאות כדי לתמוך בלקוחותינו,&quot; ציין ליפשיץ. עם השלמת המהלך, הוא צפוי להשתלב בהנהלת הבנק כמנהל תחום הבנקאות לעסקים קטנים.</p>
-<p>מהצד הרוכש, איירה רובינס, נשיא ומנכ&quot;ל Valley, הסביר כי המהלך תואם את האסטרטגיה של הבנק: &quot;רכישת Bluevine תאיץ באופן משמעותי את יכולות הדיגיטל והבינה המלאכותית שלנו. החברה בנתה פלטפורמה טכנולוגית מודרנית שנבנתה במיוחד לצורכיהם של עסקים קטנים, ויצרה קהילת לקוחות מעורבת מאוד,&quot; הוסיף רובינס.</p>
-<p>חברת Bluevine הוקמה בשנת 2013 על ידי אייל ליפשיץ, ניר קלר ומוטי שטנר, <a href="https://www.geektime.co.il/bluevine-raises-102-5-million-dollars/">וגייסה מאז כ-250 מיליון דולר ממשקיעים</a> כמו Lightspeed וקרן M12 של מיקרוסופט, Citi Ventures, קרן Vintage, קרן ION ועוד. לפני כשנתיים היא פיטרה כ-18% מהעובדים שלה בסבב קיצוצים, שהצטרף לסבב קודם באותה שנה.</p>
-<p>The post <a href="https://www.geektime.co.il/bluevine-340m-exit/">הסטארטאפ הישראלי Bluevine נמכר ב-340 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.geektime.co.il/bluevine-340m-exit/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
 		
 		
 			</item>
