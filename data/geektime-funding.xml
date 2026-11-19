@@ -12,7 +12,7 @@
 	<atom:link href="https://www.geektime.co.il/category/funding/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.geektime.co.il/category/funding/</link>
 	<description>גיקטיים - אתר הטכנולוגיה וההייטק של ישראל</description>
-	<lastBuildDate>Tue, 17 Nov 2026 15:10:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Nov 2026 11:55:43 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>&#034;זה מקצוע חדש בפני עצמו&#034;: יוצאי 8200 גייסו 11 מיליון דולר</title>
+		<link>https://www.geektime.co.il/vero-raises-seed/</link>
+					<comments>https://www.geektime.co.il/vero-raises-seed/#comments</comments>
+		
+		<dc:creator><![CDATA[אושרי אלקסלסי]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2026 13:00:54 +0000</pubDate>
+				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
+		<category><![CDATA[Vero Security]]></category>
+		<category><![CDATA[ורו]]></category>
+		<category><![CDATA[vero]]></category>
+		<category><![CDATA[גיוס]]></category>
+		<category><![CDATA[גיוס הון]]></category>
+		<guid isPermaLink="false">https://www.geektime.co.il/?p=596099</guid>
+
+					<description><![CDATA[<p>&#34;AI Security היא לא בעיית אבטחה ישנה שעברה לדומיין חדש. זה מקצוע חדש בפני עצמו&#34;, אומר בשיחה עם גיקטיים אלעד טסלר &#8211; מנכ&#34;ל ומייסד של הסטארטאפ Vero Security. לדבריו, ה-AI משנה את הדרך שבה תוכנה נבנית, פועלת ומתקשרת עם מערכות אחרות, וכל תעשיית התוכנה ממציאה את עצמה מחדש סביבו. ובגלל כל השינויים הללו, צוותי אבטחה [&#8230;]</p>
+<p>The post <a href="https://www.geektime.co.il/vero-raises-seed/">&quot;זה מקצוע חדש בפני עצמו&quot;: יוצאי 8200 גייסו 11 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="attachment_596101" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-596101" class="size-large wp-image-596101" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/vero-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/vero-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/vero-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/vero-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/vero-1536x1024.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/vero-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/vero-793x529.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/vero.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-596101" class="wp-caption-text">הצוות של Vero | צילום: עומר הכהן</p></div>
+<p>&quot;AI Security היא לא בעיית אבטחה ישנה שעברה לדומיין חדש. זה מקצוע חדש בפני עצמו&quot;, אומר בשיחה עם גיקטיים אלעד טסלר &#8211; מנכ&quot;ל ומייסד של הסטארטאפ Vero Security. לדבריו, ה-AI משנה את הדרך שבה תוכנה נבנית, פועלת ומתקשרת עם מערכות אחרות, וכל תעשיית התוכנה ממציאה את עצמה מחדש סביבו. ובגלל כל השינויים הללו, צוותי אבטחה נדרשים היום להגן על טכנולוגיות, ארכיטקטורות ודפוסי פעולה שלא היו קיימים עד לאחרונה. את זה רוצים לפתור ב-Vero עם פלטפורמה חדשה.</p>
+<h2>להבין איך ה-AI בארגון פועל, ואיך לאבטח אותו</h2>
+<p>טסלר מסביר כי ב-<a href="https://www.vero.security/">Vero</a> מסתכלים על אבטחת AI כבעיה שדורשת הרבה יותר מזיהוי סוכנים או חסימת פעולות. &quot;כדי לאבטח סביבה כזאת, צריך להבין לעומק את הטכנולוגיה עצמה, את הדרך שבה היא מיושמת בארגון ואת מטרות האבטחה הספציפיות שלו. אפשר לחשוב על Vero כמערכת שמחברת בין שלוש שכבות של ידע והבנה&quot;, הוא מוסיף.</p>
+<p>לדבריו, השכבה הראשונה מתבססת על הבנה מתמשכת של טכנולוגיות AI, הארכיטקטורות שלהן, יכולות חדשות, דפוסי תקיפה וההגנות הרלוונטיות: &quot;למשל, מה המשמעות של Skill חדש מבחינת אבטחה, איך סוכן קוד יכול לחשוף מידע רגיש, או אילו סיכונים נוצרים מחיבור של סוכן למערכות ארגוניות&quot;. בשכבה השנייה המערכת של Vero ממפה את הכלים, הסוכנים, החיבורים, ההרשאות והמידע שאליו הם יכולים לגשת בארגון, ולומדת באופן מתמשך כיצד הסביבה משתנה. כך היא יכולה להבין לא רק שסיכון מסוים קיים בעולם, אלא אם הוא רלוונטי לארגון מסוים ואיך הוא עשוי להשפיע עליו. השכבה האחרונה כוללת הבנת צורכי האבטחה של הארגון, ו-Vero מחברת את ההקשר הזה להבנת הסביבה כדי לקבוע אילו הגנות נדרשות.</p>
+<p>&quot;החדשנות נמצאת בחיבור בין שלוש השכבות. במקום להסתמך רק על רשימת חוקים או תבניות קבועות, Vero יכולה לזהות מה נדרש כדי לאבטח את השימוש ב־AI בסביבה הספציפית של הארגון, להציע בקרות מתאימות ולתרגם אותן לאכיפה בפועל. האכיפה עצמה מתבצעת דרך תשתיות האבטחה והניהול הקיימות בארגון, הן ברמת ההגדרות וההרשאות והן בזמן שהסוכנים פועלים&quot;, מסביר טסלר.</p>
+<p><strong>מה בעצם היתרון של Vero על מוצרים מתחרים אחרים?</strong></p>
+<p>טסלר: &quot;הבידול של Vero הוא שאנחנו לא מנסים רק להוסיף יכולות אבטחה, אלא להגדיל באופן משמעותי את היכולת של צוותי האבטחה עצמם. המשמעות היא שצוות האבטחה לא צריך להתחיל מאפס בכל פעם שמופיעה טכנולוגיה חדשה או סיכון חדש. הוא מקבל מערכת שמסייעת לו להבין מה חשוב, מה רלוונטי לארגון שלו ומה צריך לעשות, וגם מבצעת חלק משמעותי מהעבודה הנדרשת. אנחנו רואים את Vero כמכפיל כוח לאנשי האבטחה. לא כתחליף לשיקול הדעת שלהם, אלא כדרך לתת לצוות קיים את המומחיות ואת יכולת הביצוע של צוות גדול בהרבה&quot;.</p>
+<h2>גיוס ראשון לחברים מ-8200</h2>
+<p>את Vero הקימו ב-2025 אלעד טסלר, מנכ&quot;ל, בוגר תוכנית המצוינות של אמ&quot;ן &#8211; חבצלות; ודניאל מאירוב, CTO, שהכירו ביחידה 8200. טסלר הוביל בעבר את תחום המוצר ב-Astrix Security, שנרכשה על ידי סיסקו, ומאירוב היה העובד הראשון ב-Sightfull והוביל בה את הפיתוח והמוצר. היום (ד') חושף הסטארטאפ סבב Seed של 11 מיליון דולר, בהובלת TLV Partners ובהשתתפות GTM Capital, Maple Capital ומשקיעי אנג'ל. טסלר אומר לנו כי הם עובדים כבר עכשיו עם מספר חברות Fortune 500.</p>
+<p>רונה שגב, מייסדת ושותפה-מנהלת ב-TLV Partners שהובילה את הגיוס, אמרה שתחום ה-AI Security Engineering הופך לאחריות מרכזית בצוותי אבטחת המידע של חברות גדולות, &quot;מי שנושאים באחריות הזו צריכים טכנולוגיה שנבנתה לקצב ולמורכבות של AI. הפלטפורמה של Vero משלבת מומחיות אבטחה, ביצוע רציף ואכיפה בזמן אמת, והיא נבנתה במיוחד לתחום החדש הזה&quot;.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.geektime.co.il/vero-raises-seed/">&quot;זה מקצוע חדש בפני עצמו&quot;: יוצאי 8200 גייסו 11 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.geektime.co.il/vero-raises-seed/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>חברת MongoDB רוכשת את הסטארטאפ הישראלי Firebolt</title>
 		<link>https://www.geektime.co.il/mongodb-acquires-firebolt/</link>
 					<comments>https://www.geektime.co.il/mongodb-acquires-firebolt/#respond</comments>
@@ -44,7 +82,7 @@
 					<description><![CDATA[<p>ענקית הדאטה האמריקאית MongoDB הודיעה היום (ג') כי תרכוש את הסטארטאפ הישראלי Firebolt, שמפתח מנוע לעיבוד דאטה עצום בזמן אמת. החברה האמריקאית נסחרת היום סביב שווי של כ-25 מיליארד דולר וזו הרכישה הראשונה שלה בישראל. בתגובה לרכישה אמר פרד רומא, סמנכ&#34;ל ההנדסה ב-MongoDB ש&#34;מנוע האנליטיקה של Firebolt הוכח בשטח&#34;. מושה פסומנסקי, סמנכ&#34;ל הטכנולוגיות של Firebolt, [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/mongodb-acquires-firebolt/">חברת MongoDB רוכשת את הסטארטאפ הישראלי Firebolt</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_596055" style="width: 1034px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-596055" class="size-large wp-image-596055" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-1536x1025.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-596055" class="wp-caption-text">תמונה: Jerzy Fischer</p></div>
+										<content:encoded><![CDATA[<div id="attachment_596055" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-596055" class="size-large wp-image-596055" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-1536x1025.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/MongoDB_NYC_Headquarters-Large.jpg 1619w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-596055" class="wp-caption-text">תמונה: Jerzy Fischer</p></div>
 <p>ענקית הדאטה האמריקאית <a href="https://www.geektime.co.il/tag/mongodb/">MongoDB</a> הודיעה היום (ג') כי תרכוש את הסטארטאפ הישראלי <a href="https://www.geektime.co.il/tag/firebolt/">Firebolt</a>, שמפתח מנוע לעיבוד דאטה עצום בזמן אמת. החברה האמריקאית נסחרת היום סביב שווי של כ-25 מיליארד דולר וזו הרכישה הראשונה שלה בישראל.</p>
 <p>בתגובה לרכישה אמר פרד רומא, סמנכ&quot;ל ההנדסה ב-MongoDB ש&quot;מנוע האנליטיקה של Firebolt הוכח בשטח&quot;. מושה פסומנסקי, סמנכ&quot;ל הטכנולוגיות של Firebolt, הוסיף כי המנוע נבנה עבור ענן כדי לספק &quot;אנליטיקה בשיהוי נמוך עם נתונים שמשתנים במהירות&quot;. בנג'מין וגנר, מנכ&quot;ל החברה הנרכשת, ציין שהחיבור הגיוני כי שתי החברות בונות תשתיות נתונים קריטיות עבור מהנדסים. לדוגמה, חברת Similarweb כבר משתמשת בטכנולוגיה הישראלית כדי לנתח טריליוני שורות בנפח של פטה-בייט. החברה הישראלית פעילה בתחום רווי מתחרות גדולות וחזקות כמו Snowflake ו-Databricks וכמובן ספקיות הענן מיקרוסופט, אמזון וגוגל.</p>
 <p>Firebolt הוקמה ב-2019 על ידי אלדד פרקש, סער ביטנר ואריאל ירושביץ. בעברה היא נחשבה לחד-קרן מבטיח והגיעה לשווי של 1.4 מיליארד דולר. אבל בשנים האחרונות היא עברה לא מעט טלטלות, כולל גלי פיטורים ועזיבת המייסדים את ההנהלה. סכום הרכישה לא פורסם רשמית, אבל על פי ההערכות הוא נמוך משמעותית משווי השיא של החברה, שגייסה עד היום כ-270 מיליון דולר.</p>
@@ -91,14 +129,14 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.geektime.co.il/newsbound-comes-out-of-stealth/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנטרים בחלל</title>
 		<link>https://www.geektime.co.il/ramon-space-raises-124m-series-b/</link>
-					<comments>https://www.geektime.co.il/ramon-space-raises-124m-series-b/#respond</comments>
+					<comments>https://www.geektime.co.il/ramon-space-raises-124m-series-b/#comments</comments>
 		
 		<dc:creator><![CDATA[עידן בן טובים]]></dc:creator>
 		<pubDate>Tue, 17 Nov 2026 13:00:43 +0000</pubDate>
@@ -113,7 +151,7 @@
 					<description><![CDATA[<p>בשנים האחרונות, עם הקשיים בהן נתקלות חברות ה-AI הגדולות, החל להתפתח הרעיון של הצבת דאטה סנטרים ולוויינים מיוחדים בחלל. אחד הסטארטאפים הישראלים הוותיקים בתחום הזה הוא Ramon.Space, שמפתח שבבים שיכולים לספק ביצועים של מערכות מחשוב על הקרקע &#8211; אבל בתנאים הבלתי אפשריים של החלל. היום (ג') הוא מכריז על מגה-גיוס מרשים. האם SpaceX כבר לקוחה? [&#8230;]</p>
 <p>The post <a href="https://www.geektime.co.il/ramon-space-raises-124m-series-b/">124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנטרים בחלל</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="attachment_596001" style="width: 1034px" class="wp-caption aligncenter"><img decoding="async" aria-describedby="caption-attachment-596001" class="size-large wp-image-596001" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-1024x682.jpg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-1024x682.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-596001" class="wp-caption-text">תמונה: Ramon.Space</p></div>
+										<content:encoded><![CDATA[<div id="attachment_596001" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-596001" class="size-large wp-image-596001" src="https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-1024x682.jpg" alt="" width="1024" height="682" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-1024x682.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/11/Ramon.Space-2.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-596001" class="wp-caption-text">תמונה: Ramon.Space</p></div>
 <p>בשנים האחרונות, עם הקשיים בהן נתקלות חברות ה-AI הגדולות, החל להתפתח הרעיון של הצבת דאטה סנטרים ולוויינים מיוחדים בחלל. אחד הסטארטאפים הישראלים הוותיקים בתחום הזה הוא Ramon.Space, שמפתח שבבים שיכולים לספק ביצועים של מערכות מחשוב על הקרקע &#8211; אבל בתנאים הבלתי אפשריים של החלל. היום (ג') הוא מכריז על מגה-גיוס מרשים.</p>
 <h2>האם SpaceX כבר לקוחה?</h2>
 <p><a href="https://www.geektime.co.il/tag/ramon.space/">Ramon.Space</a> מפתחת תשתיות מחשוב לחלל למשימות מסחריות וממשלתיות, המאפשרות עיבוד, אחסון והעברת נתונים על גבי לוויינים. המערכת משלבת תוכנה, מערכת מעבדים ייעודית, אחסון ומחשוב קצה המאפשר להעביר את עיבוד הנתונים אל הלוויין עצמו. על פי החברה, כל המערכת הזאת אמורה לספק ביצועים של מערכות מחשוב קרקעיות, אבל תוך כדי שהיא עומדת בתנאי קרינה, טמפרטורה ומגבלות הספק קיצוניות. אבי שבתאי, מנכ&quot;ל רמון ספייס (והאדם שעוד יופיע בפינת השמות של &quot;ארץ נהדרת&quot;), מסר לגיקטיים כי &quot;כחלק מהמירוץ הקיים היום, הענקיות צריכות רכיבים ומוצרים טכנולוגיים כדי לקדם תוכניות ענק, שמושקעים בהן מאות מיליארדי דולרים&#8230; במקום לפתח הכול בבית, חברות שמקימות דאטה סנטרים בחלל מחפשות את הפתרונות הקיימים הטובים ביותר בשוק, וזה מייצר לנו סינרגיות חזקות איתן&quot;.</p>
@@ -127,7 +165,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.geektime.co.il/ramon-space-raises-124m-series-b/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
@@ -1119,45 +1157,6 @@
 					
 					<wfw:commentRss>https://www.geektime.co.il/capitolis-major-new-funding-round/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר</title>
-		<link>https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/</link>
-					<comments>https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/#comments</comments>
-		
-		<dc:creator><![CDATA[יניב אביטל]]></dc:creator>
-		<pubDate>Thu, 01 Oct 2026 11:38:24 +0000</pubDate>
-				<category><![CDATA[גיוסי הון ואקזיטים]]></category>
-		<category><![CDATA[סטארטאפ והון סיכון]]></category>
-		<category><![CDATA[Inferize]]></category>
-		<category><![CDATA[Nebius]]></category>
-		<category><![CDATA[סטארטאפ]]></category>
-		<category><![CDATA[אקזיט]]></category>
-		<category><![CDATA[רכישה]]></category>
-		<guid isPermaLink="false">https://www.geektime.co.il/?p=592711</guid>
-
-					<description><![CDATA[<p>אחת הבעיות המוכרות והכואבות ביותר בהפעלה של LLM's בסביבות פרודקשן היא בעיית ההתנעה הקרה, המוכרת גם כ-Cold Start, כלומר, הזמן שלוקח למודל להיטען לפני שהוא בכלל מסוגל לעבד ולשרת את הבקשה הראשונה של המשתמש, מה שיוצר צוואר בקבוק משמעותי. בזמן ההמתנה הזה, מעבדי GPU חזקים ויקרים עומדים בפועל בלי שימוש. התופעה הזו מתרחשת בעיקר כשיש [&#8230;]</p>
-<p>The post <a href="https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/">סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="attachment_592729" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592729" class="size-large wp-image-592729" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-1024x683.jpg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-1024x683.jpg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-300x200.jpg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-768x512.jpg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-1536x1024.jpg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-398x265.jpg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash-793x529.jpg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/aerps-com-wjFOjA2zXy8-unsplash.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592729" class="wp-caption-text">תמונה: Unsplash</p></div>
-<p>אחת הבעיות המוכרות והכואבות ביותר בהפעלה של LLM's בסביבות פרודקשן היא בעיית ההתנעה הקרה, המוכרת גם כ-Cold Start, כלומר, הזמן שלוקח למודל להיטען לפני שהוא בכלל מסוגל לעבד ולשרת את הבקשה הראשונה של המשתמש, מה שיוצר צוואר בקבוק משמעותי. בזמן ההמתנה הזה, מעבדי GPU חזקים ויקרים עומדים בפועל בלי שימוש. התופעה הזו מתרחשת בעיקר כשיש קפיצות פתאומיות בביקוש שדורשות הקצאה של משאבים חדשים, או כשהמשקולות של המודל מתעדכנות תוך כדי תנועה, למשל בתהליכי למידת חיזוק. התוצאה היא שחברות ה-AI נאלצות להחזיק רזרבות גדולות של כוח מחשוב רק כדי להצליח לעמוד בזמנים וביעדי הביצועים שלהן. זה בדיוק מה שבא לתקן המוצר של חברת Inferize הישראלית, שעוד לא הספיקה ממש להיחשף, וכבר נרכשת.</p>
-<p>חברת הענן <a href="https://www.geektime.co.il/tag/nebius/">Nebius</a>, שנסחרת בנאסד&quot;ק ומתמחה בתשתיות AI, הודיעה היום (ה') על רכישתה של חברת Inferize. החברות לא פרסמו את סכום הרכישה, אולם על פי ההערכות הוא עשוי להגיע ל-150 מיליון דולר (כולל מענקים).</p>
-<h2>אבטיפוס פועל תוך 3 חודשים</h2>
-<p>חברת <a href="https://www.geektime.co.il/tag/inferize/">Inferize</a> פיתחה טכנולוגיה לאופטימיזציה של תהליכי אינפרנס והרצת מודלים, שמאפשרת לקצר דרסטית את הזמן הדרוש להשקה ולהתרחבות של מודלי AI גדולים. הפתרון שלהם הופך את עומסי העבודה לאלסטיים יותר, ככה שקיבולת המחשוב מותאמת טוב יותר לשימוש בפועל, מה שמשפר את כלכלת הטוקנים, שקובעת היום כמעט הכל בעולם הטכנולוגיה. הצוות של Inferize, שהוקמה רק בינואר 2026, הצליח להעמיד אבטיפוס עובד בתוך שלושה חודשים בלבד מההקמה.</p>
-<p>בעקבות הרכישה, הצוות והטכנולוגיה של אינפרייז ישולבו בתוך פלטפורמת Nebius Token Factory של נביוס.</p>
-<p>דנילה שטען, סמנכ&quot;ל הטכנולוגיות של חברת Nebius, התייחס לרכישה והסביר כי הרצה יעילה דורשת הרבה יותר מאשר רק מעבדים מהירים ומודלים שעברו אופטימיזציה. לדבריו, המערכת כולה צריכה לדעת כיצד להגיב לשינויים בביקוש, ו-Inferize מביאה איתה את הטכנולוגיה שמאיצה את התהליך הזה, יחד עם צוות הנדסה בעל מומחיות עמוקה במערכות GPU.</p>
-<div id="attachment_592756" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592756" class="size-large wp-image-592756" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-1536x1025.jpeg 1536w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1-793x529.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/Inferize-Group-3198-1.jpg-1.jpeg 1619w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592756" class="wp-caption-text">תמונה: Inferize</p></div>
-<p>גיא בורטניקוב, מייסד משותף ומנכ&quot;ל Inferize, הוסיף כי החזקת מעבדים רזרביים פועלים היא פשוט המחיר שחברות נאלצות לשלם כיום כדי להיות מוכנות לביקוש. הוא ציין כי המטרה שלשמה נבנתה החברה היא להסיר את העלות הזו בדיוק, והצוות יעבוד כעת עם מטרה אחת ברורה והיא לשרת כמה שיותר בקשות לקוחות מכל מעבד קיים.</p>
-<p>שחר צפריר, שותף-מנהל בקרן ההון סיכון TLV Partners, שהשקיעה בסבב הסיד (והיחיד) של החברה, אמר: ”לשמחתנו הכרנו את הצוות והם אותנו, בזכות השקעת הסיד שלנו בגרנולייט, ולכן הם בחרו בנו כמשקיעי הסיד שלהם. ידענו מה הם מסוגלים. כולם מבינים היום את הצורך בתשתיות אינפרנס ל-AI וכל שיפור בתחום חייוני לשחקנים הגדולים. זה נראה טריוויאלי. אבל צוות שמסוגל לפצח אתגר טכנולוגי כל כך מורכב ברמות העמוקות ביותר, ועם ערך כזה לשחקנים הגדולים, הוא נדיר בצורה יוצאת דופן. להגיע לאקזיט כזה שמונה חודשים בלבד מהקמת החברה זה הישג חריג ביותר, שממחיש את העוצמה והאיכות של היזמים והצוות המצוין שהם גייסו&quot;.</p>
-<div id="attachment_592724" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-592724" class="size-large wp-image-592724" src="https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-1024x683.jpeg" alt="" width="1024" height="683" srcset="https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-1024x683.jpeg 1024w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-300x200.jpeg 300w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-768x512.jpeg 768w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-398x265.jpeg 398w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM-793x529.jpeg 793w, https://cdn.geektime.co.il/wp-content/uploads/2026/10/INFERIZE-TEAM.jpeg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-592724" class="wp-caption-text">צוות Inferize. תמונה: Inferize</p></div>
-<p>חברת Inferize הוקמה בתחילת 2026, ע&quot;י גיא בורטניקוב (מנכ&quot;ל) וליאור גורבונוס (CTO), שהיו בין המקימים של Granulate שנמכרה לאינטל. החברה גייסה סיבוב סיד בהובלת TLV Partners ואנג'לים, ומעסיקה 17 עובדים במשרדיה בתל אביב.</p>
-<p>The post <a href="https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/">סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר</a> appeared first on <a href="https://www.geektime.co.il">גיקטיים</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/feed/</wfw:commentRss>
-			<slash:comments>6</slash:comments>
 		
 		
 			</item>
